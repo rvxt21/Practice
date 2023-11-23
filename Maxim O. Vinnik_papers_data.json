@@ -1,0 +1,66 @@
+{
+  "papers_info": {
+    "offset": 0,
+    "data": [
+      {
+        "paperId": "8682603e67d8ad3a4724a24824de28c11c7e1c50",
+        "corpusId": 217533368,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/8682603e67d8ad3a4724a24824de28c11c7e1c50",
+        "title": "ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ ВИКЛАДАЧІВ УНІВЕРСИТЕТУ ЯК ЕЛЕМЕНТ РОЗВИТКУ ІНФОРМАЦІЙНО-ОСВІТНЬОГО СЕРЕДОВИЩА УНІВЕРСИТЕТУ",
+        "abstract": "In the article the elements of building (construction) a modern information-educational environment on the example of Kherson State University are considered. The model information-educational environment, which is seen as a set of processes and activities is presented. One of the key elements of this environment, we believe (on our opinion), is the training of teachers of the university (is improvement of professional skill of university teachers). Professional work of the teacher (of each teacher) in the development of information and educational environment of the university guarantees the creation of the modern university. In the article the course program for teachers of university is presented, successful completion of which will enable teachers to more effectively use their professional needs in educational and research activities. DOI: https://doi.org/10.28925/2414-0325.2016.2.204-14",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "http://openedu.kubg.edu.ua/journal/index.php/openedu/article/download/47/87",
+          "status": null
+        },
+        "fieldsOfStudy": [
+          "Sociology"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Sociology",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": null,
+        "publicationDate": "2016-09-06",
+        "journal": {
+          "volume": "",
+          "pages": "204-214",
+          "name": ""
+        },
+        "authors": [
+          {
+            "authorId": "40107319",
+            "name": "Nataliya Kushnir"
+          },
+          {
+            "authorId": "152711454",
+            "name": "Nataliia Valko"
+          },
+          {
+            "authorId": "1692601414",
+            "name": "Maxim O. Vinnik"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "b15ba4020f1bede7d165245a214e35e975685596",
+            "title": "MONITORING OF THE TEACHER'S RATING INDICATORS FOR MAKING MANAGEMENT DECISIONS USING ICT"
+          }
+        ],
+        "references": []
+      }
+    ]
+  }
+}

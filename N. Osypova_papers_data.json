@@ -1,0 +1,1887 @@
+{
+  "papers_info": {
+    "offset": 0,
+    "data": [
+      {
+        "paperId": "3656fcdf46f9ea239b99e56da3817dcbe7d5c1e0",
+        "corpusId": 257330100,
+        "publicationVenue": {
+          "id": "8262d6af-eee2-46d5-8da9-39a55e8ea246",
+          "name": "International Journal for Quality Research",
+          "type": "journal",
+          "alternate_names": [
+            "Int J Qual Res",
+            "International Journal of Qualitative Research"
+          ],
+          "issn": "1800-6450",
+          "alternate_issns": [
+            "2798-6047"
+          ],
+          "url": "http://ijqr.net/",
+          "alternate_urls": [
+            "https://ojs.literacyinstitute.org/index.php/ijqr"
+          ]
+        },
+        "url": "https://www.semanticscholar.org/paper/3656fcdf46f9ea239b99e56da3817dcbe7d5c1e0",
+        "title": "IDENTIFICATION OF FACTORS FOR PROVIDING THE HIGHER EDUCATION QUALITY ASSURANCE FOR STUDENTS",
+        "abstract": null,
+        "venue": "International Journal for Quality Research",
+        "year": 2023,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": null,
+        "fieldsOfStudy": null,
+        "s2FieldsOfStudy": [
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": null,
+        "publicationDate": "2023-02-28",
+        "journal": {
+          "name": "International Journal for Quality Research"
+        },
+        "authors": [
+          {
+            "authorId": "145917112",
+            "name": "Vitaliy Kobets"
+          },
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          }
+        ],
+        "citations": [],
+        "references": []
+      },
+      {
+        "paperId": "67b4c8d5c0932c365f1b52d7c7b352465cd15e24",
+        "corpusId": 248027424,
+        "publicationVenue": {
+          "id": "1bf422f4-c939-4a31-83ae-cc64498002e4",
+          "name": "CTE",
+          "type": "conference",
+          "alternate_names": [
+            "International Conference Computational Thinking Education",
+            "Workshop Cloud Technol Educ",
+            "Int Conf Comput Think Educ",
+            "Workshop on Cloud Technologies in Education"
+          ],
+          "issn": "1402-4152",
+          "url": "https://cte.ccjournals.eu/"
+        },
+        "url": "https://www.semanticscholar.org/paper/67b4c8d5c0932c365f1b52d7c7b352465cd15e24",
+        "title": "ICT and current trends as a path to STEM education: implementation and prospects",
+        "abstract": "The aim of the study is to build a model for the introduction of STEM education in institutions of general secondary education, to demonstrate the experience of using ICT in STEM education. Research objectives: to determine the role and place of information and communication technologies in the model of introduction of STEM education in general secondary education institutions for the formation of key competencies; to find innovative solutions to create conditions that will promote the interest of student youth in the choice of STEM professions. Object of research: the model of the introduction of STEM education in institutions of general secondary education Subject of research: information and communication technologies in the model of introduction of STEM education in institutions of general secondary education as a component of the school educational environment. Analysis of scientific publications makes it possible to determine the role and place of ICT in the model of introduction of STEM education in general secondary education institutions. The presented experience of the systemic implementation of STEM education in general secondary education institutions allows the formation of professional competencies of teachers in the field of STEM education and can be useful in their professional activities. The study shows that the systemic implementation of STEM technologies in the educational process increases the effectiveness of training, the level of motivation of participants in the educational process and the quality of knowledge in the subjects of the natural science cycle, and also contributes to the formation of key competencies of students.",
+        "venue": "CTE",
+        "year": 2022,
+        "referenceCount": 48,
+        "citationCount": 8,
+        "influentialCitationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://acnsci.org/journal/index.php/cte/article/download/100/99",
+          "status": null
+        },
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2022-03-21",
+        "journal": {
+          "pages": "39-55"
+        },
+        "authors": [
+          {
+            "authorId": "2133109827",
+            "name": "Natalia S. Lukychova"
+          },
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          },
+          {
+            "authorId": "2025291349",
+            "name": "G. Yuzbasheva"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "0415db83135c725f34548453641331981df0ca92",
+            "title": "The International Space Station (ISS) Contest as STEM Educational Project"
+          },
+          {
+            "paperId": "b1db31265a44fd4c7430505a2890523a2ea6df6c",
+            "title": "Building Readiness of Future Natural Science Teachers for Professional Activities Using Stem Tools"
+          },
+          {
+            "paperId": "cb2838547b93d414209601b9366cb6c1a4adc3da",
+            "title": "Spatial self-efficacy and spatial ability: an analysis of their relationship"
+          },
+          {
+            "paperId": "fbf2793cd49b2d5d3550abc09fba67a53d1685a0",
+            "title": "Implementation of STEM learning technology in the process of calibrating an NTC thermistor and developing an electronic thermometer based on it"
+          },
+          {
+            "paperId": "f2b352812ed97bcfaa1b459f3719ebb56a03c4ed",
+            "title": "Redes sociales en la mejora del aprendizaje de las áreas STEM en educación secundaria"
+          },
+          {
+            "paperId": "dad62093bc0628658d11cfa7a37c149e8558a607",
+            "title": "Drawing on Augmented Reality to Develop STEM Competencies in Primary Education"
+          },
+          {
+            "paperId": "2c41ac1931c88b48fd7161cf554f80ae68affcde",
+            "title": "9th Workshop on Cloud Technologies in Education: Report"
+          },
+          {
+            "paperId": "be04134520761bdaa1e3890783c6027347f64c0b",
+            "title": "FINISHED SOFTWARE PRODUCTS IN TRAINING SPECIALISTS OF IT INDUSTRY"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "e0e015b59946f68d02d5301371c5dfd331695f4f",
+            "title": "Digital transformation in society: key aspects for model development"
+          },
+          {
+            "paperId": "f090ed714e0b7cc5814de4419ec067ab8b8346c3",
+            "title": "Quantum information technology on the Edge"
+          },
+          {
+            "paperId": "4695a8c72f4b451d888480325f9313ef11b8c32e",
+            "title": "Methodology of formation of modeling skills based on a constructive approach (on the example of GeoGebra)"
+          },
+          {
+            "paperId": "43711d7b302df6f3b0e7167dcc9c2043cc3971f5",
+            "title": "Ways to design a digital educational environment for K-12 education"
+          },
+          {
+            "paperId": "6afdfe57fff1747fdbc1e7977c2326058fd1e845",
+            "title": "Methodic quest: Reinventing the system"
+          },
+          {
+            "paperId": "860e34c1e1fe0a3b2f4a7a534e8c65fc7945717e",
+            "title": "Implementation of adaptive learning at higher education institutions by means of Moodle LMS"
+          },
+          {
+            "paperId": "27fc9d88d0d2f60d00989ce81e523890fc4d4893",
+            "title": "Application of GeoGebra in Stereometry teaching"
+          },
+          {
+            "paperId": "bc1ed2882c3d608bbe6645f901f0dcd4152c5449",
+            "title": "Analyzing of main trends of STEM education in Ukraine using stemua.science statistics"
+          },
+          {
+            "paperId": "e63d47adddb2dd23455c357499b6a25d5c240bd2",
+            "title": "Prospects of using the augmented reality application in STEM-based Mathematics teaching"
+          },
+          {
+            "paperId": "dc5dbd36e285d228993e9ad4689384007c53e73b",
+            "title": "STEM education to fulfil the 21st century demand: a literature review"
+          },
+          {
+            "paperId": "3eddd531e40b5dbd6ed114c37b6400326d2f9de3",
+            "title": "TODOS as digital science-support environment to provide STEM-education"
+          },
+          {
+            "paperId": "22e074c1fcd3837aa9dbf7340f36633b9439fd6a",
+            "title": "Using the e-learning course \"Analytic Geometry\" in the process of training students majoring in Computer Science and Information Technology"
+          },
+          {
+            "paperId": "e36c1262cacc4db3732b6222079132f2018ede25",
+            "title": "Informatization of education as a pledge of the existence and development of a modern higher education"
+          },
+          {
+            "paperId": "20bf5265b276815f6eec49183a6c12c49a407144",
+            "title": "Google Classroom as a Tool of Support of Blended Learning for Geography Students"
+          },
+          {
+            "paperId": "cc868868231916b1629ebd51fd114c24db6bbf06",
+            "title": "Educational Model and Practice of STEM Education+Creator"
+          },
+          {
+            "paperId": "426b5c2c9657482058ba4c3173e72102bf25fcf1",
+            "title": "Educational robotics as a prospective trend in stem-education development"
+          },
+          {
+            "paperId": "df4f6703dc3a214592ce07fc7a5266ee3230af29",
+            "title": "MODEL OF ORGANIZATION OF THE UNIVERSITY ECOSYSTEM FOR THE DEVELOPMENT OF STEM-EDUCATION"
+          },
+          {
+            "paperId": "078527f343c1b2d42b431d77f695c3521a27dc6b",
+            "title": "Augmented Reality and the Prospects for Applying Its in the Training of Future Engineers"
+          },
+          {
+            "paperId": "ce6e1e36a6c1fbc40dca458f225491df9ac2a6a1",
+            "title": "The Potential of Using Google Expeditions and Google Lens Tools under STEM-education in Ukraine"
+          },
+          {
+            "paperId": "19a5fc3b056cb280605b3ea3260034d1b1a7c758",
+            "title": "The Problems of Personnel Training for STEM Education in the Modern Innovative Learning and Research Environment"
+          },
+          {
+            "paperId": "60c7776e9ec1f4b40ad4788665f51666b86281e8",
+            "title": "ФОРМУВАННЯ КЛЮЧОВИХ І ПРЕДМЕТНИХ КОМПЕТЕНТНОСТЕЙ УЧНІВ РОБОТОТЕХНІЧНИМИ ЗАСОБАМИ STEM-ОСВІТИ"
+          },
+          {
+            "paperId": "e3d642b4316b6612ec2a10ca85517524b97df4b9",
+            "title": "A Brief History of STEM and STEAM from an Inadvertent Insider"
+          },
+          {
+            "paperId": "be320233eb0dda350c8fdadf93075282e602bc48",
+            "title": "Study of Information Search Systems of the Internet"
+          },
+          {
+            "paperId": null,
+            "title": "Single Board Computer"
+          },
+          {
+            "paperId": "47862ff5e8bafbea0d5f4035129a6d0d239db20b",
+            "title": "Augmented reality as a part of STEM lessons"
+          },
+          {
+            "paperId": "6ee8cbee3b0fea3a2310ffe7e5b0ade04a19ccf2",
+            "title": "Mobile technologies providing educational activity during classes"
+          },
+          {
+            "paperId": "9d623f29bce4cb63f4d62c8f1c1d808b47398073",
+            "title": "Review of the course \"Development of Virtual and Augmented Reality Software\" for STEM teachers: implementation results and improvement potentials"
+          },
+          {
+            "paperId": "e66c16cdeecb23d8e6a638dab79686a8f7ec3861",
+            "title": "360° Photographic Panoramas as an Effective Multifunctional Aid for Teaching Technology Subjects"
+          },
+          {
+            "paperId": "cfcd80f043c1a58993ddf5b6ff687e534612d95d",
+            "title": "Using Personal Smart Tools in STEM Education"
+          },
+          {
+            "paperId": "926bc553b48056befa40c1ac9648da308706d261",
+            "title": "Build a Technology for Mass Organization of Distance Learning for Pupils in Quarantine"
+          },
+          {
+            "paperId": "c6c74bdd8a2bbda092cbf0c368402094349bc055",
+            "title": "Model of the Competences in Educational Robotics"
+          },
+          {
+            "paperId": "b93be35661d7d3a49038ca7433e5535a3b0948e1",
+            "title": "Methodology of M. Montessori as the Basis of Early Formation of STEM Skills of Pupils"
+          },
+          {
+            "paperId": "7ed5169e0fd22a997c4ac4bf7b5ef6ee605fb81b",
+            "title": "Augmented and Virtual Reality Technologies in Teacher Retraining"
+          },
+          {
+            "paperId": null,
+            "title": "The best augmented reality applications for student research"
+          },
+          {
+            "paperId": null,
+            "title": "Methodical recommendations for the development of STEM-education in general secondary and out-of-school education institutions in the 2020/2021 academic year"
+          },
+          {
+            "paperId": null,
+            "title": "DaVinci’s footsteps, 2020. URL: https://naurok.com.ua/ stem-vesna-ideya-davinci-s-footsteps-kvest-slidami-da-vinchi-167765.html"
+          },
+          {
+            "paperId": "2cc7d8c17f7c9e1e4de61ca80a0171d749ab9244",
+            "title": "The blended Methodology of Learning Computer Networks: Cloud-based Approach"
+          },
+          {
+            "paperId": "6dbc3a31635ad2cd034f8385624b95bd498a378c",
+            "title": "Technologies of Virtual and Augmented Reality for High Education and Secondary School"
+          },
+          {
+            "paperId": null,
+            "title": "Implementation of STEM-education in terms of integration of formal and informal education of gifted students: guidelines"
+          },
+          {
+            "paperId": null,
+            "title": "Integrated STEM education models"
+          },
+          {
+            "paperId": null,
+            "title": "The role of SELFIE in the Erasmus+ project 'STEM in Education"
+          },
+          {
+            "paperId": null,
+            "title": "7 benefits of STEM education"
+          },
+          {
+            "paperId": null,
+            "title": "Formation of key and subject competences of students by robotic kits of STEM-education"
+          },
+          {
+            "paperId": null,
+            "title": "The Definition of STEM and Key Features of STEM Education Learning Activity"
+          },
+          {
+            "paperId": null,
+            "title": "Inclusive STEM Education to Enhance the capacity to aspire and imagine future careers"
+          },
+          {
+            "paperId": null,
+            "title": "Modernization of training system of STEM-courses of study as the methodical problem"
+          },
+          {
+            "paperId": "aa585f12f6286c6be9e48533640e1eb28b9e10ea",
+            "title": "Public Information Environment of a Modern University"
+          },
+          {
+            "paperId": null,
+            "title": "HaloCode –"
+          }
+        ]
+      },
+      {
+        "paperId": "7e2304892f5b67f4fbd5d0466d12128771aa8e4a",
+        "corpusId": 246626046,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/7e2304892f5b67f4fbd5d0466d12128771aa8e4a",
+        "title": "Teachers' training for the use of digital tools of the formative assessment in the implementation of the concept of the New Ukrainian School",
+        "abstract": "The article deals with teachers’ training to the use of digital tools of formative assessment. The authors analyze a number of legal documents in the field of education, which emphasize the introduction of formative assessment in the practice of assessment of primary and basic school pupils. Formative assessment is defined as the assessment to identify learning needs and traces each student’s progress, it is carried out on a constant basis and aims to support, stimulate, motivate to learn. The important features of this type of evaluation are criterion, interactivity, consistency. The components of formative assessment are peer assessment, self-assessment, observation, development of logic goals and criteria for their achievement, feedback.The programme of advanced training for teachers of different profiles, deputy heads of educational work on the topic ``Theory and Practice of Application of Formative Assessment at a Primary School'' was presented. The experience of such programme in advanced training courses at Municipal Higher Educational Establishment “Kherson Academy of Continuing Education of Kherson Regional Council” is presented.The authors describe a pedagogical experiment conducted on the basis of Municipal Higher Educational Establishment “Kherson Academy of Continuing Education of Kherson Regional Council” on the use of digital tools during formative assessment. The experiment covered 162 primary school teachers who were trained under that program. During the practical classes, teachers worked with such digital tools as MentiMeter, Plickers, Kahoot, Poll Everywhere. The results of the survey showed the relevance of the course and the need for its implementation in postgraduate pedagogical education for teachers who will teach at the New Ukrainian School.",
+        "venue": "Educational Technology Quarterly",
+        "year": 2022,
+        "referenceCount": 53,
+        "citationCount": 20,
+        "influentialCitationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://acnsci.org/journal/index.php/etq/article/download/11/18",
+          "status": null
+        },
+        "fieldsOfStudy": null,
+        "s2FieldsOfStudy": [
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "Review"
+        ],
+        "publicationDate": "2022-02-05",
+        "journal": {
+          "name": "Educational Technology Quarterly"
+        },
+        "authors": [
+          {
+            "authorId": "2130124525",
+            "name": "Irina Zhorova"
+          },
+          {
+            "authorId": "2091683661",
+            "name": "O. Kokhanovska"
+          },
+          {
+            "authorId": "121527904",
+            "name": "O. Khudenko"
+          },
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          },
+          {
+            "authorId": "87595881",
+            "name": "O. Kuzminska"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "2557b383909f34c23a7bc82b422c4b24d8982643",
+            "title": "Technologization of sudden cardiac death prevention based on the disciplinary-methodological matrix of health-preserving competence"
+          },
+          {
+            "paperId": "ce290ee82559bd05cedc8605dcf2c616e054d25d",
+            "title": "Substantiation of the sustainable education terms as one of the modern views on STEM education taking to account the European experience"
+          },
+          {
+            "paperId": "ffe02d2ab8cd2485d591d7d095b736c42d41f1e6",
+            "title": "Internet resources for foreign language education in primary school: challenges and opportunities"
+          },
+          {
+            "paperId": "46438309dd50d39e393e5369230608d1fedfd9fb",
+            "title": "Unleashing the Potential: A Systematic Review of Teachers’ Perspectives on Enhancing Teaching Practices through Digital Tools"
+          },
+          {
+            "paperId": "778b670562bb7fd4cda78c58c1510a4ab8a35ced",
+            "title": "EFL learners’ motivation in a gamified formative assessment: The case of Quizizz"
+          },
+          {
+            "paperId": "5990e58b4f2d0bfa86b279d00e8462549bbe8b80",
+            "title": "Digital approach in pedagogy and psychology of the future: trends, globalization challenges"
+          },
+          {
+            "paperId": "30329d9da1acd265ec3ea23a46aa5a34483b2baa",
+            "title": "Enhancing German language learning through interactive tools"
+          },
+          {
+            "paperId": "49252089cfc0e772be777343edf4780a489a2fa4",
+            "title": "Professional Competence of Prospective Elementary School Teachers in Designing Lesson Plans Integrating Project-Based Learning Models and TPACK"
+          },
+          {
+            "paperId": "21a9be2e411aecbe3bd33bba9f48ca720890e1a4",
+            "title": "ACNS Conference on Cloud and Immersive Technologies in Education: Report"
+          },
+          {
+            "paperId": "ada2e4019e4428b3df56d9d837b2d88c92ad3f62",
+            "title": "Socrative as Online Formative Assessment to Foster Reading Comprehension"
+          },
+          {
+            "paperId": "3ca91cec8d53e35a9025f424bcec49070ec8fb55",
+            "title": "Some aspects of the use of cloud computing in the training of physics teachers"
+          },
+          {
+            "paperId": "d15603ec2a6f86816dd7fbfe55bba8e50a8d84aa",
+            "title": "Educational direction of STEM in the system of realization of blended teaching of physics"
+          },
+          {
+            "paperId": "cb4b07699bf8be1ce69eeb976537e1ac26bdbb1c",
+            "title": "Application of cloud computing in the process of professional training of physics teachers"
+          },
+          {
+            "paperId": "738d2251a510c9fe97948c3fc92495d99bd9b674",
+            "title": "Practice of applying functional approach to the design of digital learning aids"
+          },
+          {
+            "paperId": "4ffb47f3c19cd678691dcd5ee34b5d623d643b2a",
+            "title": "Digital Formats of Learning Outcomes Assessment in the COVID-19 Paradigm: Survey Study"
+          },
+          {
+            "paperId": "531dc01742981536d3cb6c3f883c648f6663dda9",
+            "title": "Creation and Development of the Digital Learning Environment in Educational Institutions"
+          },
+          {
+            "paperId": "a34c6a8afe6eb3ddc5196fe8bca025cc0180e634",
+            "title": "New educational space in New Ukrainian School"
+          },
+          {
+            "paperId": "820dfccb4b3322d6f2abf51c84c3d6c5d258f82e",
+            "title": "PLEASE NOTE! THIS IS PARALLEL PUBLISHED VERSION / SELF-ARCHIVED VERSION OF THE OF THE ORIGINAL ARTICLE"
+          },
+          {
+            "paperId": "65335bc21c81a4fefe50556e53a4aa7241d0bdde",
+            "title": "Features and Results of Learning Cloud Technologies by the Teachers for the Organization of the Educational Process in Quarantine"
+          },
+          {
+            "paperId": "2a63e000ebc0fb8994a33da34ea7206d76ab5f45",
+            "title": "Digital Tools for Designing Interactive Tasks for Teaching German and Analyzing Learners' Performance"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "15c79a65b769ebeb201df9d8bb6ce1f013839672",
+            "title": "Modeling of the Adaptive System of Individualization and Personalization of Future Specialists' Professional Training in the Conditions of Blended Learning"
+          },
+          {
+            "paperId": "c6f5ee69a05a6c386275226849ae6dd0abb25df1",
+            "title": "Improving the learning environment for future mathematics teachers with the use application of the dynamic mathematics system GeoGebra AR"
+          },
+          {
+            "paperId": "e0e015b59946f68d02d5301371c5dfd331695f4f",
+            "title": "Digital transformation in society: key aspects for model development"
+          },
+          {
+            "paperId": "340fa84ee2c40dea229907e618832be16f7cfd1b",
+            "title": "8th Workshop on Cloud Technologies in Education: Report"
+          },
+          {
+            "paperId": "393a15ab0f7522d0ab961c738b1c452a8af9bc14",
+            "title": "Some experience in maintenance of an academic cloud"
+          },
+          {
+            "paperId": "43711d7b302df6f3b0e7167dcc9c2043cc3971f5",
+            "title": "Ways to design a digital educational environment for K-12 education"
+          },
+          {
+            "paperId": "4f3c49169d2b5ecbce463d200871486e6aed624d",
+            "title": "Features of distance learning of cloud technologies for the organization educational process in quarantine"
+          },
+          {
+            "paperId": "860e34c1e1fe0a3b2f4a7a534e8c65fc7945717e",
+            "title": "Implementation of adaptive learning at higher education institutions by means of Moodle LMS"
+          },
+          {
+            "paperId": "1d5922e3e952769f79c2db14fec15de15a39b2ac",
+            "title": "Inclusive education in Ukraine"
+          },
+          {
+            "paperId": "4d51baadd645384bcb8a92579cd76095dab92f0d",
+            "title": "ICT Evolution: from Single Computational Tasks to Modeling of Life"
+          },
+          {
+            "paperId": "baa925dd85714074027444720e91c9fe32fd51c2",
+            "title": "Formative assessment at university through digital technology tools"
+          },
+          {
+            "paperId": "b2f038085f4c7cd5e2070a0bfb6c389cf6938e02",
+            "title": "Using Socrative and Smartphones for the support of collaborative learning"
+          },
+          {
+            "paperId": "d524a7528c1071d6f208693310096782e66d87c7",
+            "title": "Inside the Black Box: Raising Standards through Classroom Assessment"
+          },
+          {
+            "paperId": "395e4c9473c7048c8a9a8012d0e084e6c5c852dc",
+            "title": "Generating dialogue in assessment feedback: exploring the use of interactive cover sheets"
+          },
+          {
+            "paperId": "16384509d1dbe3d293446f58e8d7af12c2d85738",
+            "title": "A Review of Research Methodologies Used in Studies on Mobile Handheld Devices in K-12 and Higher Education Settings."
+          },
+          {
+            "paperId": "33926e93ee0e81a8a171bf2104e406eff42dd75c",
+            "title": "Non-directive teaching and the humanization of the educational process"
+          },
+          {
+            "paperId": "982e7190b195aa2781e7719155a9918b6c4851bf",
+            "title": "The Pedagogy of Cooperation: Report on a Meeting of Teacher-Experimenters"
+          },
+          {
+            "paperId": "642523ad0e4787cfc714c080bccd5494e76774d2",
+            "title": "Some Problems in People's Cognitive Awareness of one Another under Conditions of Modern Production"
+          },
+          {
+            "paperId": "46d1690ab8b74d2de41a5dc2bd0a0477e11d598d",
+            "title": "Teaching: The problem-solving approach"
+          },
+          {
+            "paperId": "e35932ca1d679a9b6d89210bb6222cb86771f32b",
+            "title": "Course Improvement through Evaluation"
+          },
+          {
+            "paperId": "0a86eb8460eb43992def985c153b72ac4b108c54",
+            "title": "Urgent Problems of the Theory and Practice of Education"
+          },
+          {
+            "paperId": "19fb2a7f5ad2e72ff87cb49aecea1e1c09c6d0d0",
+            "title": "The Experience of Using Cloud Labs in Teaching Linux Operating System"
+          },
+          {
+            "paperId": "3e44abcf4a8e85ce92380690d74eb61eca03bca9",
+            "title": "CONCEPTUAL PRINCIPLES OF DEVELOPMENT ADAPTIVE SYSTEM OF INDIVIDUALIZATION AND PERSONALIZATION OF PROFESSIONAL TRAINING FOR FUTURE SPECIALISTS IN THE CONDITIONS OF BLENDED LEARNING"
+          },
+          {
+            "paperId": null,
+            "title": "About the statement of methodical recommendations concerning an estimation of results of training of pupils of 1-4 classes of establishments of general secondary education"
+          },
+          {
+            "paperId": "b86f5f00a0b41d3f2822cbab2af9f25c7870d5ef",
+            "title": "Conceptual Aspects of Interpreter Training Using Modern Simultaneous Interpretation Technologies"
+          },
+          {
+            "paperId": "234c85e44ceaed532b1f869e9ee08d44a784d46b",
+            "title": "Current state and prospects of distance learning development in Ukraine"
+          },
+          {
+            "paperId": "16f5c8f18299ce56eec2cc1a77f24ec05dd4973f",
+            "title": "AREdu 2021 - Immersive technology today"
+          },
+          {
+            "paperId": "9d623f29bce4cb63f4d62c8f1c1d808b47398073",
+            "title": "Review of the course \"Development of Virtual and Augmented Reality Software\" for STEM teachers: implementation results and improvement potentials"
+          },
+          {
+            "paperId": "fc6cf8bd1f9d0aead027a7418b8c9d65ec79c989",
+            "title": "Selection of online tools for creating math tests"
+          },
+          {
+            "paperId": "7d96c5a347f8c37fa2a966e6b7d34ad96fdc391e",
+            "title": "Development of Professional Competence of Primary School Teachers of the New Ukrainian School in the Aspect of Foreign Language Teaching"
+          },
+          {
+            "paperId": "5ab03fef00da20c74eb4f3f6ba9fb95e51a3420d",
+            "title": "Cloud-oriented environment for flipped learning of the future IT specialists"
+          },
+          {
+            "paperId": "9647e497daafe9b4f30392be0f412046ab2f5042",
+            "title": "Using Mobile ICT for Online Learning During COVID-19 Lockdown"
+          },
+          {
+            "paperId": null,
+            "title": "On Complete General Secondary Education"
+          },
+          {
+            "paperId": "8ed11fdb88ebd063dba23743d48ee7ed4877e968",
+            "title": "Applied Technology of Fiction and Non-fiction Conceptual Presentation via ICT Tools: Pedagogical Function of Graphic Mimesis"
+          },
+          {
+            "paperId": "c6c74bdd8a2bbda092cbf0c368402094349bc055",
+            "title": "Model of the Competences in Educational Robotics"
+          },
+          {
+            "paperId": "926bc553b48056befa40c1ac9648da308706d261",
+            "title": "Build a Technology for Mass Organization of Distance Learning for Pupils in Quarantine"
+          },
+          {
+            "paperId": "43f0a978b7055effd165f50c08008435609bfec9",
+            "title": "The Digital Capabilities Model of University Teachers in the Educational Activities Context"
+          },
+          {
+            "paperId": "7ed5169e0fd22a997c4ac4bf7b5ef6ee605fb81b",
+            "title": "Augmented and Virtual Reality Technologies in Teacher Retraining"
+          },
+          {
+            "paperId": "ce0bce002dca0fe03881ed24025df63af353c111",
+            "title": "Personalized and Adaptive ICT-Enhanced Learning: A Brief Review of Research from 2010 to 2019"
+          },
+          {
+            "paperId": null,
+            "title": "Personality sense transformation of the professional activity of practical psychologists with different behavior strategies"
+          },
+          {
+            "paperId": null,
+            "title": "Methodical corner: 100 ideas and 22 tools for formative assessment"
+          },
+          {
+            "paperId": "d1ae3e3110dab6a950b1c0fe090293af6d34e87e",
+            "title": "Attitude to the Digital Learning Environment in Ukrainian Universities"
+          },
+          {
+            "paperId": "2cc7d8c17f7c9e1e4de61ca80a0171d749ab9244",
+            "title": "The blended Methodology of Learning Computer Networks: Cloud-based Approach"
+          },
+          {
+            "paperId": null,
+            "title": "The New Ukrainian School: conceptual principles of secondry school reform"
+          },
+          {
+            "paperId": "0e11f436bad5682800c2ed6c0a2962f93b970e45",
+            "title": "Information and Communication Technologies in Education, Research, and Industrial Applications"
+          },
+          {
+            "paperId": null,
+            "title": "Plickers service as a tool for formative assessment of educational results in English lessons"
+          },
+          {
+            "paperId": null,
+            "title": "Seven strategies of assessment for learning"
+          },
+          {
+            "paperId": "aa585f12f6286c6be9e48533640e1eb28b9e10ea",
+            "title": "Public Information Environment of a Modern University"
+          },
+          {
+            "paperId": null,
+            "title": "Assessment in higher education. International encyclopedia of education"
+          },
+          {
+            "paperId": null,
+            "title": "The content of school education in the European Union: theory and practice (second half of XX - early XXI century)"
+          },
+          {
+            "paperId": null,
+            "title": "Give Me a Schooll”: From the Transcript of a Televised Get-together at Ostankino"
+          },
+          {
+            "paperId": "c193c32a5e42d0290c89ab42bb98b48aa2e09e5e",
+            "title": "Higher education"
+          },
+          {
+            "paperId": "ed270b483ec6f41ad42d2e75ff893ffce69f9cea",
+            "title": "Handbook On Formative and Summative Evaluation of Student Learning"
+          }
+        ]
+      },
+      {
+        "paperId": "c6f5ee69a05a6c386275226849ae6dd0abb25df1",
+        "corpusId": 235748813,
+        "publicationVenue": {
+          "id": "4dc5ff56-12a1-4a31-b046-1f9abffe1d3b",
+          "name": "International Workshop on Augmented Reality in Education",
+          "type": "conference",
+          "alternate_names": [
+            "AREdu",
+            "Int Workshop Augment Real Educ"
+          ]
+        },
+        "url": "https://www.semanticscholar.org/paper/c6f5ee69a05a6c386275226849ae6dd0abb25df1",
+        "title": "Improving the learning environment for future mathematics teachers with the use application of the dynamic mathematics system GeoGebra AR",
+        "abstract": "Immersive technologies and, in particular, augmented reality (AR) are rapidly changing the sphere of education, especially in the field of science, technology, engineering, arts and mathematics. High- quality professional training of a future mathematics teacher who is able to meet the challenges that permeate all sides, the realities of the globalizing information society, presupposes reliance on a highly effective learning environment. The purpose of the research is to transform the traditional educational environment for training future mathematics teachers with the use of the GeoGebra AR dynamic mathematics system, the introduction of cloud technologies into the educational process. The educational potential of GeoGebra AR in the system of professional training of future mathematics teachers is analyzed in the paper. Effective and practical tools for teaching mathematics based on GeoGebra AR using interactive models and videos for mixed and distance learning of students are provided. The advantages of the GeoGebra AR dynamic mathematics system are highlighted. The use of new technologies for the creation of didactic innovative resources that improve the process of teaching and learning mathematics is presented on the example of an educational and methodological task, the purpose of which is to create didactic material on the topic “Sections of polyhedra”. While solving it, future teachers of mathematics should develop the following constituent elements: video materials; test tasks for self-control; dynamic models of sections of polyhedra; video instructions for constructing sections of polyhedra and for solving basic problems in the GeoGebra AR system. The article highlights the main characteristics of the proposed educational environment for training future mathematics teachers using the GeoGebra AR dynamic mathematics system: interdisciplinarity, polyprofessionalism, dynamism, multicomponent.",
+        "venue": "International Workshop on Augmented Reality in Education",
+        "year": 2021,
+        "referenceCount": 122,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2021-07-06",
+        "journal": {
+          "pages": "178-196"
+        },
+        "authors": [
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          },
+          {
+            "authorId": "2117668656",
+            "name": "Volodimir I. Tatochenko"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "4cab128e579b360e3f51acf870c431c3c01e33b9",
+            "title": "Application of GeoGebra in the Teaching of Descriptive Geometry: Sections of Solids"
+          },
+          {
+            "paperId": "2c41ac1931c88b48fd7161cf554f80ae68affcde",
+            "title": "9th Workshop on Cloud Technologies in Education: Report"
+          },
+          {
+            "paperId": "7e2304892f5b67f4fbd5d0466d12128771aa8e4a",
+            "title": "Teachers' training for the use of digital tools of the formative assessment in the implementation of the concept of the New Ukrainian School"
+          },
+          {
+            "paperId": "278199bcd00ebb707c792923d1f706c08a8268e1",
+            "title": "CRITERIA AND INDICATORS FOR ASSESSING THE QUALITY OF EDUCATIONAL OBJECTS OF AUGMENTED REALITY IN PHYSICS TEXTBOOKS"
+          },
+          {
+            "paperId": "217c6254b4a93eff5f850fd3246361126795028d",
+            "title": "The effectiveness of teaching via constructed examples by using GeoGebra software in learning high school geometry theorems"
+          },
+          {
+            "paperId": "9c3bd705c6e9f38e6936ddc26138e8015e33a88c",
+            "title": "Using of augmented reality technology in the process of training future teachers during the study of mathematical disciplines"
+          },
+          {
+            "paperId": "16f5c8f18299ce56eec2cc1a77f24ec05dd4973f",
+            "title": "AREdu 2021 - Immersive technology today"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "2af70d6f6cda9ad84e264cce7a7dc54b2babec85",
+            "title": "Emanant themes of blended learning in K-12 educational environments: Lessons from the Every Student Succeeds Act"
+          },
+          {
+            "paperId": "4695a8c72f4b451d888480325f9313ef11b8c32e",
+            "title": "Methodology of formation of modeling skills based on a constructive approach (on the example of GeoGebra)"
+          },
+          {
+            "paperId": "45baf4603139c8bc04394352360ddc123591ac3f",
+            "title": "Implementation of future agricultural engineers' training technology in the informational and educational environment"
+          },
+          {
+            "paperId": "43711d7b302df6f3b0e7167dcc9c2043cc3971f5",
+            "title": "Ways to design a digital educational environment for K-12 education"
+          },
+          {
+            "paperId": "6afdfe57fff1747fdbc1e7977c2326058fd1e845",
+            "title": "Methodic quest: Reinventing the system"
+          },
+          {
+            "paperId": "75967240378b7402f44b395a8d0d6dc3e2f55345",
+            "title": "The formation of educational environment in foreign language training of energy engineering students by means of project technology"
+          },
+          {
+            "paperId": "86e6ec26ab68464162a04418dd0baba0d8a1806d",
+            "title": "Shift from blended learning to distance one during the lockdown period using Moodle: test control of students’ academic achievement and analysis of its results"
+          },
+          {
+            "paperId": "0c5a0fd8d52ddb037e1d3c0ee5cbd6e29feda3fe",
+            "title": "Problems and prospects of distance learning in teaching fundamental subjects to future Mathematics teachers"
+          },
+          {
+            "paperId": "7a79139d7c8c5e16829e06271528d8d82040e080",
+            "title": "Some applications of cloud technologies in mathematical calculations"
+          },
+          {
+            "paperId": "0300ca0eea79e6cac5abc332a0b29af8df67d39a",
+            "title": "Participatory methods to support knowledge management systems design in educational environments"
+          },
+          {
+            "paperId": "bf435eb79ca21779ff15726057fc58b23e552874",
+            "title": "Reflections as 2020 comes to an end: the editing and educational environment during the COVID-19 pandemic, the power of Scopus and Web of Science in scholarly publishing, journal statistics, and appreciation to reviewers and volunteers"
+          },
+          {
+            "paperId": "8d4110efeafdcfada115cbf53a3047d8743f0fec",
+            "title": "AREdu 2020 - How augmented reality helps during the coronavirus pandemic"
+          },
+          {
+            "paperId": "173ecbf3521d38e8bb40bd141e410c30a2066a8f",
+            "title": "Distance learning as innovation technology of school geographical education"
+          },
+          {
+            "paperId": "95e2ed110ccc36eafa521c5d4bbb9cd3af514fa3",
+            "title": "Google glass adoption in the educational environment: A case study in the Gulf area"
+          },
+          {
+            "paperId": "b11483932671f20dbcccf9b19018f211c4cd1729",
+            "title": "The Formation of Intercultural Communicative Competence of Future Teachers in a Trilingual Educational Environment"
+          },
+          {
+            "paperId": "820a621148714cec1ddd12a5a07d92ed1a64bfc9",
+            "title": "Theory of mind goes to school: Does educational environment influence the development of theory of mind in middle childhood?"
+          },
+          {
+            "paperId": "12513efb25583501d714b2ec89a84a31a4bb72eb",
+            "title": "Active Learning Augmented Reality for STEAM Education—A Case Study"
+          },
+          {
+            "paperId": "a159ad6a90368de9f92527e067c32de6dedf887e",
+            "title": "Intelligent Control of Negative Emotions in a Computer-Based Learning System"
+          },
+          {
+            "paperId": "6b99638a81f27ce9a29b5c249a3aa06c046cc532",
+            "title": "Exploring Real World Environments using Potential of GeoGebra AR"
+          },
+          {
+            "paperId": "c6c8c1c802196dd9510782c2d6e25e5a2270bd82",
+            "title": "Developing social and civic competence in secondary education through the implementation and evaluation of teaching units and educational environments"
+          },
+          {
+            "paperId": "72878bb80538b564c45236ac8345726df04c460e",
+            "title": "Augmented Reality as a Didactic Resource for Teaching Mathematics"
+          },
+          {
+            "paperId": "00ab5e8a054d5022cf1baf1158cff5b718afb91e",
+            "title": "Design An Optimum Climate Control System For Efficient Smart Universities Educational Environment."
+          },
+          {
+            "paperId": "12f39b213519c8c726aff3a8fff01015b8d4e6df",
+            "title": "Technologies of distance learning for programming basics on the principles of integrated development of key competences"
+          },
+          {
+            "paperId": "27fc9d88d0d2f60d00989ce81e523890fc4d4893",
+            "title": "Application of GeoGebra in Stereometry teaching"
+          },
+          {
+            "paperId": "df6ad66451e8da1a48b7c675853567125f84e78a",
+            "title": "Exploring Students' Perceptions of the Educational Environment in a Caribbean Veterinary School: A Cross-Sectional Study."
+          },
+          {
+            "paperId": "03234c2236c05e85dab5eb08e376919318a873a3",
+            "title": "Assessing the effects of the nursing education reform on the educational environment in Tajikistan: a repeated cross-sectional analysis"
+          },
+          {
+            "paperId": "a64bada4d2fd159805a65f2b3dc7b94b7a5781a0",
+            "title": "AREdu 2019 - How augmented reality transforms to augmented learning"
+          },
+          {
+            "paperId": "cb348708d9df43495b0e02887f0b8934d176ab83",
+            "title": "The didactic potential of virtual information educational environment as a tool of geography students training"
+          },
+          {
+            "paperId": "1c9ed335f282689a81831bbe33075bd023ef174d",
+            "title": "Exploring the Utilization of the Big Data Revolution as a Methodology for Exploring Learning Strategy in Educational Environments"
+          },
+          {
+            "paperId": "32174a7e2a93437190c552bd56ff2ed6698f34a3",
+            "title": "E-learning educational atmosphere measure (EEAM): a new instrument for assessing e-students’ perception of educational environment"
+          },
+          {
+            "paperId": "c4f53e7d8a458b3afb1390e2ba3849aa5cf92e82",
+            "title": "Political socialization and the coach-created educational environment of competitive games: the case of grassroots youth soccer in Sweden"
+          },
+          {
+            "paperId": "a32bc739fa1b51e9c742581a48f95276065ae941",
+            "title": "Moroccan residents’ perceptions of the hospital learning environment measured with the French version of the Postgraduate Hospital Educational Environment Measure"
+          },
+          {
+            "paperId": "1d829434c2f0dc64d54281f24692c91bdd52958d",
+            "title": "Virtual educational environment: interactive communication using LMS Moodle"
+          },
+          {
+            "paperId": "a723cc4b55e6bb2cd4bb1537324690fa3b047100",
+            "title": "Virtual educational environment: interactive communication using LMS Moodle"
+          },
+          {
+            "paperId": "e544d31f1b32102d3082fb2e71f98b6ba572b8f7",
+            "title": "The perception of the educational environment in multinational students from a dental medicine faculty in Romania."
+          },
+          {
+            "paperId": "c7d349da78e63e8728e626d4d557d1fe01dfca44",
+            "title": "Convergence education—an international perspective"
+          },
+          {
+            "paperId": "e382d247dee97bfb12f1a0f13680cf0c0359fd2f",
+            "title": "Preface"
+          },
+          {
+            "paperId": "bd59b2e57b4d170705829e56905d60673f02a49e",
+            "title": "The Simultaneous Use of Excel and GeoGebra to Training the Basics of Mathematical Modeling"
+          },
+          {
+            "paperId": "d024469eadd997910b2101b4ff8a585f98ac4837",
+            "title": "Centralized information web-oriented educational environment of Ukraine"
+          },
+          {
+            "paperId": "03e8d60cb000310b563787f1ae4f0c0cdb7f50d0",
+            "title": "Effect of GeoGebra-Aided REACT Strategy on Understanding of Geometry Concepts"
+          },
+          {
+            "paperId": "419c29b2ba6f8313f8d164942fdd0412222e89d3",
+            "title": "Learning environments"
+          },
+          {
+            "paperId": "96ee081ff9770d57b824fe767c60e2c411945025",
+            "title": "Education and political participation: the impact of educational environments"
+          },
+          {
+            "paperId": "ad4a3e138eb81665c76c0a6e68527867b6df5c49",
+            "title": "A Letter Concerning Toleration"
+          },
+          {
+            "paperId": "879c7a2e390f40f13d0dc8e9739ddeab2605c1af",
+            "title": "Mathematical Problem Solving with Technology: the Techno-Mathematical Fluency of a Student-with-GeoGebra"
+          },
+          {
+            "paperId": "77b138f813832c09e363c3f8f4e37a6a3b820e58",
+            "title": "The Effectiveness of the GeoGebra Software: The Intermediary Role of Procedural Knowledge On Students’ Conceptual Knowledge and Their Achievement in Mathematics"
+          },
+          {
+            "paperId": "af27d9f987781c4db3c46585732aa0710cb6e248",
+            "title": "Development of automatic reasoning tools in GeoGebra"
+          },
+          {
+            "paperId": "b07e6613c72e0f9d2e2bf0e7e9fd2bccbbada8a2",
+            "title": "The Experience of the Master Classes as a Means of Formation of Readiness of Teachers to Implement Innovation"
+          },
+          {
+            "paperId": "9aa8cda7f4162914734bd673d8498b0ba006515f",
+            "title": "Conceptual Understanding of Definite Integral with GeoGebra"
+          },
+          {
+            "paperId": "5c67bf1fb9f41f4bdc371a4966d0c1f488f28c14",
+            "title": "The methods of adaptation in computer-based training systems"
+          },
+          {
+            "paperId": "ddd9de575839fd8af1d4a2785217b61899a86103",
+            "title": "Automated Theorem Proving in GeoGebra: Current Achievements"
+          },
+          {
+            "paperId": "a4502cf3eb38f1808018e4277dc4facf2999e193",
+            "title": "Efficiency of learning environment using GeoGebra when calculus contents are learned in collaborative groups"
+          },
+          {
+            "paperId": "203d01778fd1d63f13fabd71e57db1f87023535d",
+            "title": "Professional development through lesson study: teaching the derivative using GeoGebra"
+          },
+          {
+            "paperId": "60dce64d0d01f0c01aff0b6d16a2630b07258939",
+            "title": "DEVELOPMENT OF MOBILE LEARNING ENVIRONMENT AS A PROBLEM OF THE THEORY AND METHODS OF USE OF INFORMATION AND COMMUNICATION TECHNOLOGIES IN EDUCATION"
+          },
+          {
+            "paperId": "afdda31ab8231af15e0c048a3c8bf327850fb424",
+            "title": "Information Competence of University Students in Ukraine: Development Status and Prospects"
+          },
+          {
+            "paperId": "08ea54271b60a5c29dc9c63a4ec2f63eda9ae870",
+            "title": "Three-Subjective Didactic Model"
+          },
+          {
+            "paperId": "58c3dd2f3831a5c66cb38e1fbf4b957d698ada89",
+            "title": "The effect of using GeoGebra on conceptual and procedural knowledge of high school mathematics students."
+          },
+          {
+            "paperId": "eeecec777655c50042fc618619fdf7e4d6ab9b0e",
+            "title": "Virtual Manipulatives in a Computer-Based Learning Environment: How Experimental Data Informs the Design of Future Systems"
+          },
+          {
+            "paperId": "0ca1cfdd0aedc7803c181b53329b6868cc7c836e",
+            "title": "Interactive Maths with GeoGebra"
+          },
+          {
+            "paperId": "51252ded06852efd5b7150ac76f943c4409cd85a",
+            "title": "Implementing Dynamic Mathematics Resources with GeoGebra at the College Level"
+          },
+          {
+            "paperId": "6b82c2bde495b79a0812025979e5c3d0efce7096",
+            "title": "E-learning and machine perception: in pursuit of human-like interaction in computer-based teaching systems"
+          },
+          {
+            "paperId": "54bc2e8b39677db05911a5f16d954b9e359ab898",
+            "title": "Interpreting computer code in a computer‐based learning system for novice programmers"
+          },
+          {
+            "paperId": "7785f5419d1dda0841e00752e00f6680253fcb7f",
+            "title": "Dialogue in learning: Implications for the design of computer-based educational systems"
+          },
+          {
+            "paperId": "d15ceb12a203458672d1be093bd3823fb784a887",
+            "title": "Developing a Quality Assurance System for Computer-based Learning Materials: Problems and issues"
+          },
+          {
+            "paperId": "83d05c7e6e81a8a5230ba3631cca8f041a65e882",
+            "title": "Development and Implementation of a Computer-Based Learning System in Chemical Engineering"
+          },
+          {
+            "paperId": "66770cc379f743b4ff57102b589d211c06296600",
+            "title": "A computer based learning system for teaching computing: implementation and evaluation"
+          },
+          {
+            "paperId": "5ce3c195fe58d8251260d33d943ccec9d161c0bc",
+            "title": "The interactive learning environment"
+          },
+          {
+            "paperId": "e33c14b5af750c5949fb0b485cc1b0648697f273",
+            "title": "La conception de l’éducation des jeunes enfants selon"
+          },
+          {
+            "paperId": "b2ee53fa1c9949bcb791ac7441b172bfa9350ade",
+            "title": "Collaborative Computer-Based Learning in China: a System for Classroom-Based Learning and Teaching"
+          },
+          {
+            "paperId": "2d28cc69cfe0ad11875fed4028df045a39aa5517",
+            "title": "Beyond Competence: Management Development Using Computer-Based Systems in Experiential Learning"
+          },
+          {
+            "paperId": "f83e3d826ec0b68c031a8291315c7779cea8c173",
+            "title": "Psychological and Pedagogical Problems of Effective Computer Use in the Educational Process"
+          },
+          {
+            "paperId": "db2a04dce2ad17721bdc502ac1b57d37b8d05c2c",
+            "title": "The Phases of Computer-assisted Problem Solving: A Methods Practicum: Class Number 5"
+          },
+          {
+            "paperId": "1b49b1831d7df2cb88ec46d9ea053b225da5a4ff",
+            "title": "Man and the Automation of Control"
+          },
+          {
+            "paperId": "929f91f624d9fefea1d7075274915c0771dcdd54",
+            "title": "A Computer-Based Learning System for Remote Manipulator Control"
+          },
+          {
+            "paperId": "cdc38493fd1f3341af85392b650d12bcf9610fc8",
+            "title": "Instructional models in a computer-based learning system"
+          },
+          {
+            "paperId": "4897b8f9bf532b5a6ab50264945d2e0682478744",
+            "title": "One View of Man-Machine Interaction"
+          },
+          {
+            "paperId": "13d46ab4acc7f7494bc1ca7492c7e698a88b7800",
+            "title": "Technology of application of competence-based educational simulators in the informational and educational environment for learning general technical disciplines"
+          },
+          {
+            "paperId": "b345bba14052d708599e62bb456557965df0688c",
+            "title": "Some applications of the GRAN1 to analyze two-dimensional continuous probability distributions"
+          },
+          {
+            "paperId": "234c85e44ceaed532b1f869e9ee08d44a784d46b",
+            "title": "Current state and prospects of distance learning development in Ukraine"
+          },
+          {
+            "paperId": "16f5c8f18299ce56eec2cc1a77f24ec05dd4973f",
+            "title": "AREdu 2021 - Immersive technology today"
+          },
+          {
+            "paperId": "a449d743088bd6b42df47b33f4dc576bac145bf1",
+            "title": "Development of the online course for training master students majoring in mathematics"
+          },
+          {
+            "paperId": null,
+            "title": "Association for Learning Environments | UK Learning"
+          },
+          {
+            "paperId": null,
+            "title": "GeoGebra -the world's favorite, free math tools used by over 100 million students and teachers"
+          },
+          {
+            "paperId": null,
+            "title": "Information Technologies and Learning Tools"
+          },
+          {
+            "paperId": null,
+            "title": "International Association of Smart Learning Environments -Optimizing learning environments to enhance learning"
+          },
+          {
+            "paperId": "821f9a0a9592f94bca50badbf3c05dea6e1efed4",
+            "title": "Supporting Teachers to Monitor Student’s Learning Progress in an Educational Environment With Robotics Activities"
+          },
+          {
+            "paperId": "8a1fdbb0cd855f1e463caa40dd049060c9c484cc",
+            "title": "Optimising the learning process with immersive virtual reality and non-immersive virtual reality in an educational environment"
+          },
+          {
+            "paperId": "7183e62c39e3d0102d8792f7ab07676d80c4ed83",
+            "title": "Optimizing Programming Language Learning Through Student Modeling in an Adaptive Web-Based Educational Environment"
+          },
+          {
+            "paperId": "7ed5169e0fd22a997c4ac4bf7b5ef6ee605fb81b",
+            "title": "Augmented and Virtual Reality Technologies in Teacher Retraining"
+          },
+          {
+            "paperId": null,
+            "title": "New Ge- 195 oGebra features for converged student projects"
+          },
+          {
+            "paperId": "4687f1aac849ee1b0cfe583c2f6e09dab3abb1f6",
+            "title": "IoT in Education: Its Impacts and Its Future in Saudi Universities and Educational Environments"
+          },
+          {
+            "paperId": "6dbc3a31635ad2cd034f8385624b95bd498a378c",
+            "title": "Technologies of Virtual and Augmented Reality for High Education and Secondary School"
+          },
+          {
+            "paperId": null,
+            "title": "Use of GeoGebra cloud service in future math teachers’ teaching"
+          },
+          {
+            "paperId": null,
+            "title": "GeoGebra dlia pochatkivtsiv"
+          },
+          {
+            "paperId": null,
+            "title": "Vidkrytyi onlain-kurs dlia vchyteliv (vykladachiv) matematyky"
+          },
+          {
+            "paperId": null,
+            "title": "Sariyasa"
+          },
+          {
+            "paperId": null,
+            "title": "Design of educational objects augmented reality"
+          },
+          {
+            "paperId": null,
+            "title": "GeoGebra 5.0 for mathematics teachers. Planimetry, Chernihiv, 2018"
+          },
+          {
+            "paperId": "0e11f436bad5682800c2ed6c0a2962f93b970e45",
+            "title": "Information and Communication Technologies in Education, Research, and Industrial Applications"
+          },
+          {
+            "paperId": "acee162e69ee138010781019957a1ca323bf2282",
+            "title": "Virtual Reality-Making Good On the Promise of Immersive Learning: The effectiveness of in-person training, with the logistical and cost-effective benefits of computer-based systems"
+          },
+          {
+            "paperId": null,
+            "title": "Didactic axiomatics cognition theory of pedagogical technology"
+          },
+          {
+            "paperId": "14fe12b162ea81deb712e95b69c23e45a548829e",
+            "title": "Giac and GeoGebra - Improved Gröbner Basis Computations"
+          },
+          {
+            "paperId": "a49cee5fdedfc1fde2d9f549a5fe233b56ae23d3",
+            "title": "Incorporating GeoGebra into Geometry Learning--A Lesson from India."
+          },
+          {
+            "paperId": null,
+            "title": "Solving heuristic problems in the context of STEM education using the system of dynamic mathematics GeoGebra"
+          },
+          {
+            "paperId": null,
+            "title": "Conversation 4: How do young children learn"
+          },
+          {
+            "paperId": null,
+            "title": "Virtual education middle as an innovative resource for new and pre-old students’ activity"
+          },
+          {
+            "paperId": null,
+            "title": "GeoGebra dynamic mathematics system"
+          },
+          {
+            "paperId": "fae867436de0d92598033be13aa2486e5c290cc7",
+            "title": "Computer supported mathematics with Geogebra"
+          },
+          {
+            "paperId": "6df0b792195daead8550961eed1a2ada1ea3ddca",
+            "title": "Using Geogebra as an information technology tool: parabola teaching"
+          },
+          {
+            "paperId": "934e8784446f96827a497618576dd120b6ebac4d",
+            "title": "The effects of GeoGebra on Mathematics achievement enlightening coordinate geometry learning."
+          },
+          {
+            "paperId": null,
+            "title": "Models of the education system and the educational environment, Actual problems of the process of modernization of social systems"
+          },
+          {
+            "paperId": "44bc133a12e71c03a268e1dfe6c17dff6b6e6f8f",
+            "title": "Applications GeoGebra into teaching some topics of mathematics at the college level"
+          },
+          {
+            "paperId": "19579b4607684cb3f852bf5597040f6a75636639",
+            "title": "Computer based learning systems and the development of computer self-efficacy: Are all sources of efficacy created equal?"
+          },
+          {
+            "paperId": null,
+            "title": "National doctrine of education development"
+          },
+          {
+            "paperId": "ad3e71aa9fc1608b482b6a21e5b2d8b0920c7f90",
+            "title": "Theoretical backgrounds of educational and training technology"
+          },
+          {
+            "paperId": "7a47415123744faeb125794ce269f7ae17f6dffe",
+            "title": "The design and evaluation of Link: A computer-based learning system for correlation"
+          },
+          {
+            "paperId": null,
+            "title": "The effects of a computer-based instructional management system on student communications in a distance learning environment"
+          },
+          {
+            "paperId": "912bccfb964f7aee2bc56e400c9f7eb93326d9f5",
+            "title": "The effectiveness of individualized versus cooperative computer-based integrated learning systems"
+          },
+          {
+            "paperId": "397c712b20854fe865be54894992b10ea679031f",
+            "title": "The social contract."
+          },
+          {
+            "paperId": null,
+            "title": "State National Program Education"
+          },
+          {
+            "paperId": "641851decb36bff6c371e3beb7b3dcdc3cae251c",
+            "title": "Some experiences in using a computer-based learning system as an aid to self-teaching and self-assessment"
+          },
+          {
+            "paperId": "71e6c4c7cb2802143c7edeefb0de43987cacbe85",
+            "title": "Procedia Social and Behavioral Sciences the Effect of Dynamic Mathematics Software Geogebra on Student Achievement in Teaching of Trigonometry"
+          },
+          {
+            "paperId": null,
+            "title": "The concept of development of natural and mathematical education"
+          }
+        ]
+      },
+      {
+        "paperId": "2e686675ebe9a3d8bd0c244b802f8475ab94e3ee",
+        "corpusId": 235465775,
+        "publicationVenue": {
+          "id": "14af611b-2e7d-4afd-8856-2c137fe21b36",
+          "name": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+          "type": "conference",
+          "alternate_names": [
+            "ICTERI",
+            "Int Conf Inf Commun Technol Educ Res Ind Appl"
+          ],
+          "url": "http://www.wikicfp.com/cfp/program?id=1492"
+        },
+        "url": "https://www.semanticscholar.org/paper/2e686675ebe9a3d8bd0c244b802f8475ab94e3ee",
+        "title": "Implementation of Immersive Technologies in Professional Training of Teachers",
+        "abstract": null,
+        "venue": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+        "year": 2020,
+        "referenceCount": 7,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "journal": {
+          "pages": "68-90"
+        },
+        "authors": [
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          },
+          {
+            "authorId": "2091683661",
+            "name": "O. Kokhanovska"
+          },
+          {
+            "authorId": "2025291349",
+            "name": "G. Yuzbasheva"
+          },
+          {
+            "authorId": "144364111",
+            "name": "H. Kravtsov"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "0f89eac7cd40527b45515d01fee80e1a46bbe60e",
+            "title": "Using immersive technologies to enhance the student learning experience"
+          },
+          {
+            "paperId": "f0047f23e0bc8fee642d62fb3ca2f479f024d82d",
+            "title": "Study of Virtual Reality Immersive Technology Enhanced Mathematics Geometry Learning"
+          },
+          {
+            "paperId": "9bde71794ad0f8ce13b3d1974a0c1db8dcdeb4ad",
+            "title": "ONBOARDING, A LEARNING APPROACH TO OVERCOME ADOPTION THRESHOLDS WITH EXTENDED REALITY"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "4bb93fccce654d6d67632997c8c186b96d49052e",
+            "title": "Effects of Using Immersive Media on the Effectiveness of Training to Prevent Ergonomics Risks"
+          },
+          {
+            "paperId": "efcbe19f569796b919091d2ca4c18ef9b487219f",
+            "title": "Augmenting the learning experience in primary and secondary school education: a systematic review of recent trends in augmented reality game-based learning"
+          },
+          {
+            "paperId": "b07e6613c72e0f9d2e2bf0e7e9fd2bccbbada8a2",
+            "title": "The Experience of the Master Classes as a Means of Formation of Readiness of Teachers to Implement Innovation"
+          },
+          {
+            "paperId": "408b6295e901e3e6d96b55a69ca6f6eda762891e",
+            "title": "Recent Advances in Augmented Reality"
+          }
+        ]
+      },
+      {
+        "paperId": "49d9f6bb9f9e3b5ba0d11a009349ca15f7465f65",
+        "corpusId": 226967774,
+        "publicationVenue": {
+          "id": "14af611b-2e7d-4afd-8856-2c137fe21b36",
+          "name": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+          "type": "conference",
+          "alternate_names": [
+            "ICTERI",
+            "Int Conf Inf Commun Technol Educ Res Ind Appl"
+          ],
+          "url": "http://www.wikicfp.com/cfp/program?id=1492"
+        },
+        "url": "https://www.semanticscholar.org/paper/49d9f6bb9f9e3b5ba0d11a009349ca15f7465f65",
+        "title": "Model of an Education Robotics Course for Natural Sciences Teachers",
+        "abstract": "STEM is a priority area of education in Ukraine. One of the innovative approaches in STEM education is the integration of academic disciplines through project-based learning using robotics. Therefore, the urgent problem is the development of training courses on educational robotics for teachers of natural sciences. The article presents the model of teaching the Education Robotics course for teachers of natural sciences, which includes the goal, objectives, principles, content, forms, methods, teaching aids. The educational robotics course is designed to introduce future teachers to the principles of creating robotic systems, programming systems, and learn how to create robotic devices based on educational designers, as well as control programs. The course has a modular structure, designed for 150 hours and provides for the study of robotics based on Lego EV3, MBot, Arduino designers and demonstrates scientific and technical solutions to global problems, such as environmental ecology, help with the elements, conservation of flora and fauna, creating favorable conditions for humanity in extraterrestrial conditions, eco-energy and etc. The article contains the rationale for the choice of programming platforms, the methodological basis for the selection of projects for conducting in the lessons at school in accordance with the curriculum. Particular attention is paid to the features of using the project methodology and the formation of soft skills. The importance of introducing the Education Robotics course in the professional training of teachers of natural sciences is due to the support of society for innovation in educational activities and is associated with the level of scientific and technological achievements",
+        "venue": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+        "year": 2020,
+        "referenceCount": 12,
+        "citationCount": 2,
+        "influentialCitationCount": 1,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science",
+          "Engineering"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Engineering",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "journal": {
+          "pages": "322-333"
+        },
+        "authors": [
+          {
+            "authorId": "40107319",
+            "name": "Nataliya Kushnir"
+          },
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          },
+          {
+            "authorId": "152711454",
+            "name": "Nataliia Valko"
+          },
+          {
+            "authorId": "1659061515",
+            "name": "L. Kuzmich"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "1a309cdeb7c36381af109ed8696d156b2e2392e4",
+            "title": "Advancing educational robotics: competence development for pre-service computer science teachers"
+          },
+          {
+            "paperId": "c6c74bdd8a2bbda092cbf0c368402094349bc055",
+            "title": "Model of the Competences in Educational Robotics"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "6628fd76f15fa4e62b3eec88f13046538d7b80b0",
+            "title": "Computer Modelling of Educational Process as the Way to Modern Learning Technologies"
+          },
+          {
+            "paperId": "048ee67c69156e7d8379bd3b199ca89f4a879f45",
+            "title": "Systematic Review of Research Trends in Robotics Education for Young Children"
+          },
+          {
+            "paperId": "cae272b2b0bcf462ac66408877e3030c33a7457b",
+            "title": "DigComp 2.0: The Digital Competence Framework for Citizens. Update Phase 1: the Conceptual Reference Model."
+          },
+          {
+            "paperId": "67c486d7c3bba1104f526e4e25a81340add18b7d",
+            "title": "ROBOTICS AS A MEANS OF TRAINING OF FUTURE TEACHERS OF NATURAL AND MATHEMATICAL DISCIPLINES"
+          },
+          {
+            "paperId": "6a8e0e8c1b34bc24cae33ff0ab1a80985898f568",
+            "title": "Activity Plan Template for Supporting Study Science with Robotics and Programming"
+          },
+          {
+            "paperId": "ff28ca7d8dd6fb8bdaff93b8c2ab1ea623157c7f",
+            "title": "STEM: country comparisons: international comparisons of science, technology, engineering and mathematics (STEM) education. Final report."
+          },
+          {
+            "paperId": "28b88ac1ab8510149c70c8e71b51747ea11196ea",
+            "title": "Teaching robotics with an open curriculum based on the e-puck robot , simulations and competitions"
+          },
+          {
+            "paperId": null,
+            "title": "Prospects for convergence of NBIC technologies to create a technological platform for a new economy, Business Inform, No 2, pp"
+          },
+          {
+            "paperId": null,
+            "title": "Experience of foundation STEMschool"
+          },
+          {
+            "paperId": null,
+            "title": "Educational robotics as a promising area of STEM education. Open educational e-environment of a modern university"
+          },
+          {
+            "paperId": null,
+            "title": "Educational robotics as a tool of knowledge in the educational process in physics, West. Chelyab. state ped un-that"
+          },
+          {
+            "paperId": null,
+            "title": "STEM pedagogical technology as a means of reforming the educational system of Ukraine, Gifted Personality Education and Development, No 3(58), pp"
+          }
+        ]
+      },
+      {
+        "paperId": "62c544d06c9d2444c9d116bb2c4765929d3c1efa",
+        "corpusId": 226967855,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/62c544d06c9d2444c9d116bb2c4765929d3c1efa",
+        "title": "Distance Learning Technologies in Institution of Higher Education by Means of LCMS Moodle",
+        "abstract": "Distance learning (DL) is one of the most rapidly expanding sectors in higher education today. Distance Learning Development requires a consistent solution to a number of important tasks in the field of regulatory, organizational, educational, technical, software and staffing, the interaction of all these elements of the DL system in the implementation of educational programs. One of the most important tasks in organizing distance learning is to define a scalable and viable strategy for creating an information and communication environment. The article presents a review of distance learning literature; the purposes, advantages, disadvantages. The experience of Kherson State University in the use of distance learning was summarized. Particular attention is paid to the implementation features of the KSUONLINE distance learning system developed on the basis of LMS Moodle. The educational courses and webinars were designed to introduce teachers to the principles of creating Distance courses and learn how to ensure effective communication between teachers and students. The research of the level of satisfaction of teachers with seminars to study the capabilities of the distance learning system KSUONLINE was conducted. The main problems associated with the introduction of distance education in Institution of Higher Education are analyzed in this paper. The factors that influence the development of distance learning in universities are identified.",
+        "venue": "ICTERI Workshops",
+        "year": 2020,
+        "referenceCount": 17,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          },
+          {
+            "category": "Computer Science",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": null,
+        "journal": {
+          "pages": "1152-1163"
+        },
+        "authors": [
+          {
+            "authorId": "40107319",
+            "name": "Nataliya Kushnir"
+          },
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          },
+          {
+            "authorId": "152711454",
+            "name": "Nataliia Valko"
+          },
+          {
+            "authorId": "1659061515",
+            "name": "L. Kuzmich"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "7f0850179e96cd2a3a353331dac15abd6172656c",
+            "title": "MODEL OF BLENDED LEARNING IN HIGHER EDUCATIONAL INSTITUTIONS: DEVELOPMENT, IMPLEMENTATION AND EVALUATION"
+          },
+          {
+            "paperId": "2c41ac1931c88b48fd7161cf554f80ae68affcde",
+            "title": "9th Workshop on Cloud Technologies in Education: Report"
+          },
+          {
+            "paperId": "340fa84ee2c40dea229907e618832be16f7cfd1b",
+            "title": "8th Workshop on Cloud Technologies in Education: Report"
+          },
+          {
+            "paperId": "e8030ec2fe7bd830c600e294512e19a1407dd17b",
+            "title": "Cloud resources use for students' project activities"
+          },
+          {
+            "paperId": "4a5803c50fe874f0dc2549f876f345cbce09b140",
+            "title": "A DIAGNOSIS OF THE LEVELS OF DEVELOPMENT OF HIGHER EDUCATION STUDENTS' COGNITIVE ACTIVITY IN THE PROCESS OF LEARNING A FOREIGN LANGUAGE USING ICT DURING PRACTICAL CLASSES"
+          },
+          {
+            "paperId": "16f5c8f18299ce56eec2cc1a77f24ec05dd4973f",
+            "title": "AREdu 2021 - Immersive technology today"
+          },
+          {
+            "paperId": "2d34a6ce38486d1e24e0631f66cd4b84196c21de",
+            "title": "The Use of ICT for Training Future Teachers: An Example of the Course on «Art Education of Preschool Children»"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "c82e665938b1b645d77260636b6777c23ea9a702",
+            "title": "A Review of Distance Learning and Learning Management Systems"
+          },
+          {
+            "paperId": "b07e6613c72e0f9d2e2bf0e7e9fd2bccbbada8a2",
+            "title": "The Experience of the Master Classes as a Means of Formation of Readiness of Teachers to Implement Innovation"
+          },
+          {
+            "paperId": "afdda31ab8231af15e0c048a3c8bf327850fb424",
+            "title": "Information Competence of University Students in Ukraine: Development Status and Prospects"
+          },
+          {
+            "paperId": "17e0ae79424f03c9235243711d61c3a2a36bd92d",
+            "title": "Future and Experienced Teachers Should Collaborate on ICT Integration"
+          },
+          {
+            "paperId": "697ff3c6f5ce20c71dd1bc8f22b8089ad9cb5ace",
+            "title": "ELECTRONIC SUPPORT SYSTEM OF NORMATIVE LEGAL BASE OF DISTANCE LEARNING SYSTEM"
+          },
+          {
+            "paperId": "b08f8418d94e73fd124c4dea28fa30fa9b15b103",
+            "title": "Aims and tasks of the project “Formation of bank of electronic documents in distance learning of higher pedagogical education”"
+          },
+          {
+            "paperId": "fd3ec742eb294b2c89fbaf873ec8d2d5d9ff497b",
+            "title": "‘Distance education’ and ‘e-learning’: Not the same thing"
+          },
+          {
+            "paperId": "577913f54e194d4b967a8a27e41c6363ec6d9bd6",
+            "title": "Increase of the Level of Graphic Competence Future Bachelor in Computer Sciences in the Process of Studying 3D Modeling"
+          },
+          {
+            "paperId": "f02705bde2570df5bcd53f66948ad3bceaf4e237",
+            "title": "ICT Advanced Training of University Teachers"
+          },
+          {
+            "paperId": "0567e023f4909ee1066382e076c6969102406ed2",
+            "title": "Mobile Learning Technologies for Learning English"
+          },
+          {
+            "paperId": "76ef4468e37ec0429df1d538ef3fda83102772e3",
+            "title": "UNESCO INSTITUTE FOR INFORMATION TECHNOLOGIES IN EDUCATION"
+          },
+          {
+            "paperId": null,
+            "title": "The Regulation on Distance Learning at Kherson State University"
+          },
+          {
+            "paperId": null,
+            "title": "Model Standard of ICT Competence of University Teachers in the Context of Improving the Quality of Education"
+          },
+          {
+            "paperId": null,
+            "title": "Distance Education conferences worldwide"
+          },
+          {
+            "paperId": null,
+            "title": "The Evolution, Principles and Practices of Distance Education"
+          },
+          {
+            "paperId": null,
+            "title": "E - learning system of universities based on Moodle . Toolkit"
+          },
+          {
+            "paperId": null,
+            "title": "Educational and methodological complex of distance learning teacher training"
+          }
+        ]
+      },
+      {
+        "paperId": "7ed5169e0fd22a997c4ac4bf7b5ef6ee605fb81b",
+        "corpusId": 226967984,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/7ed5169e0fd22a997c4ac4bf7b5ef6ee605fb81b",
+        "title": "Augmented and Virtual Reality Technologies in Teacher Retraining",
+        "abstract": "Research goal: theoretical justification for the use of augmented and virtual reality technologies in the educational process and the development of a blended course “Using the technologies of augmented and virtual reality in the practice of modern educational institutions” for retraining teachers. Research objectives: to determine the role and place of augmented and virtual reality technologies in the educational process and their use in teacher retraining for the formation of professional competence. Object of research: the formation of professional competencies of teachers in the retraining process. Subject of research: augmented and virtual reality technologies as a component of the school educational environment. Used research methods: theoretical methods containing analysis of scientific sources; empirical methods of interviewing and questioning teachers. Research results: analysis of scientific publications allows us to define the concept of augmented and virtual reality, its types, directions of using augmented and virtual reality in education, examples of its application in the educational process. The developed course \"Using the technologies of augmented and virtual reality in the practice of modern educational institutions\" for the retraining of teachers allows the formation of professional information and communication technologies competencies of teachers. Main conclusions: the introduction of virtual and augmented reality technologies in the educational process increases the effectiveness of training, promotes the development of logical thinking of students and increases the level of motivation of participants in the educational process.",
+        "venue": "ICTERI Workshops",
+        "year": 2020,
+        "referenceCount": 11,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "journal": {
+          "pages": "1203-1216"
+        },
+        "authors": [
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          },
+          {
+            "authorId": "2091683661",
+            "name": "O. Kokhanovska"
+          },
+          {
+            "authorId": "2025291349",
+            "name": "G. Yuzbasheva"
+          },
+          {
+            "authorId": "144364111",
+            "name": "H. Kravtsov"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "2c41ac1931c88b48fd7161cf554f80ae68affcde",
+            "title": "9th Workshop on Cloud Technologies in Education: Report"
+          },
+          {
+            "paperId": "38204f4b65c33d34fee1e74356c64ad7216b1c76",
+            "title": "Formation of professional competency in life saving appliances operation of future seafarers by means of online and simulation VR technologies"
+          },
+          {
+            "paperId": "67b4c8d5c0932c365f1b52d7c7b352465cd15e24",
+            "title": "ICT and current trends as a path to STEM education: implementation and prospects"
+          },
+          {
+            "paperId": "7e2304892f5b67f4fbd5d0466d12128771aa8e4a",
+            "title": "Teachers' training for the use of digital tools of the formative assessment in the implementation of the concept of the New Ukrainian School"
+          },
+          {
+            "paperId": "c6f5ee69a05a6c386275226849ae6dd0abb25df1",
+            "title": "Improving the learning environment for future mathematics teachers with the use application of the dynamic mathematics system GeoGebra AR"
+          },
+          {
+            "paperId": "b13138f262209596ccf0f4be0fc7870419bb0bf5",
+            "title": "Usage of Information and Communication Technologies in Maritime Educational Institutions"
+          },
+          {
+            "paperId": "16f5c8f18299ce56eec2cc1a77f24ec05dd4973f",
+            "title": "AREdu 2021 - Immersive technology today"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "efcbe19f569796b919091d2ca4c18ef9b487219f",
+            "title": "Augmenting the learning experience in primary and secondary school education: a systematic review of recent trends in augmented reality game-based learning"
+          },
+          {
+            "paperId": "e297c62f7aff038655c7a344efe5fd409b19de80",
+            "title": "The Impact of an Augmented Reality Application on Learning Motivation of Students"
+          },
+          {
+            "paperId": "e6f1c3cb1ce2dc11e6b588751988b922ea5f754f",
+            "title": "The Role of AR and VR Technologies in Education Developments: Opportunities and Challenges"
+          },
+          {
+            "paperId": "b07e6613c72e0f9d2e2bf0e7e9fd2bccbbada8a2",
+            "title": "The Experience of the Master Classes as a Means of Formation of Readiness of Teachers to Implement Innovation"
+          },
+          {
+            "paperId": "afdda31ab8231af15e0c048a3c8bf327850fb424",
+            "title": "Information Competence of University Students in Ukraine: Development Status and Prospects"
+          },
+          {
+            "paperId": "408b6295e901e3e6d96b55a69ca6f6eda762891e",
+            "title": "Recent Advances in Augmented Reality"
+          },
+          {
+            "paperId": "f78a31be8874eda176a5244c645289be9f1d4317",
+            "title": "A Taxonomy of Mixed Reality Visual Displays"
+          },
+          {
+            "paperId": "6dbc3a31635ad2cd034f8385624b95bd498a378c",
+            "title": "Technologies of Virtual and Augmented Reality for High Education and Secondary School"
+          },
+          {
+            "paperId": "d219411af1960eb7037da7f3b4315fae466ebce7",
+            "title": "International Society for Technology in Education."
+          },
+          {
+            "paperId": null,
+            "title": "Striuk : Design of Educational Objects Augmented Reality"
+          },
+          {
+            "paperId": null,
+            "title": "Future schools using the power of Virtual and Augmented Reality for education and training in the classroom Erasmus+ Strategic Partnerships for school education 2018-1-RO01-KA201-049411"
+          }
+        ]
+      },
+      {
+        "paperId": "e9768854a053841498c83290ab0dc5e7d6348018",
+        "corpusId": 202911144,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/e9768854a053841498c83290ab0dc5e7d6348018",
+        "title": "Extreme precipitation in the Amur River basin: formation factors and methods of estimation",
+        "abstract": "The values of maximal daily precipitation in the Amur River basin obtained using two different methods are considered. The first one is based on the hydro-meteorological approach to calculate the probable maximum precipitation. The second one is developed by the authors; it combines several statistical methods for calculating the values of the hydro-meteorological characteristics of low probability. Comparison of the results obtained by the two methods is made.",
+        "venue": "IOP Conference Series: Earth and Environment",
+        "year": 2019,
+        "referenceCount": 11,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Physics",
+          "Geology"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Physics",
+            "source": "external"
+          },
+          {
+            "category": "Geology",
+            "source": "external"
+          },
+          {
+            "category": "Environmental Science",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "Conference"
+        ],
+        "publicationDate": "2019-09-02",
+        "journal": {
+          "volume": "321",
+          "name": "IOP Conference Series: Earth and Environmental Science"
+        },
+        "authors": [
+          {
+            "authorId": "103995543",
+            "name": "M. Trubetskova"
+          },
+          {
+            "authorId": "104781214",
+            "name": "I. Filippova"
+          },
+          {
+            "authorId": "1381915893",
+            "name": "N. Osypova"
+          }
+        ],
+        "citations": [],
+        "references": [
+          {
+            "paperId": "2f94bca176e2ebfb50318fcc1bc99e568f85c40f",
+            "title": "Characteristics of extreme precipitation events within the Amur river basin in summer 2013"
+          },
+          {
+            "paperId": "06d99d8b7d1b7056bc95e69ba6b664cb7c246256",
+            "title": "Estimation of the probable maximum precipitation in Barcelona (Spain)"
+          },
+          {
+            "paperId": "3bf25a1fe97c3dc7afd70819f7a96b9a5b0e2353",
+            "title": "Comparison of physical and statistical methods for estimating probable maximum precipitation in southwestern basins of Iran"
+          },
+          {
+            "paperId": "84a01cf4fa0d658127fd9851ad7f270653e18632",
+            "title": "An estimation of the probable maximum precipitation for river basins in the Czech Republic"
+          },
+          {
+            "paperId": "ca3f9cd2edd064ea57758e6989660fc19995e5db",
+            "title": "An Introduction to Statistical Modeling of Extreme Values"
+          },
+          {
+            "paperId": "222449231d0720a982b44799041e6535c1fc0e2c",
+            "title": "An Introduction to Statistical Modeling of Extreme Values"
+          },
+          {
+            "paperId": "55b659a3448ffd4f2912f30d10688859c52802e2",
+            "title": "Probable maximum precipitation for 24 h duration over southeast Asian monsoon region—Selangor, Malaysia"
+          },
+          {
+            "paperId": "f15257be0109b0fc7c1ebac86bb74867566fe9ce",
+            "title": "Probable Maximum Precipitation Estimation for Catchments in Mahanadi River Basin"
+          },
+          {
+            "paperId": null,
+            "title": "Hydrology for Engineers (McGraw-Hill) p 508"
+          },
+          {
+            "paperId": null,
+            "title": "Gidrologicheskie Osnovy Upravleniya Rechnym Stokom [Hydrological basis of river flow management"
+          },
+          {
+            "paperId": null,
+            "title": "Hydrologic conditions as affecting the results of the application of methods of frequency analysis to flood records U.S., Geol"
+          }
+        ]
+      }
+    ]
+  }
+}
