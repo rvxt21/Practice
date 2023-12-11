@@ -1,0 +1,597 @@
+{
+  "author": {
+    "authorId": "147735914",
+    "url": "https://www.semanticscholar.org/author/147735914",
+    "name": "O. Gnedkova",
+    "aliases": [
+      "O. A. Gnedkova",
+      "Olga Gnedkova"
+    ],
+    "affiliations": [],
+    "homepage": null,
+    "paperCount": 5,
+    "citationCount": 26,
+    "hIndex": 3,
+    "publications": null
+  },
+  "publications": {
+    "offset": 0,
+    "data": [
+      {
+        "paperId": "6dbc3a31635ad2cd034f8385624b95bd498a378c",
+        "corpusId": 201600525,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/6dbc3a31635ad2cd034f8385624b95bd498a378c",
+        "title": "Technologies of Virtual and Augmented Reality for High Education and Secondary School",
+        "abstract": "Every year there are new technologies used in the education of the younger generation. The introduction of mobile and portable devices in the educational process helps to improve the quality of educational materials by software. It complements or expands the content of textbooks and workbooks. The main trend in software development of educational purposes is the system of virtual and augmented reality. VR and AR-technologies provide an opportunity to interact with various branches of science, ranging from virtual excursions and object studies to experiments in Physics, Biology, Chemistry, Astronomy, etc. Virtual and augmented realities are unique learning environments in various fields of science reproducing virtual models in details. There are ready-made products designed for use in specific subject areas. Most software for learning in virtual and augmented reality have English language interface, so it’s a need to develop educational software for Ukrainianspeaking students and pupils.",
+        "venue": "ICTERI Workshops",
+        "year": 2019,
+        "referenceCount": 16,
+        "citationCount": 13,
+        "influentialCitationCount": 1,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Computer Science",
+            "source": "s2-fos-model"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "journal": {
+          "pages": "121-131"
+        },
+        "authors": [
+          {
+            "authorId": "144891591",
+            "name": "Nataliia Osypova"
+          },
+          {
+            "authorId": "144364111",
+            "name": "H. Kravtsov"
+          },
+          {
+            "authorId": "147735914",
+            "name": "O. Gnedkova"
+          },
+          {
+            "authorId": "117246365",
+            "name": "T. Lishchuk"
+          },
+          {
+            "authorId": "2104146410",
+            "name": "Kateryna Davidenko"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "e4c6b7fa6fa1666104518a460ec8bf4cde09062e",
+            "title": "The Impact of Virtual Learning Environments on the Digitalization of Higher Education in the Kurdistan Region-Iraq"
+          },
+          {
+            "paperId": "137d02c786f2f9bb929e56b925e415d3939e9ebb",
+            "title": "Using Virtual Learning Objects in Educational Content"
+          },
+          {
+            "paperId": "e4bef29aa50a198c05f8d2f219109928cb74bc85",
+            "title": "Early literacy with augmented reality"
+          },
+          {
+            "paperId": "67b4c8d5c0932c365f1b52d7c7b352465cd15e24",
+            "title": "ICT and current trends as a path to STEM education: implementation and prospects"
+          },
+          {
+            "paperId": "c6f5ee69a05a6c386275226849ae6dd0abb25df1",
+            "title": "Improving the learning environment for future mathematics teachers with the use application of the dynamic mathematics system GeoGebra AR"
+          },
+          {
+            "paperId": "2c08598578ad0c02358ec8268a4f5f47372bb967",
+            "title": "Formation of readiness of future teachers to use augmented reality in the educational process of preschool and primary education"
+          },
+          {
+            "paperId": "2bf5968f866ffe0141fc90670b81b3ee16cef41f",
+            "title": "Interactive Augmented Reality Technologies for Model Visualization in the School Textbook"
+          },
+          {
+            "paperId": "19fb2a7f5ad2e72ff87cb49aecea1e1c09c6d0d0",
+            "title": "The Experience of Using Cloud Labs in Teaching Linux Operating System"
+          },
+          {
+            "paperId": "2b435a4a85cb56b58cce52d15161cb795448fb1e",
+            "title": "Using Virtual Reality Technologies for Teaching Computer Science at Secondary School"
+          },
+          {
+            "paperId": "5c4c1e7014fa9a5fa32882d1ef4dc229976b14fa",
+            "title": "Using augmented reality for early literacy"
+          },
+          {
+            "paperId": "7ed5169e0fd22a997c4ac4bf7b5ef6ee605fb81b",
+            "title": "Augmented and Virtual Reality Technologies in Teacher Retraining"
+          },
+          {
+            "paperId": "e66c16cdeecb23d8e6a638dab79686a8f7ec3861",
+            "title": "360° Photographic Panoramas as an Effective Multifunctional Aid for Teaching Technology Subjects"
+          },
+          {
+            "paperId": "3c98fc744ff97519f6df4c19a765c69dc19fa639",
+            "title": "PREPARING THE FUTURE EDUCATOR TO THE CREATION OF AUGMENTED REALITY EXCURSIONS IN LOCAL EDUCATIONAL ENVIRONMENTS"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "b49a7ebd8743f91882370a4b6132983b3b915a81",
+            "title": "All the Faces of Research on Borderline Personality Pathology: Drawing Future Trajectories through a Network and Cluster Analysis of the Literature"
+          },
+          {
+            "paperId": "63a8d32b40af192c26e7e8d27472a1fab21dba2b",
+            "title": "The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature"
+          },
+          {
+            "paperId": "ab33c942a32b898feb1ef11b5153329fee0b0da8",
+            "title": "Future directions for mobile augmented reality research: Understanding relationships between augmented reality users, nonusers, content, devices, and industry"
+          },
+          {
+            "paperId": "1ab3531dd771d26908ed8e03664d2f41a41d1efa",
+            "title": "The research and application of the augmented reality technology"
+          },
+          {
+            "paperId": "f122f6bd5d736041ca10368fdf3e5f9efb466531",
+            "title": "Virtual reality: A brief survey"
+          },
+          {
+            "paperId": "f9c4a54658a43751652fced1a6afdbd3e5468cf2",
+            "title": "Virtual reality applications in manufacturing industries: Past research, present findings, and future directions"
+          },
+          {
+            "paperId": "14c2ebd735cc965f28d1e27cb946d6929fe0dc22",
+            "title": "A brief survey"
+          },
+          {
+            "paperId": "51475263173b0fc6b316d90a137de14e98158978",
+            "title": "The reality of virtual reality"
+          },
+          {
+            "paperId": "8ca1bb82690998cfc2dd93e4748b0350377ee74e",
+            "title": "Experience of Foundation STEM-School"
+          },
+          {
+            "paperId": "b6bad5df091f3158eefdd766d3631614ee26b9eb",
+            "title": "Доповнена та Віртуальна Реальність як Ресурс Навчальної Діяльності Студентів Augmented Reality and Virtual Reality as the Resources of Students’ Educational Activity"
+          },
+          {
+            "paperId": "e0f9362543791a3fe9c745dc95f725caff0ea9a9",
+            "title": "Virtual reality"
+          },
+          {
+            "paperId": null,
+            "title": "Did you use VR and AR technologies in the classroom?"
+          },
+          {
+            "paperId": null,
+            "title": "Do you have an experience of using VR and AR technologies?"
+          },
+          {
+            "paperId": null,
+            "title": "What is augmented reality, anyway? The Conversation (2018)"
+          },
+          {
+            "paperId": null,
+            "title": "Do you know what VR and AR technologies are? 2. Do you want to use VR and AR technologies at school?"
+          },
+          {
+            "paperId": null,
+            "title": "VR technology as a method and learning tool"
+          }
+        ]
+      },
+      {
+        "paperId": "0567e023f4909ee1066382e076c6969102406ed2",
+        "corpusId": 2694788,
+        "publicationVenue": {
+          "id": "14af611b-2e7d-4afd-8856-2c137fe21b36",
+          "name": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+          "type": "conference",
+          "alternate_names": [
+            "ICTERI",
+            "Int Conf Inf Commun Technol Educ Res Ind Appl"
+          ],
+          "url": "http://www.wikicfp.com/cfp/program?id=1492"
+        },
+        "url": "https://www.semanticscholar.org/paper/0567e023f4909ee1066382e076c6969102406ed2",
+        "title": "Mobile Learning Technologies for Learning English",
+        "abstract": "The priority of education development is the introduction of modern information and communication technologies (ICT), in particular technologies of mobile learning, providing improvement of teaching and educational process, accessibility and effectiveness of education for personal development according to individual inclinations, abilities, based on lifelong learning. Due to rapid expansion, proliferation and increasing of functionality of mobile technologies we should use their potential to improve and facilitate learning, ensuring accessibility, equity, individualization and flexibility. The analysis of the basic features and benefits of mobile technologies for lifelong learning was conducted. The model using mobile learning technologies for learning English phonetics is proposed in the article. The mobile application allows organizing the learning process of English practical phonetics. This article describes the methodical implementation of the proposed model for learning of English phonetics. Modern education in many countries, including Ukraine, foresees the necessity of learning of foreign languages. The proposed mobile learning technologies help to achieve the main aim of learning foreign languages – forming the general and professional communicative competence of specialists in the",
+        "venue": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+        "year": 2016,
+        "referenceCount": 3,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Computer Science",
+            "source": "s2-fos-model"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": null,
+        "journal": {
+          "pages": "872-679"
+        },
+        "authors": [
+          {
+            "authorId": "144891591",
+            "name": "Nataliia Osypova"
+          },
+          {
+            "authorId": "147735914",
+            "name": "O. Gnedkova"
+          },
+          {
+            "authorId": "2140751395",
+            "name": "D. Ushakov"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "0ee25758bf97d7366920c81bf6ada1041bcd305c",
+            "title": "A System Framework for Smart Class System to Boost Education and Management"
+          },
+          {
+            "paperId": "62c544d06c9d2444c9d116bb2c4765929d3c1efa",
+            "title": "Distance Learning Technologies in Institution of Higher Education by Means of LCMS Moodle"
+          },
+          {
+            "paperId": "4c6470ebf3ac79bc5e127f984e60eefa418d2b8c",
+            "title": "Perception of Undergraduate Students on the Utilisation of Flipped Classroom for\n Learning in South-West Nigeria"
+          },
+          {
+            "paperId": "aafd70ea6b5a6a2d23087e40467e1d1d720fedc9",
+            "title": "Mobile base screen sharing system on smart devices"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "afdda31ab8231af15e0c048a3c8bf327850fb424",
+            "title": "Information Competence of University Students in Ukraine: Development Status and Prospects"
+          },
+          {
+            "paperId": "0332616289bbaed387e8534302dccc0a04fa4001",
+            "title": "ПРОГРАМНІ ЗАСОБИ МОБІЛЬНОГО НАВЧАННЯ"
+          },
+          {
+            "paperId": "c21a3683d45c8e97e92c0fa8563ba2c55e6db59a",
+            "title": "Mobile learning in the 21st century: benefit for learners"
+          }
+        ]
+      },
+      {
+        "paperId": "05b69587e5cc15c39d022c6449160c8732a04a4d",
+        "corpusId": 64502866,
+        "publicationVenue": {
+          "id": "14af611b-2e7d-4afd-8856-2c137fe21b36",
+          "name": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+          "type": "conference",
+          "alternate_names": [
+            "ICTERI",
+            "Int Conf Inf Commun Technol Educ Res Ind Appl"
+          ],
+          "url": "http://www.wikicfp.com/cfp/program?id=1492"
+        },
+        "url": "https://www.semanticscholar.org/paper/05b69587e5cc15c39d022c6449160c8732a04a4d",
+        "title": "Mobile Learning Technologies in English Learning",
+        "abstract": null,
+        "venue": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+        "year": 2016,
+        "referenceCount": 5,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          },
+          {
+            "category": "Computer Science",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle"
+        ],
+        "publicationDate": "2016-06-21",
+        "journal": {
+          "pages": "169-183"
+        },
+        "authors": [
+          {
+            "authorId": "144891591",
+            "name": "Nataliia Osypova"
+          },
+          {
+            "authorId": "147735914",
+            "name": "O. Gnedkova"
+          },
+          {
+            "authorId": "2140751395",
+            "name": "D. Ushakov"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "7b0a0ad089cc220d487fa564795a7ba0c6b235d2",
+            "title": "Developing mobile language learning applications: a systematic literature review"
+          },
+          {
+            "paperId": "041b389a0eb726a668f90bc5f9be069b93599135",
+            "title": "CHECKING DIGITAL COMPETENCE FORMATION OF FOREIGN LANGUAGE FUTURE TEACHERS USING GAME SIMULATORS"
+          },
+          {
+            "paperId": "8b260c99d29404ddf4e4acab8ed900facb11110e",
+            "title": "Nursery Science: A Mobile Application for Learning Science for Pre-Schoolers"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "afdda31ab8231af15e0c048a3c8bf327850fb424",
+            "title": "Information Competence of University Students in Ukraine: Development Status and Prospects"
+          },
+          {
+            "paperId": "0332616289bbaed387e8534302dccc0a04fa4001",
+            "title": "ПРОГРАМНІ ЗАСОБИ МОБІЛЬНОГО НАВЧАННЯ"
+          },
+          {
+            "paperId": "a165f54ff96f378e2073559ed65080acdd63c057",
+            "title": "Personalized Intelligent M-learning System for Supporting Effective English Learning"
+          },
+          {
+            "paperId": "391b88fa75f131d17885601f9114dd846e6d2dd9",
+            "title": "Knowledge Control Model of Distance Learning System on IMS Standard"
+          },
+          {
+            "paperId": "c21a3683d45c8e97e92c0fa8563ba2c55e6db59a",
+            "title": "Mobile learning in the 21st century: benefit for learners"
+          }
+        ]
+      },
+      {
+        "paperId": "96f1372332640468acff53b27e6d9049efedf61f",
+        "corpusId": 27328340,
+        "publicationVenue": {
+          "id": "14af611b-2e7d-4afd-8856-2c137fe21b36",
+          "name": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+          "type": "conference",
+          "alternate_names": [
+            "ICTERI",
+            "Int Conf Inf Commun Technol Educ Res Ind Appl"
+          ],
+          "url": "http://www.wikicfp.com/cfp/program?id=1492"
+        },
+        "url": "https://www.semanticscholar.org/paper/96f1372332640468acff53b27e6d9049efedf61f",
+        "title": "The Use of Cloud Services for Learning Foreign Language (English)",
+        "abstract": "Research goals: determine particularities of using cloud services in English communicative competence forming process and develop the model of distance learning system (DLS) and cloud services interaction that improves the quality of the learning process. Research objectives: to identify, describe and develop methodological features of the model of distance learning system and cloud services interaction; consider on the examples the methods of use cloud services in DLS in foreign language training, aimed at English communicative competence forming process of students; experimentally investigate the level of using of cloud services in distance learning and identify ways of improving its use. Object of research: methodical system of foreign language students’ training of language faculties in high institutions. Subject of research: methodological model of the model of distance learning system and cloud services interaction in English communicative competence forming process. Research methods used: review and analysis of scientific publications, psychological, educational and instructional materials, modeling of complex systems, questionnaires, conducting pedagogical experiment. Results of research: The model of distance learning system and cloud services interaction was developed and the methodological particularities of this interaction are defined. Methods of using cloud services on the example of the distance course \"Practical English Course Upper Intermediate\" describing the methods of doing the tasks in English communicative competence forming process of language faculties were considered. As a result of experiment it was found there is a low level of use of cloud technologies in distance learning is a consequence of a lack of awareness of teachers in the possibilities of its use.",
+        "venue": "International Conference on Information and Communication Technologies in Education, Research, and Industrial Applications",
+        "year": 2016,
+        "referenceCount": 14,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Computer Science",
+            "source": "s2-fos-model"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": [
+          "JournalArticle",
+          "Review"
+        ],
+        "publicationDate": null,
+        "journal": {
+          "pages": "620-631"
+        },
+        "authors": [
+          {
+            "authorId": "144364111",
+            "name": "H. Kravtsov"
+          },
+          {
+            "authorId": "147735914",
+            "name": "O. Gnedkova"
+          }
+        ],
+        "citations": [
+          {
+            "paperId": "22a195555be1fc05b4fc71d7101a2f927ac0c652",
+            "title": "Formation of foreign language professionally oriented competence of future foreign language teachers with the use of electronic educational resources"
+          },
+          {
+            "paperId": "a78dfc351ca4b6f1071dd1ff0fe49922e5ad0e1c",
+            "title": "Integration of Cloud Technologies in Teaching Foreign Languages in Higher Education Institutions"
+          },
+          {
+            "paperId": "b94e8b744225bd4102c85948588819c366032248",
+            "title": "Cloud Services in the Distance Learning System for Future Sailors"
+          },
+          {
+            "paperId": "6ef53ac9f60b0dd1c1f5c8ac89ad4098867802aa",
+            "title": "Identification of IT Sector Stakeholder's Requirements to Masters Program in Information System in Lviv Region"
+          },
+          {
+            "paperId": "be48aa134a0edfa985dcbaf8f45fc84bd5055540",
+            "title": "Implementation of Stakeholders' Requirements and Innovations for ICT Curriculum Through Relevant Competences"
+          },
+          {
+            "paperId": "1022003d881f3747b657bfe66b5f4e052fa3e327",
+            "title": "DISTANCE LEARNING TECHNOLOGIES IN FORMATION OF PROFESSIONAL TRAINING OF FUTURE ENGLISH TEACHERS"
+          }
+        ],
+        "references": [
+          {
+            "paperId": "14b2dcc5aca7f5cf61339ed07c6e91b568c2194f",
+            "title": "CLOUD BASED LEARNING ENVIRONMENT OF EDUCATIONAL INSTITUTIONS: THE CURRENT STATE AND RESEARCH PROSPECTS"
+          },
+          {
+            "paperId": "379f897fa771cc8fecddac7e982c6fb0a3fffb86",
+            "title": "The NIST Definition of Cloud Computing"
+          },
+          {
+            "paperId": "254b58962a3e2d71b032dc67a7f5a06118a216a1",
+            "title": "Learner Contributions to Language Learning: New Directions in Research. Applied Linguistics and Language Study."
+          },
+          {
+            "paperId": "8c78768e9576924b947443af35f87b04963a1624",
+            "title": "Distance Education and the Need for Dialogue"
+          },
+          {
+            "paperId": "0bef8183c27a0d98a59fafcc3bd9f9be0bda5a21",
+            "title": "Language teaching at a distance: From the first generation model to the third"
+          },
+          {
+            "paperId": "ec66a3de0ccc106e6b077f95e63a7d21a034f9aa",
+            "title": "Methods and Technologies for the Quality Monitoring of Electronic Educational Resources"
+          },
+          {
+            "paperId": "971490a4e8dbb8f6d50c6a60ffc199a7b480b8e9",
+            "title": "MICROSOFT CLOUD SERVICES IN DISTANCE LEARNING SYSTEM “KHERSON VIRTUAL UNIVERSITY”"
+          },
+          {
+            "paperId": "6094f4c6ed65e2e46dc57e2bd7a3cb10e7ed2199",
+            "title": "Rank Correlation Methods"
+          },
+          {
+            "paperId": null,
+            "title": "Methods of Foreign Language Learning in Secondary Education"
+          },
+          {
+            "paperId": null,
+            "title": "Models of Organizational Systems of Open Education Atika"
+          },
+          {
+            "paperId": null,
+            "title": "Recent Areas of Cloud-based Educational and Scientific Environment Education System"
+          },
+          {
+            "paperId": null,
+            "title": "Theory and practice of distance education: Educational material for the students of higher pedagogical educational institutions"
+          },
+          {
+            "paperId": null,
+            "title": "Distance Learning Process: Textbook"
+          },
+          {
+            "paperId": null,
+            "title": "Technology of Distance Course Development: Navch. Posibnyk. Millenium"
+          }
+        ]
+      },
+      {
+        "paperId": "ded798828112ac526c64e12b5b5a32f778c222b2",
+        "corpusId": 189240659,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/ded798828112ac526c64e12b5b5a32f778c222b2",
+        "title": "TECHNOLOGIES OF CREATION AND A USAGE METHODS OF THE INTERACTIVE HELP IN DISTANCE LTARNING SYSTEM",
+        "abstract": null,
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": null,
+        "fieldsOfStudy": [
+          "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+          {
+            "category": "Computer Science",
+            "source": "external"
+          },
+          {
+            "category": "Computer Science",
+            "source": "s2-fos-model"
+          },
+          {
+            "category": "Education",
+            "source": "s2-fos-model"
+          }
+        ],
+        "publicationTypes": null,
+        "publicationDate": "2010-05-31",
+        "journal": {
+          "volume": "",
+          "pages": "113-117",
+          "name": ""
+        },
+        "authors": [
+          {
+            "authorId": "144364111",
+            "name": "H. Kravtsov"
+          },
+          {
+            "authorId": "147735914",
+            "name": "O. Gnedkova"
+          },
+          {
+            "authorId": "71100954",
+            "name": "E. O. Kozlovskij"
+          },
+          {
+            "authorId": "71233451",
+            "name": "V. V. Ljakutin"
+          }
+        ],
+        "citations": [],
+        "references": []
+      }
+    ]
+  }
+}

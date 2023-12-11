@@ -1,0 +1,9 @@
+{
+  "author": {},
+  "publications": {
+    "error": {
+      "status code": 400,
+      "message": "Bad query parameters"
+    }
+  }
+}
