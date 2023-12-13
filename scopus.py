@@ -9,10 +9,10 @@ class ScopusScrapper:
     def __init__(self, author_id: int):
         self.author_id = author_id
 
-    def search_author_data(self) -> dict:
+    def _search_author_data(self) -> dict:
          au = AuthorRetrieval(author_id=self.author_id)
          author_info = {
-             "author_id": author_id,
+             "author_id": self.author_id,
              "url": au.self_link,
              "name": au.surname+" "+au.given_name,
              "affiliation": au.affiliation_current[0].preferred_name,
@@ -20,13 +20,15 @@ class ScopusScrapper:
              "h_index": au.h_index,
              "citation_count": au.citation_count,
              "documents": au.get_documents(),
-             "areas": au.subject_areas
+             "areas": au.subject_areas,
+             "orcid": au.orcid,
+             "publication_range": au.publication_range
          }
 
          return author_info
 
     @staticmethod
-    def get_author_publications(author_info: dict) -> list[dict[str | Any, Any]]:
+    def _get_author_publications(author_info: dict) -> list[dict[str | Any, Any]]:
         documents = author_info["documents"]
         author_publications = []
         for document in documents:
@@ -41,17 +43,18 @@ class ScopusScrapper:
                 "description": document.description,
                 "citedby_count": document.citedby_count,
                 "authkeywords": document.authkeywords,
-                " aggregationType": document.aggregationType,
-                " issn": document.issn
+                "aggregationType": document.aggregationType,
+                "issn": document.issn
             }
             author_publications.append(author_publication)
         return author_publications
 
     def get_full_author_data(self):
-        author_info = self.search_author_data()
-        publications_info = self.get_author_publications(author_info=author_info)
+        author_info = self._search_author_data()
+        publications_info = self._get_author_publications(author_info=author_info)
         if "documents" in author_info and author_info["documents"]:
             del author_info["documents"]
+
         full_author_data = {
             "author": author_info,
             "publications": publications_info
@@ -64,13 +67,13 @@ def save_to_json(file_name, data):
         json.dump(data, json_file, ensure_ascii=False, indent=2)
 
 
-if __name__ == "__main__":
-    author_id = 36190302600
-    au = ScopusScrapper(author_id)
-    full_author_data = au.get_full_author_data()
-    if full_author_data:
-        file_name = f"scopus_jsons/Scopus_{full_author_data['author']['name']}_data.json"
-        save_to_json(file_name, full_author_data)
-
-        print(f"Всі дані про автора збережено у файлі: {file_name}")
+# if __name__ == "__main__":
+#     author_id = 36190302600
+#     au = ScopusScrapper(author_id)
+#     full_author_data = au.get_full_author_data()
+#     if full_author_data:
+#         file_name = f"scopus_jsons/Scopus_{full_author_data['author']['name']}_data.json"
+#         save_to_json(file_name, full_author_data)
+#
+#         print(f"Всі дані про автора збережено у файлі: {file_name}")
 
