@@ -53,7 +53,7 @@ class SemanticScholarToExcel:
 
     def _create_and_save_excel_file(self,author_data: dict, publications_data: list[
         dict[str, str | None | Any]]):
-        excel_file_path = f"semantic_scholar_excels/{self.file_name.split('.json')[0]}.xlsx"
+        excel_file_path = f"semantic_scholar_excels/{self.file_name.split('semantic_scholars_jsons/')[1].split('.json')[0]}.xlsx"
         with pd.ExcelWriter(excel_file_path, engine='openpyxl') as writer:
             author_df = pd.DataFrame(author_data)
             author_df.to_excel(writer, sheet_name='Author', index=False)
@@ -68,7 +68,7 @@ class SemanticScholarToExcel:
         publications_data = self._write_publications_data(json_data=json_data)
         self._create_and_save_excel_file(author_data=author_data,
                                      publications_data=publications_data)
-        print(f"Saved_to: {file_name.split('.json')[0]}.xlsx")
+        print(f"Saved_to: {file_name.split('semantic_scholars_jsons/')[1].split('.json')[0]}.xlsx")
 
 
 def main():

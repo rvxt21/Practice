@@ -4,14 +4,15 @@ import requests
 import json
 
 
-class ScholarAPI:
-    def __init__(self):
+class SemanticScholarScrapper:
+    def __init__(self, author_id):
         self.base_url = "https://api.semanticscholar.org/graph/v1"
+        self.author_id = author_id
 
-    def _get_author_info(self, author_id: int):
+    def _get_author_info(self):
         fields = "authorId,url,name,aliases,affiliations,homepage,paperCount," \
                  "citationCount,hIndex"
-        author_url = f"{self.base_url}/author/{author_id}?fields={fields}"
+        author_url = f"{self.base_url}/author/{self.author_id}?fields={fields}"
 
         response = requests.get(author_url)
 
@@ -22,15 +23,13 @@ class ScholarAPI:
             print(f"Error {response.status_code}: Bad query parameters")
             status_code = response.status_code
             error_message = 'Bad query parameters'
-            self._update_to_error_json(author_id=author_id,
-                                       status_code=status_code,
+            self._update_to_error_json(status_code=status_code,
                                        error_message=error_message)
         elif response.status_code == 404:
             print(f"Error {response.status_code}: Bad paper id")
             status_code = response.status_code
             error_message = ' Bad paper id'
-            self._update_to_error_json(author_id=author_id,
-                                       status_code=status_code,
+            self._update_to_error_json(status_code=status_code,
                                        error_message=error_message)
 
     def _extract_author_info(self, author_data) -> dict:
@@ -48,13 +47,13 @@ class ScholarAPI:
         }
         return author_info
 
-    def _get_author_papers_info(self, author_id: int, author_info):
+    def _get_author_papers_info(self):
         fields = "paperId,corpusId,url,title,abstract,venue,publicationVenue," \
                  "year,referenceCount,citationCount,influentialCitationCount," \
                  "isOpenAccess,openAccessPdf,fieldsOfStudy,s2FieldsOfStudy," \
                  "publicationTypes,publicationDate,journal,authors,citations," \
                  "references"
-        author_papers_url = f"{self.base_url}/author/{author_id}/papers?fields={fields}"
+        author_papers_url = f"{self.base_url}/author/{self.author_id}/papers?fields={fields}"
         response = requests.get(author_papers_url)
 
         if response.status_code == 200:
@@ -64,31 +63,32 @@ class ScholarAPI:
             print(f"Error {response.status_code}: Bad query parameters")
             status_code = response.status_code
             error_message = 'Bad query parameters'
-            self._update_to_error_json(author_id=author_id,
-                                       status_code=status_code,
+            self._update_to_error_json(status_code=status_code,
                                        error_message=error_message)
 
-    def get_full_author_data(self, author_id: int):
-        author_info = self._get_author_info(author_id)
+    def get_full_author_data(self):
+        author_info = self._get_author_info()
         if author_info:
-            author_papers_info = self._get_author_papers_info(author_id, author_info)
+            author_papers_info = self._get_author_papers_info()
             full_author_data = {
                 "author": author_info,
                 "publications": author_papers_info
             }
             return full_author_data
         return None
+
     @staticmethod
     def _open_template_json_file():
         with open('template.json', 'r', encoding='utf-8') as template_file:
             template_data = json.load(template_file)
         return template_data
 
-    def _save_to_json(self, file_name: Any, data: Any)-> None:
+    @staticmethod
+    def _save_to_json(file_name: Any, data: Any) -> None:
         with open(file_name, 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=2)
 
-    def _update_to_error_json(self, author_id: int, status_code: int, error_message: str):
+    def _update_to_error_json(self, status_code: int, error_message: str):
         template_data = self._open_template_json_file()
         stack = inspect.stack()
         for frame in stack:
@@ -103,5 +103,5 @@ class ScholarAPI:
                 template_data['publications']['error']['status code'] = status_code
                 template_data['publications']['error']['message'] = error_message
 
-        file_name = f"Error{author_id}_data.json"
+        file_name = f"Error{self.author_id}_data.json"
         self._save_to_json(file_name, template_data)
