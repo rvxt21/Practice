@@ -24,7 +24,6 @@ class ScopusScrapper:
              "orcid": au.orcid,
              "publication_range": au.publication_range
          }
-
          return author_info
 
     @staticmethod
@@ -67,13 +66,5 @@ def save_to_json(file_name, data):
         json.dump(data, json_file, ensure_ascii=False, indent=2)
 
 
-# if __name__ == "__main__":
-#     author_id = 36190302600
-#     au = ScopusScrapper(author_id)
-#     full_author_data = au.get_full_author_data()
-#     if full_author_data:
-#         file_name = f"scopus_jsons/Scopus_{full_author_data['author']['name']}_data.json"
-#         save_to_json(file_name, full_author_data)
-#
-#         print(f"Всі дані про автора збережено у файлі: {file_name}")
+
 
