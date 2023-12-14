@@ -1,0 +1,2100 @@
+{
+  "search_metadata": {
+    "id": "657b67e4f26ac60971be0518",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3496d8237562c8e5/657b67e4f26ac60971be0518.json",
+    "created_at": "2023-12-14 20:39:00 UTC",
+    "processed_at": "2023-12-14 20:39:00 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=fbqYHIoAAAAJ&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/3496d8237562c8e5/657b67e4f26ac60971be0518.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "fbqYHIoAAAAJ",
+    "hl": "en"
+  },
+  "author": {
+    "name": "Vitaliy Kobets / Кобець В.М.",
+    "affiliations": "Kherson State University, Doctor of Economic Science, Full Professor",
+    "email": "Verified email at kspu.edu",
+    "website": "https://www.kspu.edu/About/Faculty/FPhysMathemInformatics/ChairInformatics/Staff/KobetzVN.aspx",
+    "interests": [
+      {
+        "title": "data science in economics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_science_in_economics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science_in_economics"
+      },
+      {
+        "title": "evolutionary microeconomics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:evolutionary_microeconomics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevolutionary_microeconomics"
+      },
+      {
+        "title": "robo-advisor",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:robo_advisor",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arobo_advisor"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fbqYHIoAAAAJ&citpid=2"
+  },
+  "articles": [
+    {
+      "title": "Solution of the problem of optimizing route with using the risk criterion",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:uJ-U7cs_P_0C",
+      "citation_id": "fbqYHIoAAAAJ:uJ-U7cs_P_0C",
+      "authors": "P Mamenko, S Zinchenko, V Kobets, P Nosov, I Popovych",
+      "publication": "Lecture Notes in Computational Intelligence and Decision Making: 2021 …, 2022",
+      "cited_by": {
+        "value": 77,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7049081384211958928",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7049081384211958928&engine=google_scholar&hl=en",
+        "cites_id": "7049081384211958928"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Mathematical support of the vessel information and risk control systems",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:tzM49s52ZIMC",
+      "citation_id": "fbqYHIoAAAAJ:tzM49s52ZIMC",
+      "authors": "S Zinchenko, O Tovstokoryi, P Nosov, IS Popovych, V Kobets, G Abramov",
+      "cited_by": {
+        "value": 67,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=925258360362567252",
+        "serpapi_link": "https://serpapi.com/search.json?cites=925258360362567252&engine=google_scholar&hl=en",
+        "cites_id": "925258360362567252"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Time perspective in the professional activity of specialists of economic sphere",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:uc_IGeMz5qoC",
+      "citation_id": "fbqYHIoAAAAJ:uc_IGeMz5qoC",
+      "authors": "I Popovych, DF Arbeláez-Campillo, MJ Rojas-Bahamón, I Burlakova, ...",
+      "publication": "Cuestiones Políticas 39 (69), 424-445, 2021",
+      "cited_by": {
+        "value": 40,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11156504011994935723",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11156504011994935723&engine=google_scholar&hl=en",
+        "cites_id": "11156504011994935723"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Institutional aspects of integrated quality assurance of study programs at HEI using ICT",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:2KloaMYe4IUC",
+      "citation_id": "fbqYHIoAAAAJ:2KloaMYe4IUC",
+      "authors": "V Kobets, V Liubchenko, I Popovych, S Koval",
+      "publication": "CEUR Workshop Proceedings, 2021",
+      "cited_by": {
+        "value": 40,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18317539271426423002",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18317539271426423002&engine=google_scholar&hl=en",
+        "cites_id": "18317539271426423002"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Institutional Aspects of Integrated Quality Assurance of Engineering Study Programs at HEI Using ICT",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:35r97b3x0nAC",
+      "citation_id": "fbqYHIoAAAAJ:35r97b3x0nAC",
+      "authors": "V Kobets, V Liubchenko, I Popovych, S Koval",
+      "publication": "Design, Simulation, Manufacturing: The Innovation Exchange, 301-310, 2021",
+      "cited_by": {
+        "value": 35,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6926008840135317304",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6926008840135317304&engine=google_scholar&hl=en",
+        "cites_id": "6926008840135317304"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Implementation of robo-advisor services for different risk attitude investment decisions using machine learning techniques",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:WA5NYHcadZ8C",
+      "citation_id": "fbqYHIoAAAAJ:WA5NYHcadZ8C",
+      "authors": "O Snihovyi, V Kobets, O Ivanov",
+      "publication": "International conference on information and communication technologies in …, 2018",
+      "cited_by": {
+        "value": 26,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3316825912050091593",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3316825912050091593&engine=google_scholar&hl=en",
+        "cites_id": "3316825912050091593"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Data Analysis of Private Investment Decision Making Using Tools of Robo-Advisers in Long-Run Period.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:V3AGJWp-ZtQC",
+      "citation_id": "fbqYHIoAAAAJ:V3AGJWp-ZtQC",
+      "authors": "V Kobets, V Yatsenko, A Mazur, M Zubrii",
+      "publication": "ICTERI Workshops, 144-159, 2018",
+      "cited_by": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8878641182236620984",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8878641182236620984&engine=google_scholar&hl=en",
+        "cites_id": "8878641182236620984"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Implementation of Robo-Advisors Tools for Different Risk Attitude Investment Decisions.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:1qzjygNMrQYC",
+      "citation_id": "fbqYHIoAAAAJ:1qzjygNMrQYC",
+      "authors": "O Ivanov, O Snihovyi, V Kobets",
+      "publication": "ICTERI Workshops, 195-206, 2018",
+      "cited_by": {
+        "value": 23,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7363315805483258257",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7363315805483258257&engine=google_scholar&hl=en",
+        "cites_id": "7363315805483258257"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Mathematical support of the vessel information and risk control systems P. 335-354",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:9Nmd_mFXekcC",
+      "citation_id": "fbqYHIoAAAAJ:9Nmd_mFXekcC",
+      "authors": "S Zinchenko, O Tovstokoryi, P Nosov, I Popovych, V Kobets, G Abramov",
+      "publication": "CEUR Workshop Proceedings 2805, 0",
+      "cited_by": {
+        "value": 22,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5648658981046758293",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5648658981046758293&engine=google_scholar&hl=en",
+        "cites_id": "5648658981046758293"
+      },
+      "year": ""
+    },
+    {
+      "title": "Implementation of robo-advisors using neural networks for different risk attitude investment decisions",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:eMMeJKvmdy0C",
+      "citation_id": "fbqYHIoAAAAJ:eMMeJKvmdy0C",
+      "authors": "O Snihovyi, O Ivanov, V Kobets",
+      "publication": "2018 International Conference on Intelligent Systems (IS), 332-336, 2018",
+      "cited_by": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2551788475291348793",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2551788475291348793&engine=google_scholar&hl=en",
+        "cites_id": "2551788475291348793"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Implementing manufacturing as a service: A pull-driven agent-based manufacturing grid",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:AvfA0Oy_GE0C",
+      "citation_id": "fbqYHIoAAAAJ:AvfA0Oy_GE0C",
+      "authors": "L Moergestel, E Puik, D Telgen, JJC Meyer, S Batsakis, HC Mayr, ...",
+      "publication": "Proceedings of the 11th International Conference on ICT in Education …, 2015",
+      "cited_by": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2890141987589595303",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2890141987589595303&engine=google_scholar&hl=en",
+        "cites_id": "2890141987589595303"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Using an evolutionary algorithm to improve investment strategies for industries in an economic system",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:738O_yMBCRsC",
+      "citation_id": "fbqYHIoAAAAJ:738O_yMBCRsC",
+      "authors": "V Kobets, M Poltoratskiy",
+      "publication": "ICT in Education, Research and Industrial Applications, 2016",
+      "cited_by": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12413288634261075332",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12413288634261075332&engine=google_scholar&hl=en",
+        "cites_id": "12413288634261075332"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Challenges of Ukrainian female immigrants and their children in host countries",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:SdhP9T11ey4C",
+      "citation_id": "fbqYHIoAAAAJ:SdhP9T11ey4C",
+      "authors": "O Koshulko, V Kobets",
+      "publication": "Полоцкий государственный университет, 2017",
+      "cited_by": {
+        "value": 15,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13179008797287805001",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13179008797287805001&engine=google_scholar&hl=en",
+        "cites_id": "13179008797287805001"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Data analysis of personalized investment decision making using robo-advisers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:yB1At4FlUx8C",
+      "citation_id": "fbqYHIoAAAAJ:yB1At4FlUx8C",
+      "authors": "V Kobets, V Yatsenko, A Mazur, M Zubrii",
+      "publication": "Наука та інновації, 2020",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10604472428536040129",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10604472428536040129&engine=google_scholar&hl=en",
+        "cites_id": "10604472428536040129"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Support of Investors' Decision Making in Economic Experiments Using Software Tools.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:_B80troHkn4C",
+      "citation_id": "fbqYHIoAAAAJ:_B80troHkn4C",
+      "authors": "D Kilinich, V Kobets",
+      "publication": "ICTERI Workshops, 277-288, 2019",
+      "cited_by": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9087914040771646508",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9087914040771646508&engine=google_scholar&hl=en",
+        "cites_id": "9087914040771646508"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Implementation of Stakeholders' Requirements and Innovations for ICT Curriculum Through Relevant Competences.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:LPZeul_q3PIC",
+      "citation_id": "fbqYHIoAAAAJ:LPZeul_q3PIC",
+      "authors": "H Kravtsov, V Kobets",
+      "publication": "ICTERI, 414-427, 2017",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=228211992865587976",
+        "serpapi_link": "https://serpapi.com/search.json?cites=228211992865587976&engine=google_scholar&hl=en",
+        "cites_id": "228211992865587976"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Forming an evolutionarily stable firm strategy under Cournot competition using social preferences",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:NhqRSupF_l8C",
+      "citation_id": "fbqYHIoAAAAJ:NhqRSupF_l8C",
+      "authors": "V Kobets, M Poltoratskiy",
+      "publication": "Information and Communication Technologies in Education, Research, and …, 2014",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5101018677661666258",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5101018677661666258&engine=google_scholar&hl=en",
+        "cites_id": "5101018677661666258"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Cryptocurrencies prices forecasting with anaconda tool using machine learning techniques",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:5ugPr518TE4C",
+      "citation_id": "fbqYHIoAAAAJ:5ugPr518TE4C",
+      "authors": "O Snihovyi, O Ivanov, V Kobets",
+      "publication": "CEUR Workshop Proceedings 2105, 453-456, 2018",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17468687658037810159",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17468687658037810159&engine=google_scholar&hl=en",
+        "cites_id": "17468687658037810159"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Model of the Curriculum Revision System in Computer Science.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:wbdj-CoPYUoC",
+      "citation_id": "fbqYHIoAAAAJ:wbdj-CoPYUoC",
+      "authors": "H Kravtsov, V Kobets",
+      "publication": "ICTERI Workshops, 488-500, 2018",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14706605168946683203",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14706605168946683203&engine=google_scholar&hl=en",
+        "cites_id": "14706605168946683203"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Nonlinear dynamic model of a microeconomic system with different reciprocity and expectations types of firms: stability and bifurcations",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&citation_for_view=fbqYHIoAAAAJ:Tiz5es2fbqcC",
+      "citation_id": "fbqYHIoAAAAJ:Tiz5es2fbqcC",
+      "authors": "V Kobets, A Weissblut",
+      "publication": "ICT in Education, Research and Industrial Applications, 2016",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1076195249425143216",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1076195249425143216&engine=google_scholar&hl=en",
+        "cites_id": "1076195249425143216"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Risk Management with Lean Methodology.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:kzcrU_BdoSEC",
+      "citation_id": "fbqYHIoAAAAJ:kzcrU_BdoSEC",
+      "authors": "N Komleva, V Liubchenko, S Zinovatna, V Kobets",
+      "publication": "CITRisk, 266-281, 2020",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6865006846670761298",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6865006846670761298&engine=google_scholar&hl=en",
+        "cites_id": "6865006846670761298"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Adjusting Business Processes by the Means of an Autoregressive Model Using BPMN 2.0.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:WbkHhVStYXYC",
+      "citation_id": "fbqYHIoAAAAJ:WbkHhVStYXYC",
+      "authors": "V Kobets, V Yatsenko",
+      "publication": "ICTERI, 518-533, 2016",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13923494957974455626",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13923494957974455626&engine=google_scholar&hl=en",
+        "cites_id": "13923494957974455626"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Вплив цінової політики перевізника на рівновагу логістичної системи і доходи державного бюджету в умовах інформаційної асиметрії",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "fbqYHIoAAAAJ:d1gkVwhDpl0C",
+      "authors": "ВМ Кобець",
+      "publication": "Актуальні проблеми економіки, 113-119, 2007",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1606001447174686909",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1606001447174686909&engine=google_scholar&hl=en",
+        "cites_id": "1606001447174686909"
+      },
+      "year": "2007"
+    },
+    {
+      "title": "EU countries clustering for the state of food security using machine learning techniques",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:tYavs44e6CUC",
+      "citation_id": "fbqYHIoAAAAJ:tYavs44e6CUC",
+      "authors": "ON Vitaliy Kobets",
+      "publication": "Нейро-нечіткі технології моделювання в економіці 10, 86-118, 2021",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17038971593853836416",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17038971593853836416&engine=google_scholar&hl=en",
+        "cites_id": "17038971593853836416"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Cluster Analysis of Countries Inequality Due to IT Development Through Macros Application",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:WqliGbK-hY8C",
+      "citation_id": "fbqYHIoAAAAJ:WqliGbK-hY8C",
+      "authors": "V Kobets, V Yatsenko, M Voynarenko",
+      "publication": "International Conference on Information and Communication Technologies in …, 2019",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16885510821552679069",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16885510821552679069&engine=google_scholar&hl=en",
+        "cites_id": "16885510821552679069"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Preface",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:ipzZ9siozwsC",
+      "citation_id": "fbqYHIoAAAAJ:ipzZ9siozwsC",
+      "authors": "V Ermolayev, F Mallet, V Yakovyna, V Kharchenko, V Kobets, ...",
+      "publication": "Vadim Ermolayev, Frédéric Mallet, Vitaliy Yakovyna, Vyacheslav Kharchenko …, 2019",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9913389210918182449",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9913389210918182449&engine=google_scholar&hl=en",
+        "cites_id": "9913389210918182449"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Cluster analysis of countries inequality due to IT development",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:1yQoGdGgb4wC",
+      "citation_id": "fbqYHIoAAAAJ:1yQoGdGgb4wC",
+      "authors": "V Kobets, V Yatsenko, M Voynarenko",
+      "publication": "Ceur workshop proceedings, 406-421, 2019",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8242141542173326726",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8242141542173326726&engine=google_scholar&hl=en",
+        "cites_id": "8242141542173326726"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Порівняння різних видів цінової політики перевізника-монополіста",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "fbqYHIoAAAAJ:hqOjcs7Dif8C",
+      "authors": "ВМ Кобець",
+      "publication": "Методи та засоби управління розвитком транспортних систем: Зб. наук. праць …, 2005",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8579771264143622952",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8579771264143622952&engine=google_scholar&hl=en",
+        "cites_id": "8579771264143622952"
+      },
+      "year": "2005"
+    },
+    {
+      "title": "Decision support system for quality management in learning process",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:JQOojiI6XY0C",
+      "citation_id": "fbqYHIoAAAAJ:JQOojiI6XY0C",
+      "authors": "N Komleva, V Liubchenko, S Zinovatna, V Kobets",
+      "publication": "9th International Conference\" Information Control Systems & Technologies …, 2020",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=126864905959081753",
+        "serpapi_link": "https://serpapi.com/search.json?cites=126864905959081753&engine=google_scholar&hl=en",
+        "cites_id": "126864905959081753"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Influence of the Fourth industrial revolution on divergence and convergence of economic inequality for various countries",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:LI9QrySNdTsC",
+      "citation_id": "fbqYHIoAAAAJ:LI9QrySNdTsC",
+      "authors": "V Kobets, V Yatsenko",
+      "publication": "Neiro-Nechitki Tekhnolohii Modelyuvannya v Ekonomitsi 8, 124-146, 2019",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15197663162478874122",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15197663162478874122&engine=google_scholar&hl=en",
+        "cites_id": "15197663162478874122"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "GIS Based Model of Quotas Regulation and its Impact on the Extraction of Ecosystems' Natural Resources and Social Welfare.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:bnK-pcrLprsC",
+      "citation_id": "fbqYHIoAAAAJ:bnK-pcrLprsC",
+      "authors": "V Kobets, A Bystriantseva, I Shakhman",
+      "publication": "ICTERI 2105, 151-166, 2018",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6795250060957940591",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6795250060957940591&engine=google_scholar&hl=en",
+        "cites_id": "6795250060957940591"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Mechanism Design for Foreign Producers of Unique Homogeneity Product.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "fbqYHIoAAAAJ:u-x6o8ySG0sC",
+      "authors": "V Kobets",
+      "publication": "ICTERI, 329-338, 2013",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8032450682300130010",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8032450682300130010&engine=google_scholar&hl=en",
+        "cites_id": "8032450682300130010"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Доцільність вертикальних інтеграцій виробничо-посередницьких ланцюжків поставок: Зб. наук. праць",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "fbqYHIoAAAAJ:9yKSN-GCB0IC",
+      "authors": "ВМ Кобець",
+      "publication": "Вип 60, 255-258, 0",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13749887097364891716",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13749887097364891716&engine=google_scholar&hl=en",
+        "cites_id": "13749887097364891716"
+      },
+      "year": ""
+    },
+    {
+      "title": "Development of an electronic system for remote assessment of students' knowledge in cloud-based learning environment",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:EkHepimYqZsC",
+      "citation_id": "fbqYHIoAAAAJ:EkHepimYqZsC",
+      "authors": "MI Sherman, YB Samchynska, VM Kobets",
+      "publication": "CTE Workshop Proceedings 9, 290-305, 2022",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9461716977623585917",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9461716977623585917&engine=google_scholar&hl=en",
+        "cites_id": "9461716977623585917"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Dynamic Model of Double Electronic Vickrey Auction.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:P5F9QuxV20EC",
+      "citation_id": "fbqYHIoAAAAJ:P5F9QuxV20EC",
+      "authors": "V Kobets, V Yatsenko, M Poltoratskiy",
+      "publication": "ICTERI, 236-251, 2015",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4467947924800981045",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4467947924800981045&engine=google_scholar&hl=en",
+        "cites_id": "4467947924800981045"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Ценообразование в цепочке поставок «производитель-посредники-рынок»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:HoB7MX3m0LUC",
+      "citation_id": "fbqYHIoAAAAJ:HoB7MX3m0LUC",
+      "authors": "ВН Кобец",
+      "publication": "Региональная специфика развития бизнеса и экономики: Материалы I …, 2008",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5074582188975696947",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5074582188975696947&engine=google_scholar&hl=en",
+        "cites_id": "5074582188975696947"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Конкуренція та інтеграція логістичних ланцюжків в умовах інформаційної асиметрії",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:3s1wT3WcHBgC",
+      "citation_id": "fbqYHIoAAAAJ:3s1wT3WcHBgC",
+      "authors": "АМ Холоденко, ВМ Кобець",
+      "publication": "Методи та засоби управління розвитком транспортних систем: Зб. наук. праць …, 2004",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7225052423275019011",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7225052423275019011&engine=google_scholar&hl=en",
+        "cites_id": "7225052423275019011"
+      },
+      "year": "2004"
+    },
+    {
+      "title": "Sustainable Robo-Advisor Bot and Investment Advice-Taking Behavior",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:EYYDruWGBe4C",
+      "citation_id": "fbqYHIoAAAAJ:EYYDruWGBe4C",
+      "authors": "V Kobets, O Petrov, S Koval",
+      "publication": "PLAIS EuroSymposium on Digital Transformation, 15-35, 2022",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10667070950184495348",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10667070950184495348&engine=google_scholar&hl=en",
+        "cites_id": "10667070950184495348"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Market Dynamics of Ensuring Financial Security and Sustainable Development of Enterprise",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:-_dYPAW6P2MC",
+      "citation_id": "fbqYHIoAAAAJ:-_dYPAW6P2MC",
+      "authors": "V Khrapkina, V Kobets, V Stratonov",
+      "publication": "Studies in Microeconomics 10 (2), 225-246, 2022",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10312794309589752754",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10312794309589752754&engine=google_scholar&hl=en",
+        "cites_id": "10312794309589752754"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Automatic determination of the navigators motivation model when operating water transport",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=20&citation_for_view=fbqYHIoAAAAJ:XD-gHx7UXLsC",
+      "citation_id": "fbqYHIoAAAAJ:XD-gHx7UXLsC",
+      "authors": "PS Nosov, IS Popovych, SM Zinchenko, VM Kobets, AF Safonova, ...",
+      "publication": "Radio Electronics, Computer Science, Control, 152-165, 2021",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6125843596918601382",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6125843596918601382&engine=google_scholar&hl=en",
+        "cites_id": "6125843596918601382"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Evolutionary revision model for improvement of computer science curriculum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:Mojj43d5GZwC",
+      "citation_id": "fbqYHIoAAAAJ:Mojj43d5GZwC",
+      "authors": "H Kravtsov, V Kobets",
+      "publication": "Information and Communication Technologies in Education, Research, and …, 2019",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11933883422326978523",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11933883422326978523&engine=google_scholar&hl=en",
+        "cites_id": "11933883422326978523"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Implementation of robo-advisors tools for different risk attitude invesment decisions",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:kuK5TVdYjLIC",
+      "citation_id": "fbqYHIoAAAAJ:kuK5TVdYjLIC",
+      "authors": "O Ivanon, O Snihovyi, V Kobets",
+      "publication": "Proceedings of the 14th International Conference on ICT in Education …, 2018",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7281697506935693730",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7281697506935693730&engine=google_scholar&hl=en",
+        "cites_id": "7281697506935693730"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Neuro-Fuzzy Model of Development Forecasting and Effective Agrarian Sector Transformations of Ukraine.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:J-pR_7NvFogC",
+      "citation_id": "fbqYHIoAAAAJ:J-pR_7NvFogC",
+      "authors": "D Nemchenko, V Kobets, L Potravka",
+      "publication": "ICTERI Workshops, 84-99, 2018",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15703744215235575544",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15703744215235575544&engine=google_scholar&hl=en",
+        "cites_id": "15703744215235575544"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Data analysis of personalized investment decision making using robo-advisers. Sci. Innov. 16 (2), 80–93 (2020)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:e_rmSamDkqQC",
+      "citation_id": "fbqYHIoAAAAJ:e_rmSamDkqQC",
+      "authors": "VM Kobets, VO Yatsenko, A Mazur, MI Zubrii",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15387888763338146341",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15387888763338146341&engine=google_scholar&hl=en",
+        "cites_id": "15387888763338146341"
+      },
+      "year": ""
+    },
+    {
+      "title": "Вплив посередницької діяльності на рівновагу логістичного ланцюжка",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:b1wdh0AR-JQC",
+      "citation_id": "fbqYHIoAAAAJ:b1wdh0AR-JQC",
+      "authors": "ВМ Кобець",
+      "publication": "Облік, контроль і аналіз в управлінні підприємницької діяльності: Матер …, 0",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8953110898519543084",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8953110898519543084&engine=google_scholar&hl=en",
+        "cites_id": "8953110898519543084"
+      },
+      "year": ""
+    },
+    {
+      "title": "Bridging business analysts competence gaps: Labor market needs versus education standards",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:evX43VCCuoAC",
+      "citation_id": "fbqYHIoAAAAJ:evX43VCCuoAC",
+      "authors": "V Kobets, V Yatsenko, L Buiak",
+      "publication": "International Conference on Information and Communication Technologies in …, 2020",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1139237523514296054",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1139237523514296054&engine=google_scholar&hl=en",
+        "cites_id": "1139237523514296054"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Identifying the gaps in the preparing of a business analyst between the requirements of the labor market and the standards of study programs: Case of Ukraine",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:nrtMV_XWKgEC",
+      "citation_id": "fbqYHIoAAAAJ:nrtMV_XWKgEC",
+      "authors": "V Kobets, V Yatsenko, L Buiak",
+      "publication": "Ceur workshop proceedings, 499-514, 2020",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15565753678747087716",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15565753678747087716&engine=google_scholar&hl=en",
+        "cites_id": "15565753678747087716"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Моделювання та інформаційні технології в економіці: монографія",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:HE397vMXCloC",
+      "citation_id": "fbqYHIoAAAAJ:HE397vMXCloC",
+      "authors": "ВМ Кобець",
+      "publication": "За заг. редакцією Соловйова ВМ–Черкаси:\" Брама-Україна, 2014",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6919075904199558640",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6919075904199558640&engine=google_scholar&hl=en",
+        "cites_id": "6919075904199558640"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Цінова дискримінація проти єдиної ціни: вибір олігополії",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:dshw04ExmUIC",
+      "citation_id": "fbqYHIoAAAAJ:dshw04ExmUIC",
+      "authors": "ВМ Кобець",
+      "publication": "Економіка та держава, 44-46, 2010",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9194925754827404683",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9194925754827404683&engine=google_scholar&hl=en",
+        "cites_id": "9194925754827404683"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Мікроекономіка з використанням інформаційних технологій: навчальний посібник [для студентів вищих навчальних закладів]",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:UeHWp8X0CEIC",
+      "citation_id": "fbqYHIoAAAAJ:UeHWp8X0CEIC",
+      "authors": "ВМ Кобець",
+      "publication": "Херсон: ПП. Вишемирський ВС, 2010",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4653084630592453979",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4653084630592453979&engine=google_scholar&hl=en",
+        "cites_id": "4653084630592453979"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Solution of microeconomics assignments by the means of profram modules ISPEZ on the distance platform Moodle/Інформаційні технології в освіті:[зб. наук. праць/гол. ред. ОВ …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "fbqYHIoAAAAJ:2osOgNQ5qMEC",
+      "authors": "ВМ Кобець",
+      "publication": "Херсон: Вид-во ХДУ, 116-121, 2010",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=153201172476056140",
+        "serpapi_link": "https://serpapi.com/search.json?cites=153201172476056140&engine=google_scholar&hl=en",
+        "cites_id": "153201172476056140"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Застосування інформаційних технологій у контролі знань студентів із економічних дисциплін",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:IjCSPb-OGe4C",
+      "citation_id": "fbqYHIoAAAAJ:IjCSPb-OGe4C",
+      "authors": "VM Kobets",
+      "publication": "Journal of Information Technologies in Education (ITE), 148-156, 2009",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12935402831031596018",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12935402831031596018&engine=google_scholar&hl=en",
+        "cites_id": "12935402831031596018"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Introduction of information technologies knowledge control from economical disciplines/Інформаційні технології в освіті:[зб. наук. праць/гол. ред. ОВ Співаковський]",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:qjMakFHDy7sC",
+      "citation_id": "fbqYHIoAAAAJ:qjMakFHDy7sC",
+      "authors": "ВМ Кобець",
+      "publication": "Херсон: Вид-во ХДУ, 123-127, 2009",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4415632081848491773",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4415632081848491773&engine=google_scholar&hl=en",
+        "cites_id": "4415632081848491773"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Економіко-математичне моделювання виробничо-транспортних систем в умовах інформаційної симетрії та асиметрії",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:SeFeTyx0c_EC",
+      "citation_id": "fbqYHIoAAAAJ:SeFeTyx0c_EC",
+      "authors": "ВМ Кобець",
+      "publication": "ВМ Кобець.− Одеса, 2008.− 218 с, 2008",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1235895617846035599",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1235895617846035599&engine=google_scholar&hl=en",
+        "cites_id": "1235895617846035599"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Development of robo-advisor system for personalized investment and insurance portfolio generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:0KyAp5RtaNEC",
+      "citation_id": "fbqYHIoAAAAJ:0KyAp5RtaNEC",
+      "authors": "S Savchenko, V Kobets",
+      "publication": "International Conference on Information and Communication Technologies in …, 2021",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3171056573927155584",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3171056573927155584&engine=google_scholar&hl=en",
+        "cites_id": "3171056573927155584"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Recruitment web-service management system using competence-based approach for manufacturing enterprises",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:eq2jaN3J8jMC",
+      "citation_id": "fbqYHIoAAAAJ:eq2jaN3J8jMC",
+      "authors": "V Kobets, N Tsiuriuta, V Lytvynenko, M Novikov, S Chizhik",
+      "publication": "Design, Simulation, Manufacturing: The Innovation Exchange, 138-148, 2019",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3729431213845023798",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3729431213845023798&engine=google_scholar&hl=en",
+        "cites_id": "3729431213845023798"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "What can economic experiments discover about evolutionary effectiveness of supermarket strategies?",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:mvPsJ3kp5DgC",
+      "citation_id": "fbqYHIoAAAAJ:mvPsJ3kp5DgC",
+      "authors": "V Kobets, V Yatsenko",
+      "publication": "Sumy State University, 2018",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17356501737778849687",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17356501737778849687&engine=google_scholar&hl=en",
+        "cites_id": "17356501737778849687"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Mathematical Model of Microeconomic System with Different Social Responsibilities in Software Module.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:fQNAKQ3IYiAC",
+      "citation_id": "fbqYHIoAAAAJ:fQNAKQ3IYiAC",
+      "authors": "V Kobets, AJ Weissblut",
+      "publication": "ICTERI, 139-154, 2017",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2410505451167217674",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2410505451167217674&engine=google_scholar&hl=en",
+        "cites_id": "2410505451167217674"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Вплив тарифної політики транспортної компанії-монополіста на суспільний добробут",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:UxriW0iASnsC",
+      "citation_id": "fbqYHIoAAAAJ:UxriW0iASnsC",
+      "authors": "ВМ Кобець",
+      "publication": "Економіка та держава, 45-47, 2009",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14692000164590115881",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14692000164590115881&engine=google_scholar&hl=en",
+        "cites_id": "14692000164590115881"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Development of Software Architecture and Machine Learning Modules of Robo-Advisor System for Personalized Investment Portfolio Generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=40&citation_for_view=fbqYHIoAAAAJ:vbGhcppDl1QC",
+      "citation_id": "fbqYHIoAAAAJ:vbGhcppDl1QC",
+      "authors": "S Savchenko, V Kobets",
+      "publication": "International Conference on Information and Communication Technologies in …, 2021",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9459894439154423516",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9459894439154423516&engine=google_scholar&hl=en",
+        "cites_id": "9459894439154423516"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Perspectivas temporales en las actividades profesionales de especialistas en el área económica",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:z_wVstp3MssC",
+      "citation_id": "fbqYHIoAAAAJ:z_wVstp3MssC",
+      "authors": "IS Popovych, DF Arbeláez-Campillo, MJ Rojas-Bahamón, I Burlakova, ...",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1138190807347746027",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1138190807347746027&engine=google_scholar&hl=en",
+        "cites_id": "1138190807347746027"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Impact of the environmental externalities and technological progress on the stability of economic system development on the example of the Ingulets river basin",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:_Ybze24A_UAC",
+      "citation_id": "fbqYHIoAAAAJ:_Ybze24A_UAC",
+      "authors": "V Kobets, ІО Shakhman, A Bystriantseva",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6942522450448659526",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6942522450448659526&engine=google_scholar&hl=en",
+        "cites_id": "6942522450448659526"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Web-Service Management System for Job Search Using Competence-Based Approach.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:uLbwQdceFCQC",
+      "citation_id": "fbqYHIoAAAAJ:uLbwQdceFCQC",
+      "authors": "V Kobets, N Tsiuriuta, V Lytvynenko, V Mykhaylova",
+      "publication": "ICTERI Workshops, 290-302, 2020",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15454769147646329177",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15454769147646329177&engine=google_scholar&hl=en",
+        "cites_id": "15454769147646329177"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Forecasting real option price model by means of evolutionary and genetic algorithms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:XiVPGOgt02cC",
+      "citation_id": "fbqYHIoAAAAJ:XiVPGOgt02cC",
+      "authors": "M Zubrii, A Mazur, V Kobets",
+      "publication": "Design, Simulation, Manufacturing: The Innovation Exchange, 214-224, 2018",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9899478874598145063",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9899478874598145063&engine=google_scholar&hl=en",
+        "cites_id": "9899478874598145063"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Direct and Indirect Impact Analysis of Ukrainian Industries on Gross Output and Labor Market in Leontief Model.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "fbqYHIoAAAAJ:u5HHmVD_uO8C",
+      "authors": "V Kobets",
+      "publication": "ICTERI, 259-266, 2012",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8532110086430308331",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8532110086430308331&engine=google_scholar&hl=en",
+        "cites_id": "8532110086430308331"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Tariff policy of transport company-monopolist at delivery of products of m producers to n markets",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:UebtZRa9Y70C",
+      "citation_id": "fbqYHIoAAAAJ:UebtZRa9Y70C",
+      "authors": "VM Kobets",
+      "publication": "Actual Problems of Economics, 263-271, 2009",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14666111413251868774",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14666111413251868774&engine=google_scholar&hl=en",
+        "cites_id": "14666111413251868774"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Building an Optimal Investment Portfolio with Python Machine Learning Tools",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:KUbvn5osdkgC",
+      "citation_id": "fbqYHIoAAAAJ:KUbvn5osdkgC",
+      "authors": "V Kobets, S Savchenko",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4132062916547682661",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4132062916547682661&engine=google_scholar&hl=en",
+        "cites_id": "4132062916547682661"
+      },
+      "year": ""
+    },
+    {
+      "title": "Intelligent System Control of the Vessel Executive Devices Redundant Structure",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:gsN89kCJA0AC",
+      "citation_id": "fbqYHIoAAAAJ:gsN89kCJA0AC",
+      "authors": "S Zinchenko, V Kobets, O Tovstokoryi, P Nosov, IS Popovych",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18021613095952704702",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18021613095952704702&engine=google_scholar&hl=en",
+        "cites_id": "18021613095952704702"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "IDENTIFICATION OF FACTORS FOR PROVIDING THE HIGHER EDUCATION QUALITY ASSURANCE FOR STUDENTS.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:TIZ-Mc8IlK0C",
+      "citation_id": "fbqYHIoAAAAJ:TIZ-Mc8IlK0C",
+      "authors": "V Kobets, NV Osypova",
+      "publication": "International Journal for Quality Research 17 (1), 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=432568522197780653",
+        "serpapi_link": "https://serpapi.com/search.json?cites=432568522197780653&engine=google_scholar&hl=en",
+        "cites_id": "432568522197780653"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Application of chat bots for personalized financial advice",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:p__nRnzSRKYC",
+      "citation_id": "fbqYHIoAAAAJ:p__nRnzSRKYC",
+      "authors": "ВМ Кобець, КГ Козловський",
+      "publication": "Вісник сучасних інформаційних технологій 5 (3), 229–242-229–242, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6638251930733695471",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6638251930733695471&engine=google_scholar&hl=en",
+        "cites_id": "6638251930733695471"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Using telegram bots for personalized financial advice for staff of manufacturing engineering enterprises",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:BUYA1_V_uYcC",
+      "citation_id": "fbqYHIoAAAAJ:BUYA1_V_uYcC",
+      "authors": "V Kobets, S Savchenko",
+      "publication": "Design, Simulation, Manufacturing: The Innovation Exchange, 561-571, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2964378488129139768",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2964378488129139768&engine=google_scholar&hl=en",
+        "cites_id": "2964378488129139768"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Automated forming of insurance premium for different risk attitude investment portfolio using robo-advisor",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:BwyfMAYsbu0C",
+      "citation_id": "fbqYHIoAAAAJ:BwyfMAYsbu0C",
+      "authors": "V Kobets, V Yatsenko, I Popovych",
+      "publication": "International Conference on Information and Communication Technologies in …, 2021",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14953422004957608176",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14953422004957608176&engine=google_scholar&hl=en",
+        "cites_id": "14953422004957608176"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Spatial Models of Countries Economic Development under Pandemic Condition",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:t7zJ5fGR-2UC",
+      "citation_id": "fbqYHIoAAAAJ:t7zJ5fGR-2UC",
+      "authors": "V Kobets, E Pilshchyk, V Mykhaylova",
+      "publication": "2021 11th International Conference on Advanced Computer Information …, 2021",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7273984047008790458",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7273984047008790458&engine=google_scholar&hl=en",
+        "cites_id": "7273984047008790458"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "A Model for Assessing the Rating of Higher Education School Academic Staff Members Based on the Fuzzy Inference System",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:j8SEvjWlNXcC",
+      "citation_id": "fbqYHIoAAAAJ:j8SEvjWlNXcC",
+      "authors": "S Babichev, A Spivakovsky, S Omelchuk, V Kobets",
+      "publication": "International Scientific Conference “Intellectual Systems of Decision Making …, 2021",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6479201571025329148",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6479201571025329148&engine=google_scholar&hl=en",
+        "cites_id": "6479201571025329148"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Models of Rental Payments Formation for Agricultural Land Plots Taking into Account the Ecological Level of Economy",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:PR6Y55bgFSsC",
+      "citation_id": "fbqYHIoAAAAJ:PR6Y55bgFSsC",
+      "authors": "L Buiak, O Bashutska, K Pryshliak, V Hryhorkiv, M Hryhorkiv, V Kobets",
+      "publication": "2020 10th International Conference on Advanced Computer Information …, 2020",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17232278392659772645",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17232278392659772645&engine=google_scholar&hl=en",
+        "cites_id": "17232278392659772645"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "ICT in Education, Research and Industrial Applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:vRqMK49ujn8C",
+      "citation_id": "fbqYHIoAAAAJ:vRqMK49ujn8C",
+      "authors": "V Ermolayev, MC Suárez-Figueroa, A Ławrynowicz, R Palma, ...",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4989352510240894796",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4989352510240894796&engine=google_scholar&hl=en",
+        "cites_id": "4989352510240894796"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Simulation Agent-Based Model of Heterogeneous Firms Through Software Module",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:kRWSkSYxWN8C",
+      "citation_id": "fbqYHIoAAAAJ:kRWSkSYxWN8C",
+      "authors": "V Kobets, A Weissblut",
+      "publication": "Information and Communication Technologies in Education, Research, and …, 2018",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4213747664581394208",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4213747664581394208&engine=google_scholar&hl=en",
+        "cites_id": "4213747664581394208"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Design, Development and Use of Decision Support Systems in the Study of Economic Disciplines in Higher Education.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:5Ul4iDaHHb8C",
+      "citation_id": "fbqYHIoAAAAJ:5Ul4iDaHHb8C",
+      "authors": "N Osipova, V Kobets, T Bazanova",
+      "publication": "ICTERI, 191-206, 2017",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3419856865325230537",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3419856865325230537&engine=google_scholar&hl=en",
+        "cites_id": "3419856865325230537"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "ICT in Education, Research and Industrial Applications: Integration, Harmonization and Knowledge Transfer",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:q3oQSFYPqjQC",
+      "citation_id": "fbqYHIoAAAAJ:q3oQSFYPqjQC",
+      "authors": "S Batsakis, HC Mayr, V Yakovyna, M Nikitchenko, G Zholtkevych, ...",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14886349935961782991",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14886349935961782991&engine=google_scholar&hl=en",
+        "cites_id": "14886349935961782991"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Розробка економічних механізмів досягнення суспільних цілей",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=60&citation_for_view=fbqYHIoAAAAJ:KxtntwgDAa4C",
+      "citation_id": "fbqYHIoAAAAJ:KxtntwgDAa4C",
+      "authors": "ВМ Кобець",
+      "publication": "Економіка та держава, 13-16, 2013",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10256169100194523562",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10256169100194523562&engine=google_scholar&hl=en",
+        "cites_id": "10256169100194523562"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Introduction of information technologies knowledge control from economical disciplines",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:8AbLer7MMksC",
+      "citation_id": "fbqYHIoAAAAJ:8AbLer7MMksC",
+      "authors": "VM Kobets",
+      "publication": "Journal of Information Technologies in Education (ITE), 123-127, 2009",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=792256539830015585",
+        "serpapi_link": "https://serpapi.com/search.json?cites=792256539830015585&engine=google_scholar&hl=en",
+        "cites_id": "792256539830015585"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Creating of a General Purpose Language for the Construction of Dynamic Reports",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:k8Z6L05lTy4C",
+      "citation_id": "fbqYHIoAAAAJ:k8Z6L05lTy4C",
+      "authors": "V Iatsiuta, V Kobets, O Ivanov",
+      "publication": "PLAIS EuroSymposium on Digital Transformation, 16-37, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Increasing Investment Portfolio Profitability with Computer Analysis Trading Strategies",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:oNZyr7d5Mn4C",
+      "citation_id": "fbqYHIoAAAAJ:oNZyr7d5Mn4C",
+      "authors": "S Savchenko, V Kobets",
+      "publication": "International Conference on Information and Communication Technologies in …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Artificial Intelligence Impact on Food Security of States in the World",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:M7yex6snE4oC",
+      "citation_id": "fbqYHIoAAAAJ:M7yex6snE4oC",
+      "authors": "O Novak, V Kobets",
+      "publication": "International Conference on Information and Communication Technologies in …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Data Analysis for Predicting Stock Prices Using Financial Indicators Based on Business Reports",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:kz9GbA2Ns4gC",
+      "citation_id": "fbqYHIoAAAAJ:kz9GbA2Ns4gC",
+      "authors": "O Ivanov, V Kobets",
+      "publication": "International Conference on Information and Communication Technologies in …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Gap-filling model between the labor market requirements and the standards of educational programmes for business analysts in Ukraine",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:VaXvl8Fpj5cC",
+      "citation_id": "fbqYHIoAAAAJ:VaXvl8Fpj5cC",
+      "authors": "V Kobets, S Koval",
+      "publication": "Applied Aspects of Information Technology 2 (6), 139-150, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Proceedings of 10th International Conference on Monitoring, Modeling & Management of Emergent Economy–M3E2. Odessa–Ukraine. November 17-18, 2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:MLfJN-KU85MC",
+      "citation_id": "fbqYHIoAAAAJ:MLfJN-KU85MC",
+      "authors": "SO Semerikov, VN Soloviev, A Matviychuk, V Kobets, L Kibalnyk, ...",
+      "publication": "SciTePress, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "ICTERI 2021 Workshops: ITER, MROL, RMSEBT, TheRMIT, UNLP 2021, Kherson, Ukraine, September 28–October 2, 2021, Proceedings",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:L7CI7m0gUJcC",
+      "citation_id": "fbqYHIoAAAAJ:L7CI7m0gUJcC",
+      "authors": "O Ignatenko, V Kharchenko, V Kobets, H Kravtsov, Y Tarasich, ...",
+      "publication": "Springer Nature, 2022",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2022"
+    },
+    {
+      "title": "EVALUATION OF INVESTMENT PORTFOLIO BY APPLICATION OF MULTI-CRITERIA DECISION MAKING METHODS USING ROBO-ADVISOR",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:ML0RJ9NH7IQC",
+      "citation_id": "fbqYHIoAAAAJ:ML0RJ9NH7IQC",
+      "authors": "V Kobets",
+      "publication": "Proceedings on Engineering 4 (3), 301-312, 2022",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2022"
+    },
+    {
+      "title": "The Development of Investment Projects Attractiveness Assessment Software",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:4MWp96NkSFoC",
+      "citation_id": "fbqYHIoAAAAJ:4MWp96NkSFoC",
+      "authors": "V Kobets, O Berehovyi",
+      "publication": "International Conference on Information and Communication Technologies in …, 2021",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Економетрика в RStudio",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:ZfRJV9d4-WMC",
+      "citation_id": "fbqYHIoAAAAJ:ZfRJV9d4-WMC",
+      "authors": "ВМ Кобець",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "ICT in Education, Research and Industrial Applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:lmc2jWPfTJgC",
+      "citation_id": "fbqYHIoAAAAJ:lmc2jWPfTJgC",
+      "authors": "O Sokolov, G Zholtkevych, V Yakovyna, Y Tarasich, V Kharchenko, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    },
+    {
+      "title": "ФОРМУВАННЯ ПОЛІТИКИ ЦІНОУТВОРЕННЯ ДЛЯ ГОТЕЛЬНО-РЕСТОРАНИХ КОМПЛЕКСІВ ЗАСОБАМИ ІНФОРМАЦІЙНИХ ТЕХНОЛОГІЙ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:ZuybSZzF8UAC",
+      "citation_id": "fbqYHIoAAAAJ:ZuybSZzF8UAC",
+      "authors": "ВМ Кобець, ВВ Іванов, ВО Михайлова",
+      "publication": "Науковий вісник Херсонського державного університету. Серія «Економічні …, 2020",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    },
+    {
+      "title": "ICTERI 2020: ICT in Education, Research and Industrial Applications. Integration, Harmonization and Knowledge Transfer 2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:URolC5Kub84C",
+      "citation_id": "fbqYHIoAAAAJ:URolC5Kub84C",
+      "authors": "O Sokolov, G Zholtkevych, V Yakovyna, Y Tarasich, V Kharchenko, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    },
+    {
+      "title": "ІНТЕЛЕКТУАЛЬНИЙ АНАЛІЗ ДОХОДНОСТІ ФІНАНСОВИХ ІНСТРУМЕНТІВ ДЛЯ РОЗРОБКИ ФІНАНСОВИХ РІШЕНЬ ІНВЕСТОРАМ З РІЗНОЮ СХИЛЬНІСТЮ ДО РИЗИКУ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:Y5dfb0dijaUC",
+      "citation_id": "fbqYHIoAAAAJ:Y5dfb0dijaUC",
+      "authors": "ВМ Кобець",
+      "publication": "Науковий вісник Херсонського державного університету. Серія «Економічні …, 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "ICT in education, research and industrial applications. Integration, harmonization and knowledge transfer (ICTERI 2019)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:Fu2w8maKXqMC",
+      "citation_id": "fbqYHIoAAAAJ:Fu2w8maKXqMC",
+      "authors": "V Ermolayev, F Mallet, V Yakovyna, V Kharchenko, V Kobets, ...",
+      "publication": "CEUR Workshop Proceedings (http://ceur-ws. org/), 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Вплив розвитку четвертої індустріальної революції на дивергенцію і конвергенцію економічної нерівності для різних країн світу",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:hkOj_22Ku90C",
+      "citation_id": "fbqYHIoAAAAJ:hkOj_22Ku90C",
+      "authors": "ВМ Кобець, ВО Яценко",
+      "publication": "Neuro-Fuzzy Modeling Techniques in Economics, 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "ICTERI 2019: ICT in Education, Research and Industrial Applications. Integration, Harmonization and Knowledge Transfer: Proceedings of the 15th International Conference. Volume …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:JoZmwDi-zQgC",
+      "citation_id": "fbqYHIoAAAAJ:JoZmwDi-zQgC",
+      "authors": "V Ermolayev, F Mallet, V Yakovyna, V Kharchenko, V Kobets, ...",
+      "publication": "CEUR Workshop Proceedings 2 (2393), 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Поведенческий механизм принятия финансовых решений в электронных аукционах",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:UHK10RUVsp4C",
+      "citation_id": "fbqYHIoAAAAJ:UHK10RUVsp4C",
+      "authors": "В Кобець",
+      "publication": "Науковий вісник Одеського національного економічного університету, 85-103, 2018",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Mathematical Model of Microeconomic System with Different Social Responsibilities in Software Module",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=80&citation_for_view=fbqYHIoAAAAJ:LjlpjdlvIbIC",
+      "citation_id": "fbqYHIoAAAAJ:LjlpjdlvIbIC",
+      "authors": "A Weissblut, V Kobets",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Що розкривають економічні експерименти про еволюційну ефективність стратегій супермаркетів?",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:9vf0nzSNQJEC",
+      "citation_id": "fbqYHIoAAAAJ:9vf0nzSNQJEC",
+      "authors": "ВМ Кобець, ВО Яценко",
+      "publication": "Незалежний аудитор, 9-16, 2017",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Емерджентні методи для емерджентної економіки",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:eflP2zaiRacC",
+      "citation_id": "fbqYHIoAAAAJ:eflP2zaiRacC",
+      "authors": "ВВ Вітлінський, СГ Діордіца, ПВ Захарченко, ММ Іванов, ЛО Кібальник, ...",
+      "publication": "Видавець Вовчок ОЮ, 2017",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "МЕХАНИЗМ ЭВОЛЮЦИОННОГО ОТБОРА ФИРМ С РАЗНОЙ ОБЩЕСТВЕННОЙ ОТВЕТСТВЕННОСТЬЮ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:geHnlv5EZngC",
+      "citation_id": "fbqYHIoAAAAJ:geHnlv5EZngC",
+      "authors": "ВМ Кобець, СГ Діордіца",
+      "publication": "Экономика развития, 52-60, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "The Mechanism Of Evolutionary Selection Of Firms With Different Social Responsibility",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:4fKUyHm3Qg0C",
+      "citation_id": "fbqYHIoAAAAJ:4fKUyHm3Qg0C",
+      "authors": "V Kobets, S Diorditsa",
+      "publication": "Economics of Development 77 (1), 54-60, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Застосування еволюційного алгоритму для покращення інвестиційних стратегій в моделі міжгалузевого балансу",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:tOudhMTPpwUC",
+      "citation_id": "fbqYHIoAAAAJ:tOudhMTPpwUC",
+      "authors": "ВМ Кобець",
+      "publication": "Полоцкий государственный университет, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Adaptive dynamic mechanism of modified double electronic auction",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:l7t_Zn2s7bgC",
+      "citation_id": "fbqYHIoAAAAJ:l7t_Zn2s7bgC",
+      "authors": "VM Kobets, VO Yatsenko",
+      "publication": "Актуальні проблеми економіки, 432-445, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Механізм еволюційного відбору фірм із різною суспільною відповідальністю",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:XiSMed-E-HIC",
+      "citation_id": "fbqYHIoAAAAJ:XiSMed-E-HIC",
+      "authors": "ВМ Кобець, СГ Діордіца",
+      "publication": "Економіка розвитку, 52-60, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Sotiris Batsakis, Heinrich C. Mayr, Vitaliy Yakovyna, Mykola Nikitchenko, Grygoriy Zholtkevych, Vyacheslav Kharchenko, Hennadiy Kravtsov, Vitaliy Kobets, Vladimir Peschanenko …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:K3LRdlH-MEoC",
+      "citation_id": "fbqYHIoAAAAJ:K3LRdlH-MEoC",
+      "authors": "G Zholtkevych",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Моделювання складних систем",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:D_sINldO8mEC",
+      "citation_id": "fbqYHIoAAAAJ:D_sINldO8mEC",
+      "authors": "ВВ Вітлінський, СГ Діордіца, ПВ Захарченко, ММ Іванов, КР Курбанов, ...",
+      "publication": "Брама, видавець Третяков ОМ, 2015",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Вплив пріоритетів державної політики на ринкову владу мікроекономічних систем",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:u9iWguZQMMsC",
+      "citation_id": "fbqYHIoAAAAJ:u9iWguZQMMsC",
+      "authors": "СГ Діордіца, ВМ Кобець",
+      "publication": "Вісник Хмельницького національного університету. Економічні науки, 200-202, 2015",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2015"
+    },
+    {
+      "title": "DEVELOPMENT OF EVOLUTIONARILY STABLE FIRM STRATEGIES ON MARKET.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:5awf1xo2G04C",
+      "citation_id": "fbqYHIoAAAAJ:5awf1xo2G04C",
+      "authors": "K Vitaliy",
+      "publication": "Technology Audit & Production Reserves 6, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Моделювання та інформаційні технології в економіці",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:BrmTIyaxlBUC",
+      "citation_id": "fbqYHIoAAAAJ:BrmTIyaxlBUC",
+      "authors": "ВВ Вітлінський, ПВ Захарченко, ММ Іванов, КФ Ковальчук, ІД Пасічник, ...",
+      "publication": "Брама-Україна, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Розробка еволюційно стабільних стратегій фірм на ринку",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:CHSYGLWDkRkC",
+      "citation_id": "fbqYHIoAAAAJ:CHSYGLWDkRkC",
+      "authors": "ВМ Кобець",
+      "publication": "Технологический аудит и резервы производства 6 (2 (20)), 12-16, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Incentive compatible mechanism design of custom policy for complex social choice function",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:f2IySw72cVMC",
+      "citation_id": "fbqYHIoAAAAJ:f2IySw72cVMC",
+      "authors": "VM Kobets",
+      "publication": "Актуальні проблеми економіки, 478-486, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Формування фахових економічних компетенцій студентів засобами практично-орієнтованого інтерактивного навчання",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "fbqYHIoAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "V Kobets",
+      "publication": "Journal of Information Technologies in Education (ITE), 168-178, 2013",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Механізм стимулювання ефективного виробництва засобами податкової політики на конкурентних ринках",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:B3FOqHPlNUQC",
+      "citation_id": "fbqYHIoAAAAJ:B3FOqHPlNUQC",
+      "authors": "ВМ Кобець",
+      "publication": "Таврійський науковий вісник, 286-292, 2013",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2013"
+    },
+    {
+      "title": "МЕХАНІЗМ УЗГОДЖЕННЯ ЗА СТИМУЛАМИ РОЗМІРУ НЕПРЯМОГО ПОДАТКУ ДЕРЖАВОЮ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:ILKRHgRFtOwC",
+      "citation_id": "fbqYHIoAAAAJ:ILKRHgRFtOwC",
+      "authors": "V Kobets",
+      "publication": "Journal of Information Technologies in Education (ITE), 117-121, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Under international level research many scientist and researchers use the Ukrainian and Russian language, which greatly limits the possibilities for the world community to …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:xtRiw3GOFMkC",
+      "citation_id": "fbqYHIoAAAAJ:xtRiw3GOFMkC",
+      "authors": "S Kryukov",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Аналіз прямого і непрямого впливу галузей України на валовий випуск і ринок праці в моделі Леонтьєва",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:p2g8aNsByqUC",
+      "citation_id": "fbqYHIoAAAAJ:p2g8aNsByqUC",
+      "authors": "ВМ Кобець",
+      "publication": "Інвестиції: практика та досвід, 22-25, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "МеханИзм СОГЛАСОВАНИЯ ПО стимулам рАЗМЕРА непрямого НАЛОГА ГОСУДАРСТВОМ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=100&citation_for_view=fbqYHIoAAAAJ:fPk4N6BV_jEC",
+      "citation_id": "fbqYHIoAAAAJ:fPk4N6BV_jEC",
+      "authors": "ВМ Кобець",
+      "publication": "Інформаційні технології в освіті, 117-121, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "МЕХАНІЗМ УЗГОДЖЕННЯ ЗА СТИМУЛАМИ РОЗМІРУ НЕПРЯМОГО ПОДАТКУ ДЕРЖАВОЮ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:YsMSGLbcyi4C",
+      "citation_id": "fbqYHIoAAAAJ:YsMSGLbcyi4C",
+      "authors": "ВМ Кобець, ВН Кобец",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "ДОСЛІДЖЕННЯ ЗАСОБАМИ ПАКЕТУ СИМВОЛЬНИХ ПЕРЕТВОРЕНЬ MAPLE НЕЛІНІЙНОЇ ФУНКЦІЇ ПОПИТУ І РІВНОВАЖНИХ ПОКАЗНИКІВ ЛАНЦЮГІВ ПОСТАВОК ПРИ ІНФОРМАЦІЙНІЙ АСИМЕТРІЇ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:hMsQuOkrut0C",
+      "citation_id": "fbqYHIoAAAAJ:hMsQuOkrut0C",
+      "authors": "VM Kobets",
+      "publication": "Journal of Information Technologies in Education (ITE), 088-093, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "ИССЛЕДОВАНИЕ НЕЛИНЕЙНОЇ ФУНКЦИИ СПРОСА И РАВНОВЕСНЫХ ПОКАЗАТЕЛЕЙ ЦЕПОЧЕК ПОСТАВОК ПРИ ІНФОРМАЦИОННОЙ АСИММЕТРИИ СРЕДСТВАМИ ПАКЕТА СИМВОЛЬНЫХ ПРЕОБРАЗОВАНИЙ MAPLE",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:eJXPG6dFmWUC",
+      "citation_id": "fbqYHIoAAAAJ:eJXPG6dFmWUC",
+      "authors": "ВМ Кобець",
+      "publication": "Інформаційні технології в освіті, 88-93, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Вплив вертикально інтегрованих ланцюжків поставок на ринкову владу галузі",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:uWQEDVKXjbEC",
+      "citation_id": "fbqYHIoAAAAJ:uWQEDVKXjbEC",
+      "authors": "ВМ Кобець",
+      "publication": "Економіка та держава, 18-21, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Дослідження засобами пакету символьних перетворень Maple нелінійної функції попиту і рівноважних показників ланцюгів поставок при інформаційній асиметрії",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:WF5omc3nYNoC",
+      "citation_id": "fbqYHIoAAAAJ:WF5omc3nYNoC",
+      "authors": "ВМ Кобець",
+      "publication": "Інформаційні технології в освіті, 88-93, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "ПРОГРАМНИЙ ЗАСІБ РОЗВ’ЯЗАННЯ НОРМАТИВНИХ ЕКОНОМІКО–МАТЕМАТИЧНИХ ЗАВДАНЬ ДЛЯ ВИЩИХ НАВЧАЛЬНИХ ЗАКЛАДІВ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:g3aElNc5_aQC",
+      "citation_id": "fbqYHIoAAAAJ:g3aElNc5_aQC",
+      "authors": "VM Kobets",
+      "publication": "Journal of Information Technologies in Education (ITE), 096-108, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "SOLUTION OF MICROECONOMICS ASSIGNMENTS BY THE MEANS OF PROGRAM MODULES ISPEZ ON THE DISTANCE PLATFORM MOODLE",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:dTyEYWd-f8wC",
+      "citation_id": "fbqYHIoAAAAJ:dTyEYWd-f8wC",
+      "authors": "VM Kobets",
+      "publication": "Journal of Information Technologies in Education (ITE), 116-121, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "РЕШЕНИЕ ЗАДАНИЙ ПО МИКРОЭКОНОМИКЕ ПОСРЕДСТВОМ ПРОГРАММНЫХ МОДУЛЕЙ ISPEZ ДИСТАНЦИОННОЙ ПЛАТФОРМЫ MOODLE",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:u_35RYKgDlwC",
+      "citation_id": "fbqYHIoAAAAJ:u_35RYKgDlwC",
+      "authors": "ВН Кобец",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "ПРОГРАМНОЕ СРЕДСТВО РЕШЕНИЯ НОРМАТИВНЫХ ЭКОНОМИКО-МАТЕМАТИЧЕСКИХ ЗАДАНИЙ ДЛЯ ВЫСШИХ УЧЕБНЫХ ЗАВЕДЕНИЙ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:ufrVoPGSRksC",
+      "citation_id": "fbqYHIoAAAAJ:ufrVoPGSRksC",
+      "authors": "ВМ Кобець",
+      "publication": "Інформаційні технології в освіті, 96-108, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "ПРОГРАМНИЙ ЗАСІБ РОЗВ’ЯЗАННЯ НОРМАТИВНИХ ЕКОНОМІКО–МАТЕМАТИЧНИХ ЗАВДАНЬ ДЛЯ ВИЩИХ НАВЧАЛЬНИХ ЗАКЛАДІВ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "fbqYHIoAAAAJ:zYLM7Y9cAGgC",
+      "authors": "ВМ Кобець",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Применение информационных технологий в контроле знаний студентов по экономическим дисциплинам",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:sSrBHYA8nusC",
+      "citation_id": "fbqYHIoAAAAJ:sSrBHYA8nusC",
+      "authors": "ВМ Кобець",
+      "publication": "Інформаційні технології в освіті, 148-156, 2009",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Тарифна дискримінація виробників на ринку олігополії з диференційованою продукцією",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:OU6Ihb5iCvQC",
+      "citation_id": "fbqYHIoAAAAJ:OU6Ihb5iCvQC",
+      "authors": "ВМ Кобець",
+      "publication": "Інвестиції: практика та досвід, 18-22, 2009",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Вход в систему",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:zA6iFVUQeVQC",
+      "citation_id": "fbqYHIoAAAAJ:zA6iFVUQeVQC",
+      "authors": "ВН Кобец",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "ПОЛІТИКА ЦІНОУТВОРЕННЯ ЛАНЦЮЖКА ПОСТАВОК ПРИ НАЯВНОСТІ І ВІДСУТНОСТІ ВЕРТИКАЛЬНОЇ ІНТЕГРАЦІЇ УЧАСНИКІВ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:roLk4NBRz8UC",
+      "citation_id": "fbqYHIoAAAAJ:roLk4NBRz8UC",
+      "authors": "В Кобець",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Marketing and Management of Innovations",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:-FonjvnnhkoC",
+      "citation_id": "fbqYHIoAAAAJ:-FonjvnnhkoC",
+      "authors": "V Kobets, V Yatsenko",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "CONTROL OF THE PIVOT POINT POSITION OF A CONVENTIONAL SINGLE-SCREW VESSEL",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:WZBGuue-350C",
+      "citation_id": "fbqYHIoAAAAJ:WZBGuue-350C",
+      "authors": "S Zinchenko, V Kobets, O Tovstokoryi, K Kyrychenko, P Nosov, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "M3E2 2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:tuHXwOkdijsC",
+      "citation_id": "fbqYHIoAAAAJ:tuHXwOkdijsC",
+      "authors": "S Semerikov, V Soloviev, A Matviychuk, V Kobets, L Kibalnyk, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "OPTIMISATION OF VESSEL MOTION CONTROL PROCESSES WITH MINIMAL REDUNDANT AZIPOD STRUCTURE",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:uWiczbcajpAC",
+      "citation_id": "fbqYHIoAAAAJ:uWiczbcajpAC",
+      "authors": "I Popovych, V Kobets, G Abramov",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Overall, the workshops, co-located with ICTERI 2021 had attracted 194 submissions by the authors from eighteen countries in Europe, Asia, Americas, and Africa. Out of these …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:epqYDVWIO7EC",
+      "citation_id": "fbqYHIoAAAAJ:epqYDVWIO7EC",
+      "authors": "O Ignatenko, V Kharchenko, V Kobets, H Kravtsov, S Semerikov, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "RESEARCH OF DIVERGENCE TRAJECTORY WITH A GIVEN RISK OF SHIPS COLLISIONS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=120&citation_for_view=fbqYHIoAAAAJ:zLWjf1WUPmwC",
+      "citation_id": "fbqYHIoAAAAJ:zLWjf1WUPmwC",
+      "authors": "P Mamenko, S Zinchenko, P Nosov, K Kyrychenko, I Popovych, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "INSTITUTIONAL ASPECTS OF INTEGRATED QUALITY ASSURANCE OF ENGINEERING STUDY PROGRAMS AT HEI USING ICT",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=140&citation_for_view=fbqYHIoAAAAJ:VLnqNzywnoUC",
+      "citation_id": "fbqYHIoAAAAJ:VLnqNzywnoUC",
+      "authors": "I Popovych, V Kobets, V Liubchenko, S Koval",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Що можуть виявити економічні експерименти щодо еволюційної ефективності стратегій супермаркетів?",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=140&citation_for_view=fbqYHIoAAAAJ:N5tVd3kTz84C",
+      "citation_id": "fbqYHIoAAAAJ:N5tVd3kTz84C",
+      "authors": "ВМ Кобець, ВО Яценко",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "ВЛИЯНИЕ ЦЕНОВОЙ ПОЛИТИКИ ЦЕПОЧКИ ПОСТАВОК НА ОБЩЕСТВЕННОЕ БЛАГОСОСТОЯНИЕ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fbqYHIoAAAAJ&cstart=140&citation_for_view=fbqYHIoAAAAJ:4OULZ7Gr8RgC",
+      "citation_id": "fbqYHIoAAAAJ:4OULZ7Gr8RgC",
+      "authors": "ВН Кобец",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 758,
+          "since_2018": 641
+        }
+      },
+      {
+        "h_index": {
+          "all": 14,
+          "since_2018": 13
+        }
+      },
+      {
+        "i10_index": {
+          "all": 20,
+          "since_2018": 17
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2009,
+        "citations": 30
+      },
+      {
+        "year": 2010,
+        "citations": 14
+      },
+      {
+        "year": 2011,
+        "citations": 5
+      },
+      {
+        "year": 2012,
+        "citations": 2
+      },
+      {
+        "year": 2013,
+        "citations": 9
+      },
+      {
+        "year": 2014,
+        "citations": 10
+      },
+      {
+        "year": 2015,
+        "citations": 5
+      },
+      {
+        "year": 2016,
+        "citations": 15
+      },
+      {
+        "year": 2017,
+        "citations": 19
+      },
+      {
+        "year": 2018,
+        "citations": 47
+      },
+      {
+        "year": 2019,
+        "citations": 37
+      },
+      {
+        "year": 2020,
+        "citations": 34
+      },
+      {
+        "year": 2021,
+        "citations": 152
+      },
+      {
+        "year": 2022,
+        "citations": 221
+      },
+      {
+        "year": 2023,
+        "citations": 143
+      }
+    ]
+  },
+  "co_authors": [
+    {
+      "name": "Popovych Ihor / Попович I. С. / Попови...",
+      "link": "https://scholar.google.com/citations?user=1AkbtVMAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=1AkbtVMAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "1AkbtVMAAAAJ",
+      "affiliations": "Kherson State University, Full Professor, Doctor of Psychological Sciences, Full Professor of",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1AkbtVMAAAAJ&citpid=13"
+    },
+    {
+      "name": "Serhii Zinchenko / S. Zinchenko / С. М....",
+      "link": "https://scholar.google.com/citations?user=Y7poAjQAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Y7poAjQAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Y7poAjQAAAAJ",
+      "affiliations": "Kherson State Maritime Academy, Ukraine (Херсонська державна морська академія, Україна)",
+      "email": "Verified email at ksma.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Y7poAjQAAAAJ&citpid=2"
+    },
+    {
+      "name": "Nosov Pavlo",
+      "link": "https://scholar.google.com/citations?user=X2cwXV4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=X2cwXV4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "X2cwXV4AAAAJ",
+      "affiliations": "Kherson State Maritime Academy / Херсонська державна морська академія",
+      "email": "Verified email at ksma.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X2cwXV4AAAAJ&citpid=10"
+    },
+    {
+      "name": "Hennadiy Kravtsov / Кравцов Г.М.",
+      "link": "https://scholar.google.com/citations?user=EjLwtBoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=EjLwtBoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "EjLwtBoAAAAJ",
+      "affiliations": "Associate Professor of Computer Science, Kherson State University",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EjLwtBoAAAAJ&citpid=2"
+    },
+    {
+      "name": "Vitaliy Yakovyna (Яковина В.С.)",
+      "link": "https://scholar.google.com/citations?user=e1Sj2JYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=e1Sj2JYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "e1Sj2JYAAAAJ",
+      "affiliations": "Artificial Intelligence Dpt. at Lviv Polytechnic National University",
+      "email": "Verified email at lpnu.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e1Sj2JYAAAAJ&citpid=4"
+    },
+    {
+      "name": "Vira Liubchenko (Віра Любченко)",
+      "link": "https://scholar.google.com/citations?user=igCycUUAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=igCycUUAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "igCycUUAAAAJ",
+      "affiliations": "Odessa Polytechnic National University, Professor at Software Engineering Department",
+      "email": "Verified email at op.edu.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=igCycUUAAAAJ&citpid=3"
+    },
+    {
+      "name": "Vyacheslav Kharchenko",
+      "link": "https://scholar.google.com/citations?user=Cj4CVeoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Cj4CVeoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Cj4CVeoAAAAJ",
+      "affiliations": "National Aerospace University KhAI, Department of Computer Systems, Networks and Cybersecurity",
+      "email": "Verified email at khai.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Cj4CVeoAAAAJ&citpid=1"
+    },
+    {
+      "name": "Mykola (Nikolaj) Nikitchenko - Нікітче...",
+      "link": "https://scholar.google.com/citations?user=1hLK6M4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=1hLK6M4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "1hLK6M4AAAAJ",
+      "affiliations": "Taras Shevchenko National University of Kyiv",
+      "email": "Verified email at knu.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1hLK6M4AAAAJ&citpid=1"
+    },
+    {
+      "name": "Grygoriy Zholtkevych",
+      "link": "https://scholar.google.com/citations?user=Dp6ZSm0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Dp6ZSm0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Dp6ZSm0AAAAJ",
+      "affiliations": "V.N. Karazin Kharkiv National University",
+      "email": "Verified email at karazin.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Dp6ZSm0AAAAJ&citpid=3"
+    },
+    {
+      "name": "Vadim Ermolayev",
+      "link": "https://scholar.google.com/citations?user=vaOHuLQAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=vaOHuLQAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "vaOHuLQAAAAJ",
+      "affiliations": "Prof of Semantic Technologies, Ukrainian Catholic University, Dept of Computer Science and IT",
+      "email": "Verified email at ermolayev.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vaOHuLQAAAAJ&citpid=5"
+    },
+    {
+      "name": "Mamenko Pavlo Petrovich",
+      "link": "https://scholar.google.com/citations?user=Xyw0jjoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Xyw0jjoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Xyw0jjoAAAAJ",
+      "affiliations": "Kherson State Maritime Academy",
+      "email": "Verified email at ksma.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xyw0jjoAAAAJ&citpid=2"
+    },
+    {
+      "name": "Maksym Poltorackiy",
+      "link": "https://scholar.google.com/citations?user=AQsDVuEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=AQsDVuEAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "AQsDVuEAAAAJ",
+      "affiliations": "Kherson State University, Ukraine",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AQsDVuEAAAAJ&citpid=1"
+    },
+    {
+      "name": "Oleksandr Spivakovskiy",
+      "link": "https://scholar.google.com/citations?user=K5EZejwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=K5EZejwAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "K5EZejwAAAAJ",
+      "affiliations": "Kherson State University",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=K5EZejwAAAAJ&citpid=1"
+    },
+    {
+      "name": "Serhiy O. Semerikov",
+      "link": "https://scholar.google.com/citations?user=o6srl8sAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=o6srl8sAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "o6srl8sAAAAJ",
+      "affiliations": "Kryvyi Rih State Pedagogical University",
+      "email": "Verified email at kdpu.edu.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o6srl8sAAAAJ&citpid=2"
+    },
+    {
+      "name": "Magda Julissa Rojas-Bahamón",
+      "link": "https://scholar.google.com/citations?user=xhtDQRcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=xhtDQRcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "xhtDQRcAAAAJ",
+      "affiliations": "Docente Tecnología e Informática - Investigadora Junior - Par evaluadora Colciencias",
+      "email": "Verified email at jegaitan.edu.co",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xhtDQRcAAAAJ&citpid=4"
+    },
+    {
+      "name": "Diego Felipe Arbeláez Campillo",
+      "link": "https://scholar.google.com/citations?user=4_j5HyYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=4_j5HyYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "4_j5HyYAAAAJ",
+      "affiliations": "Universidad de la Amazonia",
+      "email": "Verified email at udla.edu.co",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4_j5HyYAAAAJ&citpid=2"
+    },
+    {
+      "name": "Iryna Burlakova",
+      "link": "https://scholar.google.com/citations?user=Wqg5hEcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Wqg5hEcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Wqg5hEcAAAAJ",
+      "affiliations": "Державний університет «Житомирська політехніка»",
+      "email": "Verified email at ztu.edu.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Wqg5hEcAAAAJ&citpid=2"
+    },
+    {
+      "name": "Serhii Savchenko",
+      "link": "https://scholar.google.com/citations?user=78PEf2YAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=78PEf2YAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "78PEf2YAAAAJ",
+      "affiliations": "Graduate student, Kherson State University",
+      "email": "Verified email at university.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=78PEf2YAAAAJ&citpid=2"
+    },
+    {
+      "name": "Volodymyr Peschanenko / Володимир...",
+      "link": "https://scholar.google.com/citations?user=flI2UxkAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=flI2UxkAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "flI2UxkAAAAJ",
+      "affiliations": "Kherson State University, PE LitSoft",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=flI2UxkAAAAJ&citpid=1"
+    },
+    {
+      "name": "Zinovatna Svitlana (Светлана Зинова...",
+      "link": "https://scholar.google.com/citations?user=XFGHkFIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=XFGHkFIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "XFGHkFIAAAAJ",
+      "affiliations": "Одесский национальный политехнический университет",
+      "email": "Verified email at opu.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XFGHkFIAAAAJ&citpid=2"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": null
+  }
+}

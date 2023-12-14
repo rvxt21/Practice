@@ -1,6 +1,6 @@
 from scholar_api import SemanticScholarScrapper
 import json
-import time
+
 
 
 def save_to_json(file_name, data):

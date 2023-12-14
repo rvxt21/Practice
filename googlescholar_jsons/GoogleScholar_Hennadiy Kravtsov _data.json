@@ -1,0 +1,2146 @@
+{
+  "search_metadata": {
+    "id": "657b750b29d177ce52396a8e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b9ecb8f75b7187b3/657b750b29d177ce52396a8e.json",
+    "created_at": "2023-12-14 21:35:07 UTC",
+    "processed_at": "2023-12-14 21:35:07 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=EjLwtBoAAAAJ&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/b9ecb8f75b7187b3/657b750b29d177ce52396a8e.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "EjLwtBoAAAAJ",
+    "hl": "en"
+  },
+  "author": {
+    "name": "Hennadiy Kravtsov / Кравцов Г.М.",
+    "affiliations": "Associate Professor of Computer Science, Kherson State University",
+    "email": "Verified email at ksu.ks.ua",
+    "website": "https://www.kspu.edu/About/Faculty/FPhysMathemInformatics/ChairInformatics/Staff/Kravtsov.aspx?lang=en",
+    "interests": [
+      {
+        "title": "Computer Science",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_science"
+      },
+      {
+        "title": "Informatics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:informatics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformatics"
+      },
+      {
+        "title": "Mathematical Modeling",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mathematical_modeling",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amathematical_modeling"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=EjLwtBoAAAAJ&citpid=2"
+  },
+  "articles": [
+    {
+      "title": "Педагогічні технології та педагогічно орієнтовані програмні системи: предметно-орієнтований підхід",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "EjLwtBoAAAAJ:9yKSN-GCB0IC",
+      "authors": "ОВ Співаковський, МС Львов, ГМ Кравцов, ВА Крекнін, ТА Гуржій, ...",
+      "publication": "Комп'ютер у школі й сім’ї 2 (20), 17-21, 2002",
+      "cited_by": {
+        "value": 111,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11985649876434333217",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11985649876434333217&engine=google_scholar&hl=en",
+        "cites_id": "11985649876434333217"
+      },
+      "year": "2002"
+    },
+    {
+      "title": "Knowledge control model of distance learning system on IMS standard",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:J_g5lzvAfSwC",
+      "citation_id": "EjLwtBoAAAAJ:J_g5lzvAfSwC",
+      "authors": "H Kravtsov, D Kravtsov",
+      "publication": "Innovative Techniques in Instruction Technology, E-learning, E-assessment …, 2008",
+      "cited_by": {
+        "value": 76,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4557020326479113114",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4557020326479113114&engine=google_scholar&hl=en",
+        "cites_id": "4557020326479113114"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Methods and Technologies for the Quality Monitoring of Electronic Educational Resources.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:nb7KW1ujOQ8C",
+      "citation_id": "EjLwtBoAAAAJ:nb7KW1ujOQ8C",
+      "authors": "H Kravtsov",
+      "publication": "ICTERI, 311-325, 2015",
+      "cited_by": {
+        "value": 41,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6957176851997089027",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6957176851997089027&engine=google_scholar&hl=en",
+        "cites_id": "6957176851997089027"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Prospects of the development of the modern educational institutions' learning and research environment: to the 15th anniversary of the institute of information technologies and …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:ZHo1McVdvXMC",
+      "citation_id": "EjLwtBoAAAAJ:ZHo1McVdvXMC",
+      "authors": "MP Shyshkina, YG Zaporozhchenko, HM Kravtsov",
+      "publication": "Інформаційні технології в освіті, 62-70, 2014",
+      "cited_by": {
+        "value": 32,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7095651434434639597",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7095651434434639597&engine=google_scholar&hl=en",
+        "cites_id": "7095651434434639597"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Interactive Augmented Reality Technologies for Model Visualization in the School Textbook.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:ZuybSZzF8UAC",
+      "citation_id": "EjLwtBoAAAAJ:ZuybSZzF8UAC",
+      "authors": "H Kravtsov, A Pulinets",
+      "publication": "ICTERI Workshops, 918-933, 2020",
+      "cited_by": {
+        "value": 30,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13086446120380829387",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13086446120380829387&engine=google_scholar&hl=en",
+        "cites_id": "13086446120380829387"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Мультимедія–новий етап в сучасній освіті",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:tOudhMTPpwUC",
+      "citation_id": "EjLwtBoAAAAJ:tOudhMTPpwUC",
+      "authors": "ЛВ Кравцова, ГМ Кравцов",
+      "publication": "Метода.–1997.–Випуск 4, 16-20, 1997",
+      "cited_by": {
+        "value": 27,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9399097597097756690",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9399097597097756690&engine=google_scholar&hl=en",
+        "cites_id": "9399097597097756690"
+      },
+      "year": "1997"
+    },
+    {
+      "title": "Педагогiчнi технологiї та педагогiчно орiєнтованi програмнi системи: предметно-орiєнтований пiдхiд",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:8AbLer7MMksC",
+      "citation_id": "EjLwtBoAAAAJ:8AbLer7MMksC",
+      "authors": "ОВ Спiваковський, МС Львов, ГМ Кравцов, ВА Крекнiн, ТА Гуржiй, ...",
+      "publication": "Комп'ютер у школi й сiм’ї, 17, 2002",
+      "cited_by": {
+        "value": 26,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15539876732712950526",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15539876732712950526&engine=google_scholar&hl=en",
+        "cites_id": "15539876732712950526"
+      },
+      "year": "2002"
+    },
+    {
+      "title": "Technologies of virtual and augmented reality for high education and secondary school",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:ye4kPcJQO24C",
+      "citation_id": "EjLwtBoAAAAJ:ye4kPcJQO24C",
+      "authors": "N Osipova, H Kravtsov, O Hniedkova, T Lishchuk, K Davidenko",
+      "publication": "CEUR Workshop Proceedings, 121-131, 2019",
+      "cited_by": {
+        "value": 25,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8788723135601256233",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8788723135601256233&engine=google_scholar&hl=en",
+        "cites_id": "8788723135601256233"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Виртуальная лаборатория в структуре системы дистанционного обучения",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "EjLwtBoAAAAJ:hqOjcs7Dif8C",
+      "authors": "ЕО Козловский, ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 102-109, 2011",
+      "cited_by": {
+        "value": 23,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16386715590372226693,12690659872103094480",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16386715590372226693%2C12690659872103094480&engine=google_scholar&hl=en",
+        "cites_id": "16386715590372226693,12690659872103094480"
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Система дистанционного тестирования на основе стандарта IMS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:iH-uZ7U-co4C",
+      "citation_id": "EjLwtBoAAAAJ:iH-uZ7U-co4C",
+      "authors": "ГМ Кравцов, ДГ Кравцов, ЕО Козловский",
+      "publication": "Information Technologies in Education for all, 283-292, 2006",
+      "cited_by": {
+        "value": 22,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4479867883702345035",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4479867883702345035&engine=google_scholar&hl=en",
+        "cites_id": "4479867883702345035"
+      },
+      "year": "2006"
+    },
+    {
+      "title": "Модель контроля знаний в системе дистанционного тестирования «WEB-EXAMINER» по стандарту IMS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:isC4tDSrTZIC",
+      "citation_id": "EjLwtBoAAAAJ:isC4tDSrTZIC",
+      "authors": "ГМ Кравцов, ДГ Кравцов",
+      "publication": "Proceedings ITEA-2007 (Second International Conference «New Information …, 2007",
+      "cited_by": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12006842382666345120",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12006842382666345120&engine=google_scholar&hl=en",
+        "cites_id": "12006842382666345120"
+      },
+      "year": "2007"
+    },
+    {
+      "title": "Система дистанционного обучения ХГУ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:qjMakFHDy7sC",
+      "citation_id": "EjLwtBoAAAAJ:qjMakFHDy7sC",
+      "authors": "ГМ Кравцов",
+      "publication": "Материалы второй международной научно-практической конференции …, 2003",
+      "cited_by": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8537775926029003965",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8537775926029003965&engine=google_scholar&hl=en",
+        "cites_id": "8537775926029003965"
+      },
+      "year": "2003"
+    },
+    {
+      "title": "Distance course examination",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:ZfRJV9d4-WMC",
+      "citation_id": "EjLwtBoAAAAJ:ZfRJV9d4-WMC",
+      "authors": "V Kukharenko, B Shunevych, H Kravtsov",
+      "publication": "Educational Technology Quarterly 2022 (1), 1-19, 2022",
+      "cited_by": {
+        "value": 20,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7270733793592504140",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7270733793592504140&engine=google_scholar&hl=en",
+        "cites_id": "7270733793592504140"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Дослідження впливу якості електронних освітніх ресурсів на якість освітніх послуг з використанням дистанційних технологій навчання",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:Wp0gIr-vW9MC",
+      "citation_id": "EjLwtBoAAAAJ:Wp0gIr-vW9MC",
+      "authors": "ГМ Кравцов, МО Вінник, ЮГ Тарасіч",
+      "publication": "Інформаційні технології в освіті, 83-94, 2013",
+      "cited_by": {
+        "value": 20,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17066848671416159523",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17066848671416159523&engine=google_scholar&hl=en",
+        "cites_id": "17066848671416159523"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Implementing manufacturing as a service: A pull-driven agent-based manufacturing grid",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:evX43VCCuoAC",
+      "citation_id": "EjLwtBoAAAAJ:evX43VCCuoAC",
+      "authors": "L Moergestel, E Puik, D Telgen, JJC Meyer, S Batsakis, HC Mayr, ...",
+      "publication": "Proceedings of the 11th International Conference on ICT in Education …, 2015",
+      "cited_by": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2890141987589595303",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2890141987589595303&engine=google_scholar&hl=en",
+        "cites_id": "2890141987589595303"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Інноваційні методи управління інформаційними активами вищого навчального закладу",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:2P1L_qKh6hAC",
+      "citation_id": "EjLwtBoAAAAJ:2P1L_qKh6hAC",
+      "authors": "ОВ Співаковський, МС Львов, ГМ Кравцов",
+      "publication": "Комп'ютер у школі та сім'ї, 3-7, 2013",
+      "cited_by": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9346507703117149730",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9346507703117149730&engine=google_scholar&hl=en",
+        "cites_id": "9346507703117149730"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Multimedia virtual laboratory for physics in the distance learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:WqliGbK-hY8C",
+      "citation_id": "EjLwtBoAAAAJ:WqliGbK-hY8C",
+      "authors": "EO Kozlovsky, HM Kravtsov",
+      "publication": "CTE Workshop Proceedings 5, 42-53, 2018",
+      "cited_by": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9099131635568733142",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9099131635568733142&engine=google_scholar&hl=en",
+        "cites_id": "9099131635568733142"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Структура системы управления качеством электронных ресурсов обучения университета",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:ufrVoPGSRksC",
+      "citation_id": "EjLwtBoAAAAJ:ufrVoPGSRksC",
+      "authors": "ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 94-101, 2011",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12881819418509531760",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12881819418509531760&engine=google_scholar&hl=en",
+        "cites_id": "12881819418509531760"
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Система моніторингу якості електронних інформаційних ресурсів вузу",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:UeHWp8X0CEIC",
+      "citation_id": "EjLwtBoAAAAJ:UeHWp8X0CEIC",
+      "authors": "HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 042-046, 2008",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1980989968444336188",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1980989968444336188&engine=google_scholar&hl=en",
+        "cites_id": "1980989968444336188"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "New effective aid for teaching technology subjects: 3D spherical panoramas joined with virtual reality",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&citation_for_view=EjLwtBoAAAAJ:VL0QpB8kHFEC",
+      "citation_id": "EjLwtBoAAAAJ:VL0QpB8kHFEC",
+      "authors": "IV Barkatov, VS Farafonov, VO Tiurin, SS Honcharuk, VI Barkatov, ...",
+      "publication": "CEUR Workshop Proceedings, 2020",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7715146247112325085",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7715146247112325085&engine=google_scholar&hl=en",
+        "cites_id": "7715146247112325085"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Модель контроля знаний системы дистанционного обучения\" Херсонский виртуальный университет\"",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:r0BpntZqJG4C",
+      "citation_id": "EjLwtBoAAAAJ:r0BpntZqJG4C",
+      "authors": "ГМ Кравцов, ДГ Кравцов",
+      "publication": "Інформаційні технології в освіті, 66-71, 2008",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3033504580642640997",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3033504580642640997&engine=google_scholar&hl=en",
+        "cites_id": "3033504580642640997"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Концептуальні задачі розробки систем дистанційного навчання та технології їхньої реалізації",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "EjLwtBoAAAAJ:zYLM7Y9cAGgC",
+      "authors": "ГМ Кравцов",
+      "publication": "Видавництво НПУ ім. МП Драгоманова, 2005",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4021153865634257804",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4021153865634257804&engine=google_scholar&hl=en",
+        "cites_id": "4021153865634257804"
+      },
+      "year": "2005"
+    },
+    {
+      "title": "Revolutionizing education: using computer simulation and cloud-based smart technology to facilitate successful open learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:uc_IGeMz5qoC",
+      "citation_id": "EjLwtBoAAAAJ:uc_IGeMz5qoC",
+      "authors": "S Papadakis, AE Kiv, HM Kravtsov, VV Osadchyi, MV Marienko, ...",
+      "publication": "CEUR Workshop Proceedings 3358, 1-18, 2023",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13899471079057688781",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13899471079057688781&engine=google_scholar&hl=en",
+        "cites_id": "13899471079057688781"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Цілі, задачі та забезпечення стратегічного плану впровадження інформаційних технологій в концепції розвитку університету",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:mVmsd5A6BfQC",
+      "citation_id": "EjLwtBoAAAAJ:mVmsd5A6BfQC",
+      "authors": "OV Spivakovsky, HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 009-022, 2012",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17720725250103691911",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17720725250103691911&engine=google_scholar&hl=en",
+        "cites_id": "17720725250103691911"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Evaluation Metrics of Electronic Learning Resources Quality",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:fPk4N6BV_jEC",
+      "citation_id": "EjLwtBoAAAAJ:fPk4N6BV_jEC",
+      "authors": "H Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 141-147, 2009",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13771389968534021932",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13771389968534021932&engine=google_scholar&hl=en",
+        "cites_id": "13771389968534021932"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Cloud services in the distance learning system for future sailors",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:N5tVd3kTz84C",
+      "citation_id": "EjLwtBoAAAAJ:N5tVd3kTz84C",
+      "authors": "L Kravtsova, N Kaminska, H Kravtsov",
+      "publication": "CEUR Workshop Proceedings, 2020",
+      "cited_by": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8377847617999291657",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8377847617999291657&engine=google_scholar&hl=en",
+        "cites_id": "8377847617999291657"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Three-subjective didactic model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:RGFaLdJalmkC",
+      "citation_id": "EjLwtBoAAAAJ:RGFaLdJalmkC",
+      "authors": "A Spivakovsky, L Petukhova, E Spivakovska, V Kotkova, H Kravtsov",
+      "publication": "Information and Communication Technologies in Education, Research, and …, 2013",
+      "cited_by": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14894874431498528613",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14894874431498528613&engine=google_scholar&hl=en",
+        "cites_id": "14894874431498528613"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Якісні характеристики технологічних платформ дистанційного навчання",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:Se3iqnhoufwC",
+      "citation_id": "EjLwtBoAAAAJ:Se3iqnhoufwC",
+      "authors": "H Kravtsov, V Odintsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 031-038, 2010",
+      "cited_by": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9921792703133659355",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9921792703133659355&engine=google_scholar&hl=en",
+        "cites_id": "9921792703133659355"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Адаптивные и объектные тесты в модели контроля знаний по стандарту IMS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:TFP_iSt0sucC",
+      "citation_id": "EjLwtBoAAAAJ:TFP_iSt0sucC",
+      "authors": "ГМ Кравцов, ДГ Кравцов",
+      "publication": "Управляющие системы и машины, 42-48, 2008",
+      "cited_by": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13492954003464394114",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13492954003464394114&engine=google_scholar&hl=en",
+        "cites_id": "13492954003464394114"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Специфікації об’єктних та адаптивних тестів за стандартом IMS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:k_IJM867U9cC",
+      "citation_id": "EjLwtBoAAAAJ:k_IJM867U9cC",
+      "authors": "ГМ Кравцов, ДГ Кравцов, ЄО Козловський",
+      "publication": "Матеріали міжнародної науково-методичної конференції “Географічні …, 2006",
+      "cited_by": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15771482421843640532",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15771482421843640532&engine=google_scholar&hl=en",
+        "cites_id": "15771482421843640532"
+      },
+      "year": "2006"
+    },
+    {
+      "title": "Implementation of Stakeholders' Requirements and Innovations for ICT Curriculum Through Relevant Competences.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:5Ul4iDaHHb8C",
+      "citation_id": "EjLwtBoAAAAJ:5Ul4iDaHHb8C",
+      "authors": "H Kravtsov, V Kobets",
+      "publication": "ICTERI, 414-427, 2017",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=228211992865587976",
+        "serpapi_link": "https://serpapi.com/search.json?cites=228211992865587976&engine=google_scholar&hl=en",
+        "cites_id": "228211992865587976"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Microsoft cloud services in distance learning system “Kherson Virtual University”",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:EUQCXRtRnyEC",
+      "citation_id": "EjLwtBoAAAAJ:EUQCXRtRnyEC",
+      "authors": "HM Kravtsov, IO Chemisova",
+      "publication": "Journal of Information Technologies in Education (ITE), 53-65, 2014",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8352534997957202321",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8352534997957202321&engine=google_scholar&hl=en",
+        "cites_id": "8352534997957202321"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "К теории и практике использования адаптивных тестов",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:LkGwnXOMwfcC",
+      "citation_id": "EjLwtBoAAAAJ:LkGwnXOMwfcC",
+      "authors": "ЛВ Сметанюк, ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті. Випуск 3, 148-155, 2009",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3158888107638427142",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3158888107638427142&engine=google_scholar&hl=en",
+        "cites_id": "3158888107638427142"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Особливості контролю знань у системах дистанційного тестування. Вісник ТІМО. Випуск 2",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "EjLwtBoAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "ГМ Кравцов",
+      "publication": "Вимірювання навчальних досягнень школярів і студентів: гуманістичні …, 2008",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4244383374296852156",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4244383374296852156&engine=google_scholar&hl=en",
+        "cites_id": "4244383374296852156"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Мультимедійний програмно-методичний комплекс «Віртуальна біологічна лабораторія»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:eQOLeE2rZwMC",
+      "citation_id": "EjLwtBoAAAAJ:eQOLeE2rZwMC",
+      "authors": "ГМ Кравцов, ММ Сидорович",
+      "publication": "Матеріали третьої міжнародної науково-методичної конференції «Інформатизація …, 2005",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2325370217173650168",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2325370217173650168&engine=google_scholar&hl=en",
+        "cites_id": "2325370217173650168"
+      },
+      "year": "2005"
+    },
+    {
+      "title": "Технологии дистанционного образования как елементы, компенсирующие сокращение аудиторной нагрузки студента",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:rO6llkc54NcC",
+      "citation_id": "EjLwtBoAAAAJ:rO6llkc54NcC",
+      "authors": "АВ Спиваковский, ЕМ Гудырева, ГМ Кравцов",
+      "publication": "Матер. Міжн. наук.-пр. конф.“Інформатизація освіти України: стан, проблеми …, 2001",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15562426495006674801",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15562426495006674801&engine=google_scholar&hl=en",
+        "cites_id": "15562426495006674801"
+      },
+      "year": "2001"
+    },
+    {
+      "title": "Approaches on the augmented reality application in Japanese language learning for future language teachers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:tKAzc9rXhukC",
+      "citation_id": "EjLwtBoAAAAJ:tKAzc9rXhukC",
+      "authors": "O Gayevska, H Kravtsov",
+      "publication": "Educational Technology Quarterly 2022 (2), 105-114, 2022",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=271651537468730238",
+        "serpapi_link": "https://serpapi.com/search.json?cites=271651537468730238&engine=google_scholar&hl=en",
+        "cites_id": "271651537468730238"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Model of the Curriculum Revision System in Computer Science.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:5ugPr518TE4C",
+      "citation_id": "EjLwtBoAAAAJ:5ugPr518TE4C",
+      "authors": "H Kravtsov, V Kobets",
+      "publication": "ICTERI Workshops, 488-500, 2018",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14706605168946683203",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14706605168946683203&engine=google_scholar&hl=en",
+        "cites_id": "14706605168946683203"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Новая дидактика: от субъект-субъектных–к трисубъектным отношениям: Учебное пособие/Под редакцией доктора педагогических наук, профессора АВ Спиваковского",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:q3oQSFYPqjQC",
+      "citation_id": "EjLwtBoAAAAJ:q3oQSFYPqjQC",
+      "authors": "АВ Спиваковский, ЛЕ Петухова, ГМ Кравцов, НА Воропай, ВВ Коткова",
+      "publication": "Херсон: Айлант, 2016",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6730051202584434144,4164042882568889175",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6730051202584434144%2C4164042882568889175&engine=google_scholar&hl=en",
+        "cites_id": "6730051202584434144,4164042882568889175"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Мультимедіа технології в системі дистанційної освіти",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=20&citation_for_view=EjLwtBoAAAAJ:KxtntwgDAa4C",
+      "citation_id": "EjLwtBoAAAAJ:KxtntwgDAa4C",
+      "authors": "ЛВ Кравцова, ГМ Кравцов",
+      "publication": "Матеріали Міжнародної науково-практичної конференції [«Інформатизація освіти …, 2001",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17983610358911849546",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17983610358911849546&engine=google_scholar&hl=en",
+        "cites_id": "17983610358911849546"
+      },
+      "year": "2001"
+    },
+    {
+      "title": "Augmented and virtual reality technologies in teacher retraining",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:JQOojiI6XY0C",
+      "citation_id": "EjLwtBoAAAAJ:JQOojiI6XY0C",
+      "authors": "N Osypova, H Kravtsov, O Kokhanovska, G Yuzbasheva",
+      "publication": "Ceur workshop proceedings, 1203-1216, 2020",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=46994750497626725",
+        "serpapi_link": "https://serpapi.com/search.json?cites=46994750497626725&engine=google_scholar&hl=en",
+        "cites_id": "46994750497626725"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "The use of cloud services for learning foreign language",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:u9iWguZQMMsC",
+      "citation_id": "EjLwtBoAAAAJ:u9iWguZQMMsC",
+      "authors": "H Kravtsov, O Gnedkova",
+      "publication": "ICT in Education, Research and Industrial Applications, 2016",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14390350145958609733",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14390350145958609733&engine=google_scholar&hl=en",
+        "cites_id": "14390350145958609733"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Integration of modern higher education into the global information space",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:35r97b3x0nAC",
+      "citation_id": "EjLwtBoAAAAJ:35r97b3x0nAC",
+      "authors": "EG Fedorenko, VY Velychko, OG Naboka, OH Havrysh, HM Kravtsov",
+      "publication": "AET 2020, 565, 2022",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6723637314976103475",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6723637314976103475&engine=google_scholar&hl=en",
+        "cites_id": "6723637314976103475"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Preface",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:NJ774b8OgUMC",
+      "citation_id": "EjLwtBoAAAAJ:NJ774b8OgUMC",
+      "authors": "V Ermolayev, F Mallet, V Yakovyna, V Kharchenko, V Kobets, ...",
+      "publication": "Vadim Ermolayev, Frédéric Mallet, Vitaliy Yakovyna, Vyacheslav Kharchenko …, 2019",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9913389210918182449",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9913389210918182449&engine=google_scholar&hl=en",
+        "cites_id": "9913389210918182449"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Мультимедийная виртуальная лаборатория по физике в системе дистанционного обучения",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:g5m5HwL7SMYC",
+      "citation_id": "EjLwtBoAAAAJ:g5m5HwL7SMYC",
+      "authors": "ЕО Козловский, ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 80-89, 2014",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12494108850234860844",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12494108850234860844&engine=google_scholar&hl=en",
+        "cites_id": "12494108850234860844"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Сучасний стан дистанційного навчання у ВНЗ України",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:pqnbT2bcN3wC",
+      "citation_id": "EjLwtBoAAAAJ:pqnbT2bcN3wC",
+      "authors": "ГМ Кравцов, ЮГ Тарасіч",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10451935623319212427",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10451935623319212427&engine=google_scholar&hl=en",
+        "cites_id": "10451935623319212427"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Роль стандартів в управлінні якістю електронних освітніх ресурсів",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:ULOm3_A8WrAC",
+      "citation_id": "EjLwtBoAAAAJ:ULOm3_A8WrAC",
+      "authors": "ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 71-79, 2013",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7721060491209594173",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7721060491209594173&engine=google_scholar&hl=en",
+        "cites_id": "7721060491209594173"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Про критерії оцінювання якості електронних навчальних ресурсів",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:eflP2zaiRacC",
+      "citation_id": "EjLwtBoAAAAJ:eflP2zaiRacC",
+      "authors": "ГМ Кравцов",
+      "publication": "Режим доступу: http://zavantag. com/tw_files2/urls_6/298/d-297134/7z-docs/5. pdf, 2010",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10128959021172294832",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10128959021172294832&engine=google_scholar&hl=en",
+        "cites_id": "10128959021172294832"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Гуржій ТА Зайцева ТВ Кушнір НА, Кот СМ Педагогічні технології та педагогічно–орієнтовані програмні системи: предметно–орієнтований підхід",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:fQNAKQ3IYiAC",
+      "citation_id": "EjLwtBoAAAAJ:fQNAKQ3IYiAC",
+      "authors": "САВЛ МС, ГМ Кравцов, ВА Крекнін",
+      "publication": "Комп’ютер у школі та сім’ї, 20, 2002",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3249973959928572550",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3249973959928572550&engine=google_scholar&hl=en",
+        "cites_id": "3249973959928572550"
+      },
+      "year": "2002"
+    },
+    {
+      "title": "Methods of using cloud services in foreign language training",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:LjlpjdlvIbIC",
+      "citation_id": "EjLwtBoAAAAJ:LjlpjdlvIbIC",
+      "authors": "HM Kravtsov, OO Gnedkova",
+      "publication": "CTE Workshop Proceedings 5, 54-65, 2018",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2920540924734838240",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2920540924734838240&engine=google_scholar&hl=en",
+        "cites_id": "2920540924734838240"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Моделирование системы управления качеством электронных ресурсов обучения: интегрированный и дифференцированный подходы",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:UebtZRa9Y70C",
+      "citation_id": "EjLwtBoAAAAJ:UebtZRa9Y70C",
+      "authors": "ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 24-31, 2012",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14748189765841772292",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14748189765841772292&engine=google_scholar&hl=en",
+        "cites_id": "14748189765841772292"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Unlocking the power of synergy: the joint force of cloud technologies and augmented reality in education",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:EkHepimYqZsC",
+      "citation_id": "EjLwtBoAAAAJ:EkHepimYqZsC",
+      "authors": "S Papadakis, AE Kiv, HM Kravtsov, VV Osadchyi, MV Marienko, ...",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16265622919537261170",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16265622919537261170&engine=google_scholar&hl=en",
+        "cites_id": "16265622919537261170"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Familiarity with free software through online services",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:-_dYPAW6P2MC",
+      "citation_id": "EjLwtBoAAAAJ:-_dYPAW6P2MC",
+      "authors": "VY Velychko, SO Omelchenko, EG Fedorenko, HM Kravtsov",
+      "publication": "AET 2020, 605, 2022",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16127263889482305745",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16127263889482305745&engine=google_scholar&hl=en",
+        "cites_id": "16127263889482305745"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Research of influence of quality of electronic educational resources on quality of training with use of distance technologies",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:HoB7MX3m0LUC",
+      "citation_id": "EjLwtBoAAAAJ:HoB7MX3m0LUC",
+      "authors": "HM Kravtsov, MO Vinnik, YH Tarasich",
+      "publication": "Information Technologies in Education, 83-94, 2013",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4660562817266186948",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4660562817266186948&engine=google_scholar&hl=en",
+        "cites_id": "4660562817266186948"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Design and Implementation of a Quality Management System for Electronic Training Information Resources.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "EjLwtBoAAAAJ:u5HHmVD_uO8C",
+      "authors": "H Kravtsov",
+      "publication": "ICTERI, 88-98, 2011",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8952165542460439634",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8952165542460439634&engine=google_scholar&hl=en",
+        "cites_id": "8952165542460439634"
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Модуль\" Виртуальная Электронная Доска\" системы дистанционного обучения",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:roLk4NBRz8UC",
+      "citation_id": "EjLwtBoAAAAJ:roLk4NBRz8UC",
+      "authors": "ЕО Козловский, ГМ Кравцов, ВВ Лякутин",
+      "publication": "Інформаційні технології в освіті, 81-86, 2010",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7714794984355983446",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7714794984355983446&engine=google_scholar&hl=en",
+        "cites_id": "7714794984355983446"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Цілі та задачі проекту «Створення банку електронних документів з дистанційного навчання для вищої педагогічної освіти»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:_FxGoFyzp5QC",
+      "citation_id": "EjLwtBoAAAAJ:_FxGoFyzp5QC",
+      "authors": "ОВ Співаковський, КΓM Львов MС, ЯБ Федорова, КHО Осипова HB",
+      "publication": "Інформаційні технології в освіті: Збірник наукових праць. Випуск 4, 96-111, 2009",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14207647911136444448",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14207647911136444448&engine=google_scholar&hl=en",
+        "cites_id": "14207647911136444448"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Knowledge assessment model in a distance testing system “webexaminer” based on IMS standart",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:dfsIfKJdRG4C",
+      "citation_id": "EjLwtBoAAAAJ:dfsIfKJdRG4C",
+      "authors": "H Kravtsov, D Kravtsov",
+      "publication": "Зб. праць Другої міжнародної конференції «Нові інформаційні технології в …, 2007",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17285524844592",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17285524844592&engine=google_scholar&hl=en",
+        "cites_id": "17285524844592"
+      },
+      "year": "2007"
+    },
+    {
+      "title": "The optimum assessment of the information systems of shipboard hardware reliability in cloud services",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:7T2F9Uy0os0C",
+      "citation_id": "EjLwtBoAAAAJ:7T2F9Uy0os0C",
+      "authors": "LV Kravtsova, TV Zaytseva, M Bezbakh, HM Kravtsov, NH Kaminska",
+      "publication": "CTE Workshop Proceedings 9, 200-215, 2022",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16257903396707976400",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16257903396707976400&engine=google_scholar&hl=en",
+        "cites_id": "16257903396707976400"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Implementation of Immersive Technologies in Professional Training of Teachers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=40&citation_for_view=EjLwtBoAAAAJ:UHK10RUVsp4C",
+      "citation_id": "EjLwtBoAAAAJ:UHK10RUVsp4C",
+      "authors": "N Osypova, O Kokhanovska, G Yuzbasheva, H Kravtsov",
+      "publication": "International Conference on Information and Communication Technologies in …, 2020",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8015602053674439892",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8015602053674439892&engine=google_scholar&hl=en",
+        "cites_id": "8015602053674439892"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Innovative methods of information visualization in transport logistics and training organization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:yB1At4FlUx8C",
+      "citation_id": "EjLwtBoAAAAJ:yB1At4FlUx8C",
+      "authors": "OM Mikhailutsa, TO Melikhova, AV Pozhuyev, HM Kravtsov",
+      "publication": "Proceedings of the symposium on advances in educational technology, aet, 2020",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10037451726633508352",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10037451726633508352&engine=google_scholar&hl=en",
+        "cites_id": "10037451726633508352"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Evolutionary revision model for improvement of computer science curriculum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:tkaPQYYpVKoC",
+      "citation_id": "EjLwtBoAAAAJ:tkaPQYYpVKoC",
+      "authors": "H Kravtsov, V Kobets",
+      "publication": "Information and Communication Technologies in Education, Research, and …, 2019",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11933883422326978523",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11933883422326978523&engine=google_scholar&hl=en",
+        "cites_id": "11933883422326978523"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Innovatsiini metody upravlinnia informatsiinymy aktyvamy vyshchoho navchalnoho zakladu (Innovative methods of management of information assets of the university)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:ML0RJ9NH7IQC",
+      "citation_id": "EjLwtBoAAAAJ:ML0RJ9NH7IQC",
+      "authors": "OV Spivakovskyi, MS Lvov, HM Kravtsov",
+      "publication": "Kompiuter u shkoli ta simi 3, 3-7, 2013",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10652453477642324337",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10652453477642324337&engine=google_scholar&hl=en",
+        "cites_id": "10652453477642324337"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Структура системи управління якістю електронних ресурсів навчання. Випуск 10",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:WF5omc3nYNoC",
+      "citation_id": "EjLwtBoAAAAJ:WF5omc3nYNoC",
+      "authors": "ГМ Кравцов",
+      "publication": "REFERENCES (TRANSLATED AND TRANSLITERATED) 1, 2011",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9080371320675393710",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9080371320675393710&engine=google_scholar&hl=en",
+        "cites_id": "9080371320675393710"
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Система дистанционного обучения ХГУ./Материалы второй международной научно-практической конференции «Информатизация образования Украины: состояние, проблемы, перспективы»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:dQ2og3OwTAUC",
+      "citation_id": "EjLwtBoAAAAJ:dQ2og3OwTAUC",
+      "authors": "ГМ Кравцов",
+      "publication": "Херсон, 2003",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10816977460722047528",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10816977460722047528&engine=google_scholar&hl=en",
+        "cites_id": "10816977460722047528"
+      },
+      "year": "2003"
+    },
+    {
+      "title": "Organisation of Business English for specific purposes course on Moodle",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:0KyAp5RtaNEC",
+      "citation_id": "EjLwtBoAAAAJ:0KyAp5RtaNEC",
+      "authors": "HM Shalatska, OY Zotova-Sadylo, OV Balanaieva, HM Kravtsov",
+      "publication": "Proceedings of the symposium on advances in educational technology, aet, 2020",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18377838386280433576",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18377838386280433576&engine=google_scholar&hl=en",
+        "cites_id": "18377838386280433576"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Systema psykholoho-pedahohichnykh vymoh do zasobiv informatsiino-komunikatsiinykh tekhnolohii navchalnoho pryznachennia (System of psychological and pedagogical requirements to …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:fEOibwPWpKIC",
+      "citation_id": "EjLwtBoAAAAJ:fEOibwPWpKIC",
+      "authors": "OO Hrybiuk, VM Demianenko, MI Zhaldak, YH Zaporozhchenko, TI Koval, ...",
+      "publication": "Atika, Kyiv, 2014",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16396584700504839641",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16396584700504839641&engine=google_scholar&hl=en",
+        "cites_id": "16396584700504839641"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Перспективи розвитку сучасного навчально-наукового середовища освітніх установ: до 15-річчя Інституту інформаційних технологій і засобів навчання НАПН України",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:zA6iFVUQeVQC",
+      "citation_id": "EjLwtBoAAAAJ:zA6iFVUQeVQC",
+      "authors": "MP Shyshkina, YG Zaporozhchenko, HM Kravtsov",
+      "publication": "Інформаційні технології в освіті, 62-70, 2014",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7935165578908041405",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7935165578908041405&engine=google_scholar&hl=en",
+        "cites_id": "7935165578908041405"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Объектная модель структуры программного обеспечения виртуальной лаборатории в системе Херсонский виртуальный университет",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:HDshCWvjkbEC",
+      "citation_id": "EjLwtBoAAAAJ:HDshCWvjkbEC",
+      "authors": "ЕО Козловский, ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 55-60, 2012",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18236404552882414518",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18236404552882414518&engine=google_scholar&hl=en",
+        "cites_id": "18236404552882414518"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Разработка системы тестирования в среде дистанционного обучения",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:35N4QoGY0k4C",
+      "citation_id": "EjLwtBoAAAAJ:35N4QoGY0k4C",
+      "authors": "ГМ Кравцов, ДГ Кравцов",
+      "publication": "Матеріали ІІІ Міжнародної науково-практичної конференції «Інформатизація …, 2005",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11707897779520024776",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11707897779520024776&engine=google_scholar&hl=en",
+        "cites_id": "11707897779520024776"
+      },
+      "year": "2005"
+    },
+    {
+      "title": "Методи використання хмарних сервісів у навчанні іноземної мови",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:t6usbXjVLHcC",
+      "citation_id": "EjLwtBoAAAAJ:t6usbXjVLHcC",
+      "authors": "ГМ Кравцов, ОО Гнєдкова",
+      "publication": "CEUR-WS. org, 2018",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11905542915806136901",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11905542915806136901&engine=google_scholar&hl=en",
+        "cites_id": "11905542915806136901"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Cистема психолого-педагогічних вимог до засобів інформаційно-комунікаційних технологій навчального призначення",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:1sJd4Hv_s6UC",
+      "citation_id": "EjLwtBoAAAAJ:1sJd4Hv_s6UC",
+      "authors": "ОО Гриб'юк, ВМ Дем’яненко, МІ Жалдак, ЮГ Запорожченко, ТІ Коваль, ...",
+      "publication": "\" Атіка\", 2014",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18163570495232635537",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18163570495232635537&engine=google_scholar&hl=en",
+        "cites_id": "18163570495232635537"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Comparative Analysis of Learning in Three-Subjective Didactic Model.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "EjLwtBoAAAAJ:d1gkVwhDpl0C",
+      "authors": "A Spivakovsky, L Petukhova, E Spivakovska, V Kotkova, H Kravtsov",
+      "publication": "ICTERI, 236-251, 2013",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16022674224433961901",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16022674224433961901&engine=google_scholar&hl=en",
+        "cites_id": "16022674224433961901"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Modeling of system of quality management of electronic learning resources: integrated and differentiated approaches/G. M. Kravtsov",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:O3NaXMp0MMsC",
+      "citation_id": "EjLwtBoAAAAJ:O3NaXMp0MMsC",
+      "authors": "GM Kravtsov",
+      "publication": "Information Technologies in Education, 24-31, 2012",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5450439893039484936",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5450439893039484936&engine=google_scholar&hl=en",
+        "cites_id": "5450439893039484936"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Virtual Laboratory for Distance Learning: Conceptual Design and Technology Choices.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "EjLwtBoAAAAJ:u-x6o8ySG0sC",
+      "authors": "E Kozlovsky, H Kravtsov",
+      "publication": "ICTERI, 116-125, 2011",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1758202046926425994",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1758202046926425994&engine=google_scholar&hl=en",
+        "cites_id": "1758202046926425994"
+      },
+      "year": "2011"
+    },
+    {
+      "title": "Informatization of education: driving force for integration of modern higher education in the global information space",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:AvfA0Oy_GE0C",
+      "citation_id": "EjLwtBoAAAAJ:AvfA0Oy_GE0C",
+      "authors": "EG Fedorenko, VY Velychko, OG Naboka, HM Kravtsov",
+      "publication": "CEUR Workshop Proceedings, 128-147, 2023",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1712688681726212790",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1712688681726212790&engine=google_scholar&hl=en",
+        "cites_id": "1712688681726212790"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Using the Discord platform in the educational process",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:URolC5Kub84C",
+      "citation_id": "EjLwtBoAAAAJ:URolC5Kub84C",
+      "authors": "VS Kruglyk, DO Bukreiev, PV Chornyi, EO Kupchak, AA Sender, ...",
+      "publication": "Proceedings of the symposium on advances in educational technology, aet, 2020",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16996722424229669455",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16996722424229669455&engine=google_scholar&hl=en",
+        "cites_id": "16996722424229669455"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "System for Testing Physics Knowledge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:SdhP9T11ey4C",
+      "citation_id": "EjLwtBoAAAAJ:SdhP9T11ey4C",
+      "authors": "M Lvov, S Kuzmenkov, H Kravtsov",
+      "publication": "Information and Communication Technologies in Education, Research, and …, 2020",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=882380539616864655",
+        "serpapi_link": "https://serpapi.com/search.json?cites=882380539616864655&engine=google_scholar&hl=en",
+        "cites_id": "882380539616864655"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Ресурс обучения Wiki-документ в системе Херсонский виртуальный университет",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:0EnyYjriUFMC",
+      "citation_id": "EjLwtBoAAAAJ:0EnyYjriUFMC",
+      "authors": "ЕО Козловский, ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 255-262, 2013",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15842386087528805024,2789158135892597436",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15842386087528805024%2C2789158135892597436&engine=google_scholar&hl=en",
+        "cites_id": "15842386087528805024,2789158135892597436"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Тестування як основна технологія контролю знань слухачів курсу ECDL",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=60&citation_for_view=EjLwtBoAAAAJ:KlAtU1dfN6UC",
+      "citation_id": "EjLwtBoAAAAJ:KlAtU1dfN6UC",
+      "authors": "ГМ Кравцов, ВД Шарко",
+      "publication": "Інформаційні технології в освіті.–2010.–Вип 8, 39-46, 2010",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17334247971386843390",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17334247971386843390&engine=google_scholar&hl=en",
+        "cites_id": "17334247971386843390"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Про метрики оцінювання якості електронних навчальних ресурсів",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:dshw04ExmUIC",
+      "citation_id": "EjLwtBoAAAAJ:dshw04ExmUIC",
+      "authors": "ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті: Зб. наук. праць.–Вип 3, 141-147, 2009",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9655151035939004598",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9655151035939004598&engine=google_scholar&hl=en",
+        "cites_id": "9655151035939004598"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Distance learning expert and leader",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:vDijr-p_gm4C",
+      "citation_id": "EjLwtBoAAAAJ:vDijr-p_gm4C",
+      "authors": "VN Kukharenko, BI Shunevych, HM Kravtsov",
+      "publication": "Educational Dimension 8, 19-40, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8413360217706196511",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8413360217706196511&engine=google_scholar&hl=en",
+        "cites_id": "8413360217706196511"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "ACNS Conference on Cloud and Immersive Technologies in Education: Report",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:zLWjf1WUPmwC",
+      "citation_id": "EjLwtBoAAAAJ:zLWjf1WUPmwC",
+      "authors": "S Papadakis, AE Kiv, HM Kravtsov, VV Osadchyi, MV Marienko, ...",
+      "publication": "CTE Workshop Proceedings 10, 1-44, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2558373603854674433",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2558373603854674433&engine=google_scholar&hl=en",
+        "cites_id": "2558373603854674433"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Interactive teaching methods with visualization for technical and economic students",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:Z5m8FVwuT1cC",
+      "citation_id": "EjLwtBoAAAAJ:Z5m8FVwuT1cC",
+      "authors": "OM Mikhailutsa, TO Melikhova, AV Pozhuyev, HM Kravtsov",
+      "publication": "CEUR Workshop Proceedings, 32-47, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13585858091698873298",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13585858091698873298&engine=google_scholar&hl=en",
+        "cites_id": "13585858091698873298"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Designing and evaluating ESP courses on Moodle for enhancing language skills in online learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:BUYA1_V_uYcC",
+      "citation_id": "EjLwtBoAAAAJ:BUYA1_V_uYcC",
+      "authors": "HM Shalatska, OY Zotova-Sadylo, OV Balanaieva, HM Kravtsov",
+      "publication": "CEUR Workshop Proceedings, 61-79, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7919250648055462713",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7919250648055462713&engine=google_scholar&hl=en",
+        "cites_id": "7919250648055462713"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "About one approach to building systems for testing physical knowledge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:eq2jaN3J8jMC",
+      "citation_id": "EjLwtBoAAAAJ:eq2jaN3J8jMC",
+      "authors": "M Lvov, S Kuzmenkov, H Kravtsov",
+      "publication": "CEUR Workshop Proceedings, 1-16, 2019",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10107778550234304411",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10107778550234304411&engine=google_scholar&hl=en",
+        "cites_id": "10107778550234304411"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "ICT in Education, Research and Industrial Applications: Integration, Harmonization and Knowledge Transfer",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:D_sINldO8mEC",
+      "citation_id": "EjLwtBoAAAAJ:D_sINldO8mEC",
+      "authors": "S Batsakis, HC Mayr, V Yakovyna, M Nikitchenko, G Zholtkevych, ...",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14886349935961782991",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14886349935961782991&engine=google_scholar&hl=en",
+        "cites_id": "14886349935961782991"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Звіт про дослідно-експериментальну роботу за темою «Комп'ютерно-орієнтована система управління якістю електронних освітніх ресурсів (ЕОР) в загальноосвітніх навчальних закладах …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:738O_yMBCRsC",
+      "citation_id": "EjLwtBoAAAAJ:738O_yMBCRsC",
+      "authors": "ОВ Співаковський, МП Шишкіна, ГМ Кравцов, ЮГ Носенко",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5940145649073110066",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5940145649073110066&engine=google_scholar&hl=en",
+        "cites_id": "5940145649073110066"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Комбіноване навчання як засіб інтенсифікації навчального процесу під час викладання дисципліни «Методика і технології дистанційного навчання»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:OU6Ihb5iCvQC",
+      "citation_id": "EjLwtBoAAAAJ:OU6Ihb5iCvQC",
+      "authors": "Г Кравцов, ОО Гнєдкова",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6662797934099227015",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6662797934099227015&engine=google_scholar&hl=en",
+        "cites_id": "6662797934099227015"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Исследование влияния качества электронных образовательных ресурсов на качество обучения с использованием дистанционных технологий",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:9ZlFYXVOiuMC",
+      "citation_id": "EjLwtBoAAAAJ:9ZlFYXVOiuMC",
+      "authors": "ГМ Кравцов, МО Вінник, ЮГ Тарасіч",
+      "publication": "Інформаційні технології в освіті, 83-94, 2013",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12629792585692384590",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12629792585692384590&engine=google_scholar&hl=en",
+        "cites_id": "12629792585692384590"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Моделювання системи управління якістю електронних ресурсів навчання: інтегрований та диференційований підходи",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:-f6ydRqryjwC",
+      "citation_id": "EjLwtBoAAAAJ:-f6ydRqryjwC",
+      "authors": "HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 024-031, 2012",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16467621924105904439",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16467621924105904439&engine=google_scholar&hl=en",
+        "cites_id": "16467621924105904439"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "OBJECTIVE MODEL OF SOFTWARE STRUCTURE OF VIRTUAL LABORATORY IN SYSTEM THE KHERSON VIRTUAL UNIVERSITY",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:JV2RwH3_ST0C",
+      "citation_id": "EjLwtBoAAAAJ:JV2RwH3_ST0C",
+      "authors": "EO Kozlovskiy, HM Kravtsov",
+      "publication": "Информационные технологии, 55-60, 2012",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15505442653593785586",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15505442653593785586&engine=google_scholar&hl=en",
+        "cites_id": "15505442653593785586"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Технология адаптивных тестов для реализации лабораторных работ в дистанционном курсе Цитология",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:j3f4tGmQtD8C",
+      "citation_id": "EjLwtBoAAAAJ:j3f4tGmQtD8C",
+      "authors": "ГМ Кравцов, ДГ Кравцов",
+      "publication": "Управляющие системы и машины, 85–87,-91, 2009",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1035455449316267551",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1035455449316267551&engine=google_scholar&hl=en",
+        "cites_id": "1035455449316267551"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Quality monitoring system of university electronic information resources",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:abG-DnoFyZgC",
+      "citation_id": "EjLwtBoAAAAJ:abG-DnoFyZgC",
+      "authors": "ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 42-46, 2008",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5173071602166777225",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5173071602166777225&engine=google_scholar&hl=en",
+        "cites_id": "5173071602166777225"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Revolutionizing education: using computer simulation and cloud-based smart technology to facilitate successful open learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:4MWp96NkSFoC",
+      "citation_id": "EjLwtBoAAAAJ:4MWp96NkSFoC",
+      "authors": "V Osadchyi, S Papadakis, АE Kiv, HM Kravtsov, MV Marienko, ...",
+      "publication": "CoSinE and CSTOE 2022 3358, 1-18, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "How to format your workshop paper",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:j8SEvjWlNXcC",
+      "citation_id": "EjLwtBoAAAAJ:j8SEvjWlNXcC",
+      "authors": "HM Kravtsov, MV Marienko, IS Mintii, VV Osadchyi, OP Pinchuk, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "ICTERI 2021 Workshops: ITER, MROL, RMSEBT, TheRMIT, UNLP 2021, Kherson, Ukraine, September 28–October 2, 2021, Proceedings",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:VLnqNzywnoUC",
+      "citation_id": "EjLwtBoAAAAJ:VLnqNzywnoUC",
+      "authors": "O Ignatenko, V Kharchenko, V Kobets, H Kravtsov, Y Tarasich, ...",
+      "publication": "Springer Nature, 2022",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2022"
+    },
+    {
+      "title": "About Electronic Textbook “Mathematical Tasks Programming. First Steps”",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:uJ-U7cs_P_0C",
+      "citation_id": "EjLwtBoAAAAJ:uJ-U7cs_P_0C",
+      "authors": "M Lvov, H Kravtsov, L Shishko, O Hniedkova, I Chernenko, E Kozlovsky",
+      "publication": "International Conference on Information and Communication Technologies in …, 2021",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "ICT in Education, Research and Industrial Applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:uWiczbcajpAC",
+      "citation_id": "EjLwtBoAAAAJ:uWiczbcajpAC",
+      "authors": "O Sokolov, G Zholtkevych, V Yakovyna, Y Tarasich, V Kharchenko, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    },
+    {
+      "title": "ICTERI 2020: ICT in Education, Research and Industrial Applications. Integration, Harmonization and Knowledge Transfer 2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=80&citation_for_view=EjLwtBoAAAAJ:2KloaMYe4IUC",
+      "citation_id": "EjLwtBoAAAAJ:2KloaMYe4IUC",
+      "authors": "O Sokolov, G Zholtkevych, V Yakovyna, Y Tarasich, V Kharchenko, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Augmented and Virtual Reality Technologies in Teacher Retraining",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:1yQoGdGgb4wC",
+      "citation_id": "EjLwtBoAAAAJ:1yQoGdGgb4wC",
+      "authors": "G Yuzbasheva, H Kravtsov",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    },
+    {
+      "title": "ICT in education, research and industrial applications. Integration, harmonization and knowledge transfer (ICTERI 2019)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:PR6Y55bgFSsC",
+      "citation_id": "EjLwtBoAAAAJ:PR6Y55bgFSsC",
+      "authors": "V Ermolayev, F Mallet, V Yakovyna, V Kharchenko, V Kobets, ...",
+      "publication": "CEUR Workshop Proceedings (http://ceur-ws. org/), 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "ICTERI 2019: ICT in Education, Research and Industrial Applications. Integration, Harmonization and Knowledge Transfer: Proceedings of the 15th International Conference. Volume …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:_B80troHkn4C",
+      "citation_id": "EjLwtBoAAAAJ:_B80troHkn4C",
+      "authors": "V Ermolayev, F Mallet, V Yakovyna, V Kharchenko, V Kobets, ...",
+      "publication": "CEUR Workshop Proceedings 2 (2393), 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Cloud Technologies in Education. Proc. of the 5th Workshop CTE 2017, Kryvyi Rih, Ukraine, April 28, 2017",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:olpn-zPbct0C",
+      "citation_id": "EjLwtBoAAAAJ:olpn-zPbct0C",
+      "authors": "МП Шишкіна, СГ Литвинова, ПВ Мерзликін, МВ Попель, СВ Шокалюк, ...",
+      "publication": "CEUR-WS. org, 2018",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Мультимедійний редактор віртуальної фізичної лабораторії в системі дистанційного навчання Херсонський віртуальний університет",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:9vf0nzSNQJEC",
+      "citation_id": "EjLwtBoAAAAJ:9vf0nzSNQJEC",
+      "authors": "ГМ Кравцов, АС Баєв, ОІ Лемещук, ВВ Орлов",
+      "publication": "Інформаційні технології в освіті, 63-79, 2017",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "The Use of Cloud Services for Learning Foreign Language",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:WA5NYHcadZ8C",
+      "citation_id": "EjLwtBoAAAAJ:WA5NYHcadZ8C",
+      "authors": "O Gnedkova, H Kravtsov",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "МУЛЬТИМЕДІЙНА ВІРТУАЛЬНА ЛАБОРАТОРІЯ З ФИЗИКИ В СИСТЕМІ ДИСТАНЦІЙНОГО НАВЧАННЯ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:z_wVstp3MssC",
+      "citation_id": "EjLwtBoAAAAJ:z_wVstp3MssC",
+      "authors": "EO Kozlovskiy, HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 80-89, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "ПЕРСПЕКТИВЫ РАЗВИТИЯ СОВРЕМЕННОЙ УЧЕБНО-НАУЧНОЙ СРЕДЫ ОБРАЗОВАТЕЛЬНЫХ УЧРЕЖДЕНИЙ: К 15-ЛЕТИЮ ИНСТИТУТА ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И СРЕДСТВ ОБУЧЕНИЯ НАПН УКРАИНЫ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:LPZeul_q3PIC",
+      "citation_id": "EjLwtBoAAAAJ:LPZeul_q3PIC",
+      "authors": "МП Шишкина, ЮГ Запорожченко, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "ТЕОРЕТИЧНІ ЗАСАДИ ПІДГОТОВКИ ДИТИНИ ДО ШКОЛИ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:K3LRdlH-MEoC",
+      "citation_id": "EjLwtBoAAAAJ:K3LRdlH-MEoC",
+      "authors": "Л Артемова, Н Бібік, К Геревич, М Вашуленко, Г Кравцов, З Плохій, ...",
+      "publication": "ЗБІРНИК НАУКОВИХ ПРАЦЬ ПЕДАГОГІЧНІ НАУКИ, 90, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Облачные сервисы Microsoft в системе дистанционного обучения.«Херсонский виртуальный университет»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:bFI3QPDXJZMC",
+      "citation_id": "EjLwtBoAAAAJ:bFI3QPDXJZMC",
+      "authors": "Г Кравцов, И Чемисова",
+      "publication": "Информационные технологии в образовании, 53-65, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "РЕСУРС НАВЧАННЯ «WIKI-ДОКУМЕНТ» В СИСТЕМІ «ХЕРСОНСЬКИЙ ВІРТУАЛЬНИЙ УНІВЕРСИТЕТ»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:nrtMV_XWKgEC",
+      "citation_id": "EjLwtBoAAAAJ:nrtMV_XWKgEC",
+      "authors": "ЕО Kozlovskiy, HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 255-262, 2013",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2013"
+    },
+    {
+      "title": "ROLE OF STANDARDS IN QUALITY MANAGEMENT OF ELECTRONIC EDUCATIONAL RESOURCES",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:GnPB-g6toBAC",
+      "citation_id": "EjLwtBoAAAAJ:GnPB-g6toBAC",
+      "authors": "HM Kravtsov",
+      "publication": "Ìnformacìjnì Tehnologìï v Osvìtì 2013 (14), 71-79, 2013",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2013"
+    },
+    {
+      "title": "RESOURCE OF TRAINING “WIKI-DOCUMENT” IN SYSTEM “KHERSON VIRTUAL UNIVERSITY”",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:BqipwSGYUEgC",
+      "citation_id": "EjLwtBoAAAAJ:BqipwSGYUEgC",
+      "authors": "KHM Kozlovskiy ЕО",
+      "publication": "Информационные технологии, 255-262, 2013",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Роль стандартов в управлении качеством электронных образовательных ресурсов",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:aqlVkmm33-oC",
+      "citation_id": "EjLwtBoAAAAJ:aqlVkmm33-oC",
+      "authors": "ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 71-79, 2013",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2013"
+    },
+    {
+      "title": "ОБ’ЄКТНА МОДЕЛЬ ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ ВІРТУАЛЬНОЇ ЛАБОРАТОРІЇ В СИСТЕМІ ХЕРСОНСЬКИЙ ВІРТУАЛЬНИЙ УНІВЕРСИТЕТ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:ipzZ9siozwsC",
+      "citation_id": "EjLwtBoAAAAJ:ipzZ9siozwsC",
+      "authors": "EO Kozlovskiy, HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 055-060, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "ЦЕЛИ, ЗАДАЧИ И ОБЕСПЕЧЕНИЕ СТРАТЕГИЧЕСКОГО ПЛАНА ВНЕДРЕНИЯ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ В КОНЦЕПЦИИ РАЗВИТИЯ УНИВЕРСИТЕТА",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:eMMeJKvmdy0C",
+      "citation_id": "EjLwtBoAAAAJ:eMMeJKvmdy0C",
+      "authors": "АВ Спиваковский, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Службы управления качеством электронных ресурсов обучения в высшем учебном заведении",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:B3FOqHPlNUQC",
+      "citation_id": "EjLwtBoAAAAJ:B3FOqHPlNUQC",
+      "authors": "ГМ Кравцов",
+      "publication": "Вісник Луганського національного університету імені Тараса Шевченка …, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Цели, задачи и обеспечение стратегического плана внедрения информационных технологий в концепции развития университета",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:ZeXyd9-uunAC",
+      "citation_id": "EjLwtBoAAAAJ:ZeXyd9-uunAC",
+      "authors": "ОВ Співаковський, ГМ Кравцов",
+      "publication": "Інформаційні технології в освіті, 9-22, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "ОБ’ЄКТНА МОДЕЛЬ ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ ВІРТУАЛЬНОЇ ЛАБОРАТОРІЇ В СИСТЕМІ ХЕРСОНСЬКИЙ ВІРТУАЛЬНИЙ УНІВЕРСИТЕТ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:kNdYIx-mwKoC",
+      "citation_id": "EjLwtBoAAAAJ:kNdYIx-mwKoC",
+      "authors": "ЕО Козловский, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "СТРУКТУРА СИСТЕМИ УПРАВЛІННЯ ЯКІСТЮ ЕЛЕКТРОННИХ РЕСУРСІВ НАВЧАННЯ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=100&citation_for_view=EjLwtBoAAAAJ:9Nmd_mFXekcC",
+      "citation_id": "EjLwtBoAAAAJ:9Nmd_mFXekcC",
+      "authors": "HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 094-101, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "О ПРОЕКТИРОВАНИИ И РАЗРАБОТКЕ СИСТЕМЫ УПРАВЛЕНИЯ КАЧЕСТВОМ ЭЛЕКТРОННЫХ ИНФОРМАЦИОННЫХ РЕСУРСОВ ОБУЧЕНИЯ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:_Ybze24A_UAC",
+      "citation_id": "EjLwtBoAAAAJ:_Ybze24A_UAC",
+      "authors": "Г Кравцов",
+      "publication": "ІКТ в освіті, дослідженнях та індустріальних додатках: інтеграція …, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "О ПРОЕКТИРОВАНИИ И ТЕХНОЛОГИЯХ РАЗРАБОТКИ ВИРТУАЛЬНОЙ ЛАБОРАТОРИИ В СИСТЕМЕ ДИСТАНЦИОННОГО ОБУЧЕНИЯ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:uLbwQdceFCQC",
+      "citation_id": "EjLwtBoAAAAJ:uLbwQdceFCQC",
+      "authors": "Е Козловский, Г Кравцов",
+      "publication": "ІКТ в освіті, дослідженнях та індустріальних додатках: інтеграція …, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "STRUCTURE OF THE MANAGEMENT SYSTEM OF QUALITY OF ELECTRONIC LEARNING RESOURCES",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "EjLwtBoAAAAJ:YFjsv_pBGBYC",
+      "authors": "HM Kravtsov",
+      "publication": "Ìnformacìjnì Tehnologìï v Osvìtì 2011 (10), 94-101, 2011",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "ТЕСТУВАННЯ ЯК ОСНОВНА ТЕХНОЛОГІЯ КОНТРОЛЮ ЗНАНЬ СЛУХАЧІВ КУРСУ ECDL",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:t7zJ5fGR-2UC",
+      "citation_id": "EjLwtBoAAAAJ:t7zJ5fGR-2UC",
+      "authors": "H Kravtsov, V Sharko",
+      "publication": "Journal of Information Technologies in Education (ITE), 031-038, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "МОДУЛЬ «ВІРТУАЛЬНА ЕЛЕКТРОННА ДОШКА» СИСТЕМИ ДИСТАНЦІЙНОГО НАВЧАННЯ «ХЕРСОНСЬКИЙ ВІРТУАЛЬНИЙ УНІВЕРСИТЕТ 2.0»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:BwyfMAYsbu0C",
+      "citation_id": "EjLwtBoAAAAJ:BwyfMAYsbu0C",
+      "authors": "EO Kozlovskij, VV Ljakutin, HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 081-086, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "TECHNOLOGIES OF CREATION AND A USAGE METHODS OF THE INTERACTIVE HELP IN DISTANCE LTARNING SYSTEM",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:NMxIlDl6LWMC",
+      "citation_id": "EjLwtBoAAAAJ:NMxIlDl6LWMC",
+      "authors": "HM Kravtsov, OA Gnedkova, EO Kozlovskij, VV Ljakutin",
+      "publication": "Journal of Information Technologies in Education (ITE), 113-117, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Технологии создания и методика использования интерактивной справки в системе дистанционного обучения",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:Y5dfb0dijaUC",
+      "citation_id": "EjLwtBoAAAAJ:Y5dfb0dijaUC",
+      "authors": "ГМ Кравцов, ОО Гнєдкова, ЄО Козловський, ВВ Лякутін",
+      "publication": "Інформаційні технології в освіті, 113-117, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "THE MODULE «VIRTUAL ELECTRONIC BOARD» OF DISTANCE LEARNING SYSTEM «KHERSON VIRTUAL UNIVERSITY 2.0»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:hMod-77fHWUC",
+      "citation_id": "EjLwtBoAAAAJ:hMod-77fHWUC",
+      "authors": "EO Kozlovskij, VV Ljakutin, HM Kravtsov",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Тестирование как основная технология контроля знаний слушателей курса ECDL",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:IWHjjKOFINEC",
+      "citation_id": "EjLwtBoAAAAJ:IWHjjKOFINEC",
+      "authors": "ГМ Кравцов, ВД Шарко",
+      "publication": "Інформаційні технології в освіті, 39-46, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Качественные характеристики технологических платформ дистанционного обучения",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:7PzlFSSx8tAC",
+      "citation_id": "EjLwtBoAAAAJ:7PzlFSSx8tAC",
+      "authors": "ГМ Кравцов, ВВ Одинцов",
+      "publication": "Інформаційні технології в освіті, 31-38, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "ТЕХНОЛОГІЇ СТВОРЕННЯ ТА МЕТОДИКА ВИКОРИСТАННЯ ІНТЕРАКТИВНОЇ ДОВІДКИ В СИСТЕМІ ДИСТАНЦІЙНОГО НАВЧАННЯ «ХЕРСОНСЬКИЙ ВІРТУАЛЬНИЙ УНІВЕРСИТЕТ»",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:4TOpqqG69KYC",
+      "citation_id": "EjLwtBoAAAAJ:4TOpqqG69KYC",
+      "authors": "ГМ Кравцов, ОО Гнєдкова, ЄО Козловський, ВВ Лякутін",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "ДО ТЕОРІЇ ТА ПРАКТИКИ ВИКОРИСТАННЯ АДАПТИВНИХ ТЕСТІВ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:XD-gHx7UXLsC",
+      "citation_id": "EjLwtBoAAAAJ:XD-gHx7UXLsC",
+      "authors": "LD Smetanyuk, HM Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 148-155, 2009",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Текущий выпуск",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:eJXPG6dFmWUC",
+      "citation_id": "EjLwtBoAAAAJ:eJXPG6dFmWUC",
+      "authors": "АВ Спиваковский, МС Львов, ГМ Кравцов, ЯБ Федорова, НА Кушнир, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Цели и задачи проекта\" Создание банка электронных документов по дистанционному обучению для высшего педагогического образования\"",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:geHnlv5EZngC",
+      "citation_id": "EjLwtBoAAAAJ:geHnlv5EZngC",
+      "authors": "ОВ Співаковський, МС Львов, ГМ Кравцов, ЯБ Федорова, НВ Осипова, ...",
+      "publication": "Інформаційні технології в освіті, 96-110, 2009",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "THEORY AND PRACTICE OF ADAPTIVE TESTS USAGE.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:ns9cj8rnVeAC",
+      "citation_id": "EjLwtBoAAAAJ:ns9cj8rnVeAC",
+      "authors": "LD Smetanyuk, HM Kravtsov",
+      "publication": "Ìnformacìjnì Tehnologìï v Osvìtì 2009 (3), 148-155, 2009",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Вход в систему",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:L8Ckcad2t8MC",
+      "citation_id": "EjLwtBoAAAAJ:L8Ckcad2t8MC",
+      "authors": "АВ Спиваковский, МС Львов, ГМ Кравцов, ЯБ Федорова, НА Кушнир, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "ОБЛАЧНЫЕ СЕРВИСЫ В ОБРАЗОВАНИИ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:4DMP91E08xMC",
+      "citation_id": "EjLwtBoAAAAJ:4DMP91E08xMC",
+      "authors": "АВ Спиваковский, МС Львов, ГМ Кравцов, ЯБ Федорова, НА Кушнир, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Вход в систему",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:qxL8FJ1GzNcC",
+      "citation_id": "EjLwtBoAAAAJ:qxL8FJ1GzNcC",
+      "authors": "ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "ДО ТЕОРІЇ ТА ПРАКТИКИ ВИКОРИСТАННЯ АДАПТИВНИХ ТЕСТІВ.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:M3ejUd6NZC8C",
+      "citation_id": "EjLwtBoAAAAJ:M3ejUd6NZC8C",
+      "authors": "ЛВ Сметанюк, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "КЛАССИФИКАЦИЯ ДЕТЕЙ С НАРУШЕНИЕМ ЗРЕНИЯ...",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=120&citation_for_view=EjLwtBoAAAAJ:8k81kl-MbHgC",
+      "citation_id": "EjLwtBoAAAAJ:8k81kl-MbHgC",
+      "authors": "АВ Спиваковский, МС Львов, ГМ Кравцов, ЯБ Федорова, НА Кушнир, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "МОДЕЛЬ КОНТРОЛЯ ЗНАНИЙ СИСТЕМЫ ДИСТАНЦИОННОГО ОБУЧЕНИЯ “ХЕРСОНСКИЙ ВИРТУАЛЬНЫЙ УНИВЕРСИТЕТ”",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:epqYDVWIO7EC",
+      "citation_id": "EjLwtBoAAAAJ:epqYDVWIO7EC",
+      "authors": "HM Kravtsov, DH Kravtsov",
+      "publication": "Journal of Information Technologies in Education (ITE), 066-071, 2008",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Текущий выпуск",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:u_35RYKgDlwC",
+      "citation_id": "EjLwtBoAAAAJ:u_35RYKgDlwC",
+      "authors": "ОВ Співаковський",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2008"
+    },
+    {
+      "title": "КЛАССИФИКАЦИЯ ДЕТЕЙ С НАРУШЕНИЕМ ЗРЕНИЯ...",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:M3NEmzRMIkIC",
+      "citation_id": "EjLwtBoAAAAJ:M3NEmzRMIkIC",
+      "authors": "ГМ Кравцов, ДГ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2008"
+    },
+    {
+      "title": "ОБЛАЧНЫЕ СЕРВИСЫ В ОБРАЗОВАНИИ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:maZDTaKrznsC",
+      "citation_id": "EjLwtBoAAAAJ:maZDTaKrznsC",
+      "authors": "ГМ Кравцов, ДГ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Overall, the workshops, co-located with ICTERI 2021 had attracted 194 submissions by the authors from eighteen countries in Europe, Asia, Americas, and Africa. Out of these …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:_Re3VWB3Y0AC",
+      "citation_id": "EjLwtBoAAAAJ:_Re3VWB3Y0AC",
+      "authors": "O Ignatenko, V Kharchenko, V Kobets, H Kravtsov, S Semerikov, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "About One Approach to Building Systems for Testing Physical Knowledge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:PELIpwtuRlgC",
+      "citation_id": "EjLwtBoAAAAJ:PELIpwtuRlgC",
+      "authors": "H Kravtsov",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Методи використання хмарних сервісів у навчанні іноземної мови",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:Mojj43d5GZwC",
+      "citation_id": "EjLwtBoAAAAJ:Mojj43d5GZwC",
+      "authors": "ОО Гнєдкова, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "PECULIARITIES OF ADAPTIVE TESTS USING IN DISTANCE LEARNING SYSTEM «KHERSON VIRTUAL UNIVERSITY",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:HE397vMXCloC",
+      "citation_id": "EjLwtBoAAAAJ:HE397vMXCloC",
+      "authors": "OО Gnedkova, H Kravtsov",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "індктивихЕрсонського дррждвного",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:bnK-pcrLprsC",
+      "citation_id": "EjLwtBoAAAAJ:bnK-pcrLprsC",
+      "authors": "ОВ Співаковський, МС Львов, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Тестирование в дистанционном обучении",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:VOx2b1Wkg3QC",
+      "citation_id": "EjLwtBoAAAAJ:VOx2b1Wkg3QC",
+      "authors": "ОА Гнедкова, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "ДИСТАНЦІЙНЕ НАВЧАННЯ У ВНЗ УКРАЇНИ. СУЧАСНИЙ СТАН",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:uWQEDVKXjbEC",
+      "citation_id": "EjLwtBoAAAAJ:uWQEDVKXjbEC",
+      "authors": "ГМ Кравцов, МО Вінник, ЮГ Тарасіч",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "ЗМІСТ",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:xtRiw3GOFMkC",
+      "citation_id": "EjLwtBoAAAAJ:xtRiw3GOFMkC",
+      "authors": "ОВ Співаковський, ГМ Кравцов",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "XI Всеукраїнський турнір юних інформатиків",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:ldfaerwXgEUC",
+      "citation_id": "EjLwtBoAAAAJ:ldfaerwXgEUC",
+      "authors": "ОА Васяніна, СП Даниленко, МІ Жалдак, ОП Казанцева, ГМ Кравцов, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Hennagiy Kravtsov, Dmytro Kravtsov, Evgen Kozlovskiy Kherson State University, Kherson, Ukraine",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:bEWYMUwI8FkC",
+      "citation_id": "EjLwtBoAAAAJ:bEWYMUwI8FkC",
+      "authors": "ГМ Кравцов, ДГ Кравцов, ЕО Козловский",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Херсонский государственный университет, Херсон, Украина",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:QIV2ME_5wuYC",
+      "citation_id": "EjLwtBoAAAAJ:QIV2ME_5wuYC",
+      "authors": "ГМ Кравцов, ММ Сидорович",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "МЕТОДИЧНІ РЕКОМЕНДАЦІЇ ЩОДО ПІДГОТОВКИ ВИКЛАДАЧІВ ДО ВИКОРИСТАННЯ СУЧАСНИХ ІНФОРМАЦІЙНО-КОМУНІКАЦІЙНИХ ТЕХНОЛОГІЙ В НАВЧАЛЬНОМУ ПРОЦЕСІ Бодненко Дмитро Миколайович, канд. пед …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EjLwtBoAAAAJ&cstart=140&citation_for_view=EjLwtBoAAAAJ:_kc_bZDykSQC",
+      "citation_id": "EjLwtBoAAAAJ:_kc_bZDykSQC",
+      "authors": "ДБ Зубань, ОО Стельмах, ГМ Кравцов, АВ Соломенний, ВІ Лагно",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 1082,
+          "since_2018": 458
+        }
+      },
+      {
+        "h_index": {
+          "all": 17,
+          "since_2018": 11
+        }
+      },
+      {
+        "i10_index": {
+          "all": 41,
+          "since_2018": 16
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2005,
+        "citations": 3
+      },
+      {
+        "year": 2006,
+        "citations": 4
+      },
+      {
+        "year": 2007,
+        "citations": 4
+      },
+      {
+        "year": 2008,
+        "citations": 83
+      },
+      {
+        "year": 2009,
+        "citations": 102
+      },
+      {
+        "year": 2010,
+        "citations": 59
+      },
+      {
+        "year": 2011,
+        "citations": 34
+      },
+      {
+        "year": 2012,
+        "citations": 44
+      },
+      {
+        "year": 2013,
+        "citations": 45
+      },
+      {
+        "year": 2014,
+        "citations": 48
+      },
+      {
+        "year": 2015,
+        "citations": 47
+      },
+      {
+        "year": 2016,
+        "citations": 60
+      },
+      {
+        "year": 2017,
+        "citations": 61
+      },
+      {
+        "year": 2018,
+        "citations": 48
+      },
+      {
+        "year": 2019,
+        "citations": 47
+      },
+      {
+        "year": 2020,
+        "citations": 87
+      },
+      {
+        "year": 2021,
+        "citations": 98
+      },
+      {
+        "year": 2022,
+        "citations": 87
+      },
+      {
+        "year": 2023,
+        "citations": 88
+      }
+    ]
+  },
+  "co_authors": [
+    {
+      "name": "Yuliia Tarasich",
+      "link": "https://scholar.google.com/citations?user=EJeHijAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=EJeHijAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "EJeHijAAAAAJ",
+      "affiliations": "Kherson State University",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EJeHijAAAAAJ&citpid=10"
+    },
+    {
+      "name": "Michael Lvov",
+      "link": "https://scholar.google.com/citations?user=e4YSaicAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=e4YSaicAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "e4YSaicAAAAJ",
+      "affiliations": "Kherson State University",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Maksym Vinnyk",
+      "link": "https://scholar.google.com/citations?user=FZNmMI4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=FZNmMI4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "FZNmMI4AAAAJ",
+      "affiliations": "Kherson State University",
+      "email": "Verified email at ksu.ks.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FZNmMI4AAAAJ&citpid=4"
+    },
+    {
+      "name": "Юлія Носенко (Yuliya Nosenko)",
+      "link": "https://scholar.google.com/citations?user=3t5oGqAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=3t5oGqAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "3t5oGqAAAAAJ",
+      "affiliations": "Інститут інформаційних технологій і засобів навчання НАПН України",
+      "email": "Verified email at iitlt.gov.ua",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3t5oGqAAAAAJ&citpid=3"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": null
+  }
+}
